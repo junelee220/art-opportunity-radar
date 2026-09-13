@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T08:27:43+00:00",
+ "updated_at": "2026-09-13T08:30:36+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -10,7 +10,7 @@
    "source": "on-the-move",
    "region": "overseas",
    "deadline": "2026-09-30",
-   "summary": "西班牙 Fundación Ses12naus 面向视觉艺术家与策展人开放 2026–2027 驻留计划，围绕伊维萨岛语境展开研究、创作与交流。驻留分两阶段：2026 年秋实地调研，2027 年春创作与公开展示，其间有远程跟进。共选四个项目，来自巴利阿里群岛、西班牙及欧洲。提供 2100 欧元酬金、国际申请人每阶段最高 330 欧元旅费、3000 欧元制作费及岛上住宿与交通。",
+   "summary": "西班牙 Fundación Ses12naus 面向视觉艺术家与策展人开放 2026–2027 驻留计划，围绕伊维萨岛的地域、社区与自然文化遗产展开研究创作。驻留分两阶段：2026 年秋实地调研，2027 年春完成创作与公开展示，期间有远程跟进。共选四个项目，来自巴利阿里群岛、西班牙及欧洲。提供 2100 欧元酬金、每阶段最高 330 欧元国际旅费、3000 欧元制作费及岛上住宿交通。",
    "funding": {
     "fully_funded": false,
     "stipend": true,
@@ -36,7 +36,7 @@
    "source": "on-the-move",
    "region": "overseas",
    "deadline": "2026-09-13",
-   "summary": "奥地利文化协会VEIK主办的Rottal灯光艺术驻留项目，2027年5月3日至30日为期28天，面向从事灯光与媒体艺术的国际艺术家，聚焦艺术、科技、自然环境与可持续性的关系。提供旅行津贴400-800欧元、每日30欧元补助及住宿，作品有机会在Blockheide Leuchtet十周年灯光节展出。申请人须为Creative Europe成员国（奥地利除外）合法居民。",
+   "summary": "奥地利文化协会VEIK主办的Rottal灯光艺术驻留项目，2027年5月3日至30日为期28天，面向从事灯光与媒体艺术的国际艺术家。项目聚焦艺术、技术、自然环境与可持续性的关系，四位艺术家将合作创作场域特定作品，成果可能在Blockheide Leuchtet十周年灯光节展出。提供差旅津贴400-800欧元、每日30欧元补助及住宿。申请者须为Creative Europe成员国（奥地利除外）合法居",
    "funding": {
     "fully_funded": false,
     "stipend": true,
@@ -82,13 +82,13 @@
   {
    "id": "be466be60814ef61",
    "title": "[News] Matadero Madrid: Medialab Matadero Situated Research Residencies 2027",
-   "organization": "Medialab Matadero (Matadero Madrid)",
+   "organization": "Medialab Matadero",
    "country": "Spain",
    "url": "https://on-the-move.org/news/matadero-madrid-medialab-matadero-situated-research-residencies-2027",
    "source": "on-the-move",
    "region": "overseas",
    "deadline": "2026-09-27",
-   "summary": "西班牙马德里 Medialab Matadero 第五届 Situated Research 驻留计划（2027年1月至7月），公开征集3个研究创作项目，探讨当代艺术、设计、科学与技术、社会之间的关系，需对应其 LAB 1-5 主题（如合成心智、怪异未来、真相机制等）。入选项目各获1万欧元资助，用于研究、创作、差旅等；海外驻留者最多报销一次往返马德里旅费。申请人须为西班牙或欧盟成员国国籍。",
+   "summary": "西班牙马德里 Medialab Matadero 面向艺术、设计、科学、技术与社会交叉领域，征集三个研究与创作项目，参与2027年1月至7月的第五期“情境研究驻留”。项目须呼应其 LAB 1-5 主题（感知媒介、代谢崇高、合成心智、怪异未来、真相机制）。入选者各获1万欧元资助，用于研究、创作、制作、差旅等；海外驻留者最多报销一次往返马德里旅费。申请人须为西班牙或欧盟成员国国籍。",
    "funding": {
     "fully_funded": false,
     "stipend": true,
@@ -99,7 +99,7 @@
     "residency",
     "research",
     "digital_media",
-    "open_call"
+    "spatial"
    ],
    "relevance": 85,
    "priority": "HIGH",
@@ -115,7 +115,7 @@
    "source": "on-the-move",
    "region": "overseas",
    "deadline": "2026-09-20",
-   "summary": "Rose Choreographic School 位于伦敦 Sadler's Wells East，现招募第二届艺术研究 cohort（2027年4月至2029年3月），共9位艺术家。入选者获15,000英镑研究预算（按月发放津贴）、工作室空间、导师指导与制作支持。每两个月在伦敦举行8天集体会议，学校承担往返伦敦旅费及住宿费，国际申请者同样适用。无需搬迁至伦敦，但须能出席定期会议。面向英国及国际",
+   "summary": "Rose Choreographic School 位于伦敦 Sadler's Wells East，现招募第二届艺术研究 cohort（2027年4月至2029年3月），9位艺术家将获得15,000英镑研究预算（按月发放津贴）、工作室空间、导师与制作支持。每两个月在伦敦举行8天集会，学校承担旅费与住宿，含国际申请者。接受英国及国际艺术家，无需搬迁伦敦。",
    "funding": {
     "fully_funded": false,
     "stipend": true,
@@ -126,8 +126,8 @@
     "residency",
     "research"
    ],
-   "relevance": 55,
-   "priority": "LOW",
+   "relevance": 75,
+   "priority": "MAYBE",
    "first_seen": "2026-09-13",
    "ai_scored": true
   },
@@ -140,7 +140,7 @@
    "source": "on-the-move",
    "region": "overseas",
    "deadline": "2026-09-18",
-   "summary": "PERFORMNORD 2027 是首个北欧表演艺术国际平台，将于2027年9月2-12日在丹麦哥本哈根举办。现面向在北欧生活工作的北欧及国际专业表演艺术家，以及在其它国家实践的北欧艺术家征集。项目将邀请40-50位艺术家，包含现场表演、工作室展示及对话工作坊，旨在促进国际协作。主办方承担差旅、住宿、当地后勤费用并提供参与费。",
+   "summary": "PERFORMNORD 2027是首个北欧表演艺术国际平台，将于2027年9月2-12日在丹麦哥本哈根举办。现面向在北欧生活工作的北欧及国际专业表演艺术家，以及在其它国家实践的北欧艺术家征集。项目将邀请40-50位关键艺术家，包含现场表演、工作室展示及对话工作坊，旨在促进国际协作。主办方承担差旅、住宿、当地后勤费用并提供参与费。",
    "funding": {
     "fully_funded": true,
     "stipend": true,
@@ -159,13 +159,13 @@
   {
    "id": "31f1d497e98a1cbe",
    "title": "Residency open call for artists based in Italy",
-   "organization": "Gasworks",
+   "organization": "Gasworks / Fondazione Memmo",
    "country": "英国",
    "url": "https://gasworks.org.uk/",
    "source": "artconnect",
    "region": "overseas",
    "deadline": null,
-   "summary": "Gasworks 与 Fondazione Memmo 合作，面向居住在意大利的早期职业艺术家开放驻留征集。为期十一周的全额资助驻留将于 2027 年 1 月 6 日至 3 月 24 日在伦敦举行。项目支持专业发展、文化交流与艺术实验，驻留为自主引导、非规定性、以过程为导向，鼓励艺术家研究并发展新作品、接触城市并建立网络。Gasworks 提供行政、关怀与策展支持，但期望驻留者自我驱动，主导自身的",
+   "summary": "Gasworks与Fondazione Memmo合作，面向居住在意大利的早期职业艺术家开放驻留征集。为期11周的全额资助驻留将于2027年1月6日至3月24日在伦敦Gasworks举行，支持专业发展、文化交流与艺术实验。驻留为自主引导、非规定性、基于过程，提供行政、关怀与策展支持，艺术家需自主推进研究与创作。",
    "funding": {
     "fully_funded": true,
     "stipend": null,
@@ -175,7 +175,7 @@
    "categories": [
     "residency"
    ],
-   "relevance": 55,
+   "relevance": 60,
    "priority": "LOW",
    "first_seen": "2026-09-13",
    "ai_scored": true
@@ -189,7 +189,7 @@
    "source": "artconnect",
    "region": "overseas",
    "deadline": null,
-   "summary": "Art Omi: Artists 面向全球艺术家征集2027年驻留申请，地点在纽约州乡村。驻留时间为2027年6月17日至7月12日，提供私人卧室、私人工作室和每日三餐，但旅费与材料费需自理，符合条件者可申请旅费补助。每期邀请两位评论家/策展人作为驻留评论家，主持讨论并进行工作室访问，促进深度交流与专业连接。",
+   "summary": "Art Omi: Artists 面向全球艺术家征集2027年驻留申请，地点在纽约州乡村。驻留时间为2027年6月17日至7月12日，提供私人卧室、私人工作室和每日三餐，但旅费与材料费需自理，符合条件者可申请旅费补助。每期邀请两位评论家/策展人作为驻留评论家，主持讨论并进行工作室访问，促进深度创作与专业交流。",
    "funding": {
     "fully_funded": false,
     "stipend": null,
@@ -197,8 +197,7 @@
     "travel": false
    },
    "categories": [
-    "residency",
-    "open_call"
+    "residency"
    ],
    "relevance": 60,
    "priority": "LOW",
@@ -214,7 +213,7 @@
    "source": "rivet",
    "region": "overseas",
    "deadline": null,
-   "summary": "Al-Tiba9 Art Magazine 第22期公开征集艺术家作品，面向全球艺术家开放，入选作品将刊登于杂志。该机会为出版类征集，非驻留或资助项目，不提供资金、住宿或旅费支持。适合视觉艺术家、数字媒体创作者投稿，与独立出版方向相关。",
+   "summary": "Al-Tiba9 Art Magazine 第22期公开征集艺术家作品，面向全球艺术家开放，入选作品将刊登于杂志。该机会为出版类征集，非驻留或基金项目，未提及资助、住宿或旅费支持。适合视觉艺术、数字媒体及跨学科创作者投稿。",
    "funding": {
     "fully_funded": false,
     "stipend": false,
@@ -225,7 +224,7 @@
     "open_call",
     "publishing"
    ],
-   "relevance": 55,
+   "relevance": 45,
    "priority": "LOW",
    "first_seen": "2026-09-13",
    "ai_scored": true
@@ -239,7 +238,300 @@
    "source": "rivet",
    "region": "overseas",
    "deadline": null,
-   "summary": "Al-Tiba9 Art Magazine 发布公开征集，邀请艺术家参与访谈。该机会面向国际艺术家，通过杂志平台展示其创作理念与实践。具体截止日期、资助情况及驻留细节未在信息中明确。",
+   "summary": "Al-Tiba9 Art Magazine 发布艺术家访谈公开征集，面向全球艺术家征集作品与访谈机会。该机会属于杂志出版类征集，非驻留或资助项目，不提供资金、住宿或差旅支持。适合希望获得媒体曝光与出版记录的艺术家参与。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "open_call",
+    "publishing"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "e3917304f6ee5cb2",
+   "title": "Villa Romana Prize 2027",
+   "organization": "Villa Romana",
+   "country": "Germany",
+   "url": "https://www.e-flux.com/announcements/6788144/villa-romana-prize-2027",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Villa Romana 是位于德国佛罗伦萨的艺术家驻留机构，Villa Romana Prize 2027 为其面向国际视觉艺术家的驻留奖项，提供在佛罗伦萨的工作室与生活空间，通常为期数月，含月度津贴与差旅补助。具体申请截止日期与资助细节需查阅官网最新公告。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "714ba91c03869538",
+   "title": "SYMPOIESIS / OPEN CALL 2027",
+   "organization": "SYMPOIESIS",
+   "country": null,
+   "url": "https://rivet.es/calls/view/sympoiesis-open-call-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "SYMPOIESIS 发布 2027 年公开征集（OPEN CALL 2027），面向艺术家征集项目提案。该机会具体资助条件、驻留地点、截止日期及申请要求未在提供信息中明确，需查阅官方公告获取详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "f639374d092afe0d",
+   "title": "GlogauAIR Open Call for Artists・On-line Program (Oct-Dec 2026)",
+   "organization": "GlogauAIR",
+   "country": "Germany",
+   "url": "https://rivet.es/calls/view/copy-of-glogauair-open-call-for-artists-on-line-program-oct-dec-2026",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "GlogauAIR 面向艺术家开放线上项目征集，项目周期为 2026 年 10 月至 12 月。该机会为线上形式，可能涉及驻留或创作交流，具体资助、费用与截止日期未在标题中说明，需查阅官方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "digital_media"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "af1a96dec188531a",
+   "title": "Art Print Residency -Fall & Winter - Barcelona 2026 / La Maldita Estampa",
+   "organization": "La Maldita Estampa",
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/copy-of-art-print-residency-fall-winter-barcelona-2026-la-maldita-estampa_2",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "La Maldita Estampa 在巴塞罗那提供 2026 年秋季与冬季的版画艺术驻留机会，面向从事版画创作的艺术工作者。该项目聚焦传统版画技法与当代艺术实践的结合，为艺术家提供在巴塞罗那创作与交流的平台。具体资助内容、申请截止日期及费用信息未在现有资料中明确说明，建议有意申请者直接联系主办方获取详细申请要求与时间安排。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "ac6811e6dc7e455e",
+   "title": "☀️ SUMMER * $1,800.00 Innovate Grants for Art + Photo",
+   "organization": "Innovate Grant",
+   "country": null,
+   "url": "https://rivet.es/calls/view/summer-1800-00-innovate-grants-for-art-photo_2",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Innovate Grant 提供夏季艺术与摄影资助，奖金 1,800 美元，面向艺术家和摄影师开放申请。该资助旨在支持创意实践，无国籍限制，具体截止日期未在信息中明确。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "78ee195a2e4cb6d0",
+   "title": "Write Over Here: Indigenous Futurism Residency 2027",
+   "organization": "Write Over Here",
+   "country": null,
+   "url": "https://rivet.es/calls/view/write-over-here-indigenous-futurism-residency-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Write Over Here 推出的 2027 年原住民未来主义驻留计划，面向从事原住民未来主义创作的艺术工作者。该机会聚焦原住民视角下的科幻、思辨与未来叙事，可能涵盖写作、视觉艺术及跨媒介实践。目前公开信息有限，具体资助内容、申请截止日期及是否接受国际申请者尚不明确，建议关注主办方后续公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "54f7e6a65266fe5a",
+   "title": "Art Residency – DECEMBER 2026 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-copy-of-copy-of-art-residency-december-2026-colombia",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2026年12月艺术驻留机会，面向国际艺术家开放。信息未提供主办机构、资助详情及具体截止日期，需进一步查询确认申请条件与费用安排。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "2208b5875491918b",
+   "title": "Art Residency – NOVEMBER 2026 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-copy-of-copy-of-art-residency-november-2026-colombia",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2026年11月艺术驻留机会，面向国际艺术家开放。具体主办机构、资助内容、申请截止日期及驻留条件均未提供，需进一步查询详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "cdcc6e49241bf910",
+   "title": "Open Call for Al-Tiba9 Artist Directory 2027",
+   "organization": "Al-Tiba9",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-al-tiba9-art-magazine-issue22-call-for-artists_1",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Al-Tiba9 面向全球艺术家开放 2027 年艺术家名录征集，入选者将被收录于其线上艺术家目录并获得国际曝光机会。该机会属于公开征集性质，主要提供展示与推广平台，未明确说明是否包含资金支持、住宿或差旅安排。适合希望拓展国际能见度的艺术家申请。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "b65ae7c722c1ffdf",
+   "title": "Kathmandu International Artist in Residency (KIAR 2027)",
+   "organization": "Kathmandu International Artist in Residency (KIAR)",
+   "country": "Nepal",
+   "url": "https://rivet.es/calls/view/copy-of-kathmandu-international-artist-in-residency-kiar-2027-autumn",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "KIAR 2027 是位于尼泊尔加德满都的国际艺术家驻留项目，面向全球艺术家开放，提供创作空间与跨文化交流机会。具体资助细节、申请截止日期及费用安排未在标题中说明，需查阅官方信息。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 50,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "2fe22230d45704ce",
+   "title": "Art Print Residency - Winter - Barcelona 2026 / 2027 La Maldita Estampa",
+   "organization": "La Maldita Estampa",
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/art-print-residency-winter-barcelona-2026-2027-la-maldita-estampa",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "La Maldita Estampa 在巴塞罗那举办冬季版画驻留项目，面向2026/2027年。该项目聚焦艺术版画创作，为艺术家提供在巴塞罗那进行版画实践的机会。具体资助细节、申请截止日期及是否接受国际艺术家等信息未在提供内容中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "publishing"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "a321e0d775e007d8",
+   "title": "Invisible Cartographies - Open call for Neurodiverse artists",
+   "organization": "Invisible Cartographies",
+   "country": null,
+   "url": "https://rivet.es/calls/view/invisible-cartographies-open-call-for-neurodiverse-artists",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Invisible Cartographies 面向神经多样性艺术家发起公开征集，探索空间、地图与感知的另类表达。项目关注非典型认知视角下的空间实践与叙事，可能涉及制图、数字媒体或研究型创作。具体资助、驻留条件及截止日期未在标题中说明，需查阅主办方详情。",
    "funding": {
     "fully_funded": null,
     "stipend": null,
@@ -248,7 +540,31 @@
    },
    "categories": [
     "open_call",
-    "publishing"
+    "spatial"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "2ec6bcc8d769f31a",
+   "title": "Open Call — Osaka, Japan (16–19 October 2026)",
+   "organization": null,
+   "country": "Japan",
+   "url": "https://rivet.es/calls/view/open-call-osaka-japan-16-19-october-2026",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "日本大阪的公开征集活动，时间为2026年10月16日至19日。信息中未提供主办机构、资助详情、申请截止日期及具体方向，仅能确认地点与活动日期，需进一步核实详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
    ],
    "relevance": 45,
    "priority": "LOW",
