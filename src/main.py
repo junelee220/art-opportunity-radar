@@ -8,7 +8,7 @@ from pathlib import Path
 import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from analyzer import keyword_categories, keyword_stage, llm_stage, parse_deadline
+from analyzer import has_trigger, keyword_categories, keyword_stage, llm_stage, parse_deadline
 from notifier import notify
 from scraper import DATA, fetch_all, load_seen, save_seen, url_hash
 
@@ -122,8 +122,15 @@ def main() -> int:
     entries = []
     for raw in raw_items:
         score = keyword_stage(raw["text"], kw)
-        if score is None or score < th["keyword_min_score"]:
+        if score is None:
             continue
+        if score < th["keyword_min_score"]:
+            # 仅标题的短条目(e-flux flight 提取无正文)评分必然偏低,
+            # 命中 trigger 即交 LLM 兜底判定
+            if len(raw["text"]) < 150 and has_trigger(raw["text"], kw):
+                score = th["keyword_min_score"]
+            else:
+                continue
         entries.append(build_entry(raw, score, th))
     print(f"关键词初筛通过: {len(entries)} 个")
 

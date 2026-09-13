@@ -53,13 +53,19 @@ def parse_deadline(text: str) -> str | None:
     return None
 
 
+def is_blocked(text: str, kw: dict) -> bool:
+    return any(w.lower() in text.lower() for w in kw["block_words"])
+
+
+def has_trigger(text: str, kw: dict) -> bool:
+    return any(w.lower() in text.lower() for w in kw["trigger_words"])
+
+
 def keyword_stage(text: str, kw: dict):
-    """返回加权重(funding+media),未命中 trigger 或命中 block 返回 None。"""
+    """返回加权重(funding+media);命中 block 或未命中 trigger 返回 None。"""
+    if is_blocked(text, kw) or not has_trigger(text, kw):
+        return None
     t = text.lower()
-    if any(w.lower() in t for w in kw["block_words"]):
-        return None
-    if not any(w.lower() in t for w in kw["trigger_words"]):
-        return None
     score = 0
     for word, weight in kw["funding_words"].items():
         if word in t:
