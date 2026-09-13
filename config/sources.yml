@@ -43,13 +43,29 @@ sources:
     region: overseas
     tier: 1
 
+  # ---- 国内机构官网(2026-09 实测:海外 IP 可达,Actions 直接抓)----
+  - name: a4-museum
+    url: https://www.a4artmuseum.com/en/a4-residencyartcenter/residing/latest-recruitment/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+
+  - name: dunhuang-museum
+    url: https://www.dunhuangartmuseum.com/895439641007-1
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+
   # ============================================================
-  # 仍未接入(2026-09 复核):
-  # ACA artistcommunities.org — JS 渲染,无 JSON API(wp-json 404)
-  # TransArtists — 反爬(403),均待 changedetection.io(国内设备)
-  # China Residencies — 放弃:内容陈旧(目录条目止于 2021),
-  #   是机构目录站而非机会流,监控价值低
-  # RSSHub 已查无这些站点的现成路由,未来若有可直接换用
+  # 搁置(2026-09 复核,均为浏览器反爬/SPA,待 changedetection.io):
+  # 歌德学院 goethe.de — 403(Akamai 反爬,requests/webfetch 均拒)
+  # 天目里 byartmatters.com — Vue SPA,且驻留信息公众号首发
+  # ACA artistcommunities.org — JS 渲染
+  # TransArtists — 反爬(403)
+  # China Residencies — 放弃:数据陈旧,目录站非机会流
+  # RSSHub 已查无这些站点的现成路由
   # ============================================================
 
   # ============================================================

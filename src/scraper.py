@@ -158,11 +158,13 @@ EXTRACTORS = {
 
 
 def _fetch_one(source):
+    # webpage 型源的链接大头是恒定导航,上限放宽避免挤掉正文区的新链接
+    limit = 100 if source.get("type") == "webpage" else MAX_ENTRIES_PER_SOURCE
     for attempt in (1, 2):
         try:
             r = requests.get(source["url"], timeout=20, headers={"User-Agent": UA})
             r.raise_for_status()
-            return EXTRACTORS[source.get("type", "rss")](source, r.text)[:MAX_ENTRIES_PER_SOURCE]
+            return EXTRACTORS[source.get("type", "rss")](source, r.text)[:limit]
         except Exception as exc:
             if attempt == 2:
                 print(f"[scraper] {source['name']} 抓取失败: {exc}", file=sys.stderr)
