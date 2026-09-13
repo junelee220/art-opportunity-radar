@@ -23,17 +23,33 @@ sources:
     region: overseas
     tier: 1
 
+  # ---- 以下三个为逆向提取(2026-09 实测验证)----
+  - name: e-flux
+    url: https://www.e-flux.com/announcements/
+    type: eflux
+    region: overseas
+    tier: 1
+
+  - name: artconnect
+    url: https://www.artconnect.com/opportunities/residencies
+    type: artconnect
+    region: overseas
+    tier: 1
+
+  - name: rivet
+    url: https://rivet.es/calls/
+    type: webpage
+    link_pattern: /calls/view/
+    region: overseas
+    tier: 1
+
   # ============================================================
-  # 以下站点经核查无可用 RSS(2026-09 验证:404/403/超时)
-  # Phase 2 用 changedetection.io 监控其列表页(可跑在国内
-  # 设备的 cn-node 上,也可自建)。监控目标 URL 备忘:
-  #
-  # e-flux          https://www.e-flux.com/announcements/
-  # transartists    https://www.transartists.org/opportunities
-  # artconnect      https://www.artconnect.com/opportunities/residencies
-  # ACA             https://artistcommunities.org/
-  # rivet           https://rivet.es
-  # chinaresidencies https://www.chinaresidencies.com/
+  # 仍未接入(2026-09 复核):
+  # ACA artistcommunities.org — JS 渲染,无 JSON API(wp-json 404)
+  # TransArtists — 反爬(403),均待 changedetection.io(国内设备)
+  # China Residencies — 放弃:内容陈旧(目录条目止于 2021),
+  #   是机构目录站而非机会流,监控价值低
+  # RSSHub 已查无这些站点的现成路由,未来若有可直接换用
   # ============================================================
 
   # ============================================================

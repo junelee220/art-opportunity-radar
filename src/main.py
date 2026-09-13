@@ -63,7 +63,7 @@ def archive_expired(db: dict) -> dict:
 def build_entry(raw: dict, score: int, th: dict) -> dict:
     relevance = min(100, score * 10)
     return {
-        "id": url_hash(raw["url"])[:16],
+        "id": url_hash(raw.get("id_key") or raw["url"])[:16],
         "title": raw["title"][:200] or "(无标题)",
         "organization": None,
         "country": None,
