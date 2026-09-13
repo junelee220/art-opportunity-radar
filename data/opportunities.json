@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T08:30:36+00:00",
+ "updated_at": "2026-09-13T08:49:21+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -567,6 +567,222 @@
     "open_call"
    ],
    "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "ed74733066284bb6",
+   "title": "A4 Residency",
+   "organization": "A4 Residency",
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "A4 Residency 是一个艺术驻留机会，但提供的信息极为有限，仅包含名称，缺少主办机构所在地、申请截止日期、资助条件、项目方向等关键细节。无法确认其是否接受国际艺术家、是否提供资金支持或住宿差旅。建议访问其官方网站或联系主办方获取完整的申请指南与资格要求后再做判断。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "d7893cdf34b5a221",
+   "title": "About Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/about-residency/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“About Residency”标题，未提供主办机构、国家、截止日期、资助情况或具体项目内容，无法判断其真实性及与独立出版、媒体考古、数字人文、开源硬件或空间实践的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "3aa1f0024910d5b6",
+   "title": "Latest Residency Artists",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residing/selected-artists/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅显示“Latest Residency Artists”标题，未提供主办机构、国家、截止日期、资助情况或项目描述等具体内容，无法判断其是否为真实的驻留机会，也无法评估其与独立出版、媒体考古、数字人文、开源硬件或空间实践等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "52d3ed8fc5cdeef4",
+   "title": "Residency Archive",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residency-archive/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Residency Archive”，缺乏主办机构、国家、截止日期、资助条件及项目描述等关键内容，无法判断其是否为真实有效的驻留机会，也无法评估其与独立出版、媒体考古、数字人文、开源硬件或空间实践的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "31c9bc73b342e3fb",
+   "title": "Past Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residency-archive/past-residency/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“Past Residency”字样，未提供主办机构、国家、截止日期、资助情况或具体项目描述，无法判断其真实性与方向匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "6af05a922ca035d9",
+   "title": "Residency Events",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residency-archive/annual-event/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Residency Events”，缺乏主办机构、国家、截止日期、资助情况与具体内容，无法判断是否为真实驻留机会或与独立出版、媒体考古、数字人文、开源硬件、空间实践等方向相关。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "11b57782b44a73f2",
+   "title": "International Artist Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://www.dunhuangartmuseum.com/895439641007-1",
+   "source": "dunhuang-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提供“International Artist Residency”这一通用名称，未包含主办机构、国家、截止日期、资助条件或申请要求等任何具体细节，无法确认是否为真实有效的驻留机会，也无法判断其与独立出版、媒体考古、数字人文、开源硬件或空间实践等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "5f14ae020f9913ec",
+   "title": "International Artist Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://www.dunhuangartmuseum.com/international-artist-residency",
+   "source": "dunhuang-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提供“International Artist Residency”这一通用名称，未包含主办机构、国家、截止日期、资助条件或申请要求等任何具体细节，无法确认是否为真实有效的驻留机会，也无法评估其与独立出版、媒体考古、数字人文、开源硬件或空间实践等方向的匹配度。建议获取完整项目说明后再行判断。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "40d6d701e6a8f2f3",
+   "title": "国际艺术驻地",
+   "organization": null,
+   "country": null,
+   "url": "https://www.dunhuangartmuseum.com/895439641007",
+   "source": "dunhuang-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅标注为“国际艺术驻地”，未提供主办机构、国家、截止日期、资助条件或申请要求等具体内容，无法确认是否为真实有效的驻留机会，也无法判断其资助范围与方向匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-09-13",
    "ai_scored": true
