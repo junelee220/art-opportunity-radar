@@ -10,7 +10,7 @@
 海外源(RSS/Atom,~35 个)
         │
         ▼
-GitHub Actions(每 30 分钟,cron 调度)
+GitHub Actions(每 5 天,cron 调度)
         │
         ▼
 Python 管道:抓取 → URL 去重 → 关键词矩阵初筛 → 云端 LLM 结构化打分
@@ -98,7 +98,7 @@ python -m http.server -d frontend 8080 # 本地预览雷达页
 
 **定时任务会停吗?** 仓库 60 天无任何活动时 GitHub 自动禁用 scheduled workflow。本系统每次有新数据都会自动 commit,正常运行不会触发;若长期停摆,去 Actions 页面手动 Enable。
 
-**多久能收到通知?** cron 每 30 分钟,高峰期 GitHub 调度有延迟(官方文档说明),现实时效 15–60 分钟级。艺术驻留申请窗口通常以天/周计,足够。
+**多久能收到通知?** cron 每 5 天跑一次(每月 1/6/11/16/21/26 号,UTC 03:00;标准 cron 无法跨月精确计 5 天,月末到月初间隔会浮动 3–6 天),GitHub 高峰期调度另有小时级延迟。注意:临近截止(<5 天)的机会可能来不及发现,赶 deadline 的话建议调回更高频率。
 
 **怎么加信息源?** 编辑 `config/sources.yml`,加一条 name/url/type/region/tier 即可,下次运行自动生效。国内源加 `region: cn`。
 

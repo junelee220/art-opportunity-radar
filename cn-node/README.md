@@ -97,9 +97,9 @@ docker compose up -d
 ## 第五步:加入 crontab
 
 ```bash
-crontab -e
-# 加入这一行(每 30 分钟):
-*/30 * * * * ~/art-opportunity-radar/cn-node/run_cron.sh
+   crontab -e
+   # 加入这一行(每 5 天:每月 1/6/11/16/21/26 号 11:00,月末到月初间隔 3–6 天浮动):
+   0 11 1,6,11,16,21,26 * * ~/art-opportunity-radar/cn-node/run_cron.sh
 ```
 
 ## 日常维护
