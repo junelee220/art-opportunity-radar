@@ -2,7 +2,7 @@ name: radar
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 3 1,6,11,16,21,26 * *"
   workflow_dispatch:
 
 permissions:
