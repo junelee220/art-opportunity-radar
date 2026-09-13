@@ -1,0 +1,83 @@
+{
+ "updated_at": "2026-09-13T02:36:53+00:00",
+ "items": [
+  {
+   "id": "bc2e30b0ad5137bb",
+   "title": "[News] Ses12naus: Visual Arts Residency 2026–2027 (Spain)",
+   "organization": "Fundación Ses12naus",
+   "country": "Spain",
+   "url": "https://on-the-move.org/news/ses12naus-visual-arts-residency-2026-2027-spain",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-30",
+   "summary": "西班牙 Fundación Ses12naus 面向视觉艺术家与策展人开放 2026–2027 驻留征集，聚焦与伊比萨岛语境对话的项目。驻留分两阶段：2026 年秋实地调研，2027 年春创作与公开展示，其间远程跟进。提供 2100 欧元酬金、每阶段最高 330 欧元国际旅费、3000 欧元制作预算及岛上住宿与交通。共选四个项目，面向巴利阿里群岛、西班牙及欧洲申请者。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "research"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "a067183958d8a8d8",
+   "title": "[News] VEIK: Light Art Residency Rottal Spring 2027 (Austria)",
+   "organization": "Cultural Association VEIK",
+   "country": "Austria",
+   "url": "https://on-the-move.org/news/veik-light-art-residency-rottal-spring-2027-austria",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-13",
+   "summary": "奥地利文化协会VEIK主办的Rottal春季2027灯光艺术驻留，面向国际艺术家，聚焦光与媒体艺术、技术与自然环境的跨学科研究。2027年5月3日至30日共28天，四位国际艺术家参与，围绕场地创作作品，可能于2027年8月Blockheide Leuchtet十周年节展出。提供400-800欧元旅费、每日30欧元津贴、住宿及可持续旅行等补贴。申请者须为Creative Europe成员国（奥地利除",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "digital_media",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "b6516e0dd5008f2c",
+   "title": "[News] Northern European Mobility Opportunity Grant 2026 for Artists in the Nordic Countries, the UK and Ireland",
+   "organization": "Nordic Culture Fund",
+   "country": "Nordic countries, UK, Ireland",
+   "url": "https://on-the-move.org/news/northern-european-mobility-opportunity-grant-2026-artists-nordic-countries-uk-and-ireland",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-18",
+   "summary": "NEMO（Northern European Mobility Opportunity）是由北欧文化基金及爱尔兰、英格兰、北爱尔兰、苏格兰和威尔士艺术资助机构支持的流动性与艺术交流项目，面向职业生涯早期的个人艺术家与艺术从业者。北欧国家（丹麦、法罗群岛、芬兰、格陵兰、冰岛、挪威、瑞典、奥兰群岛）以及英国和爱尔兰的艺术家可申请，用于在对方地区建立合作或伙伴关系。资助金额最高75,000丹麦克朗，可用",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "grant",
+    "research"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  }
+ ]
+}
