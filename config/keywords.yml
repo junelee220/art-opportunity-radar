@@ -13,10 +13,7 @@ trigger_words:
   - call for applications
   - call for proposals
   - submissions open
-  - artist residency
-  - artist-in-residence
-  - residency
-  - residence
+  - residenc
   - fellowship
   - grant
   - funding
@@ -25,6 +22,13 @@ trigger_words:
   - scholarship
   - commission
   - research opportunity
+  # 等价表达(首轮实测:accepting/inviting 变体导致漏报)
+  - accepting applications
+  - applications open
+  - applications are open
+  - inviting artists
+  - seeking applications
+  - apply by
   - 驻留
   - 驻留招募
   - 艺术家驻留
@@ -57,6 +61,11 @@ funding_words:
   no application fee: 1
   workspace: 1
   studio provided: 2
+  # 资金表达变体(首轮实测:financial allowance / research budget 失配漏报)
+  allowance: 2
+  budget: 1
+  salary: 1
+  lodging: 2
   # 中文
   全额资助: 3
   创作津贴: 2
@@ -120,6 +129,8 @@ media_words:
   digital art: 1
   creative technology: 1
   electronic art: 1
+  transdisciplinary: 2
+  interdisciplinary: 1
 
 # --- 排雷词:命中即丢弃(自费/付费陷阱/身份硬限制) ---
 # 注意:不要加裸词 "application fee"——会把 "no application fee" 也误杀

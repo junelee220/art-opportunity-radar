@@ -179,7 +179,9 @@
     .dl-red { color: var(--red); }
     .dl-orange { color: var(--orange); }
     .dl-yellow { color: var(--yellow); }
-    .dl-green { color: var(--green); }
+        .dl-green { color: var(--green); }
+        .dl-expired { color: #6e7681; }
+        .card.expired { opacity: 0.55; }
 
     .meta {
       font-size: 13px;
@@ -368,12 +370,20 @@
         return matchCat && matchReg && matchSearch;
       });
 
-      // Sort by deadline ascending (nulls last)
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      // Sort: 未过期按 deadline 升序 → 无截止 → 已过期沉底
       filtered.sort((a, b) => {
-        if (!a.deadline && !b.deadline) return 0;
-        if (!a.deadline) return 1;
-        if (!b.deadline) return -1;
-        return new Date(a.deadline) - new Date(b.deadline);
+        const aD = a.deadline ? new Date(a.deadline) : null;
+        const bD = b.deadline ? new Date(b.deadline) : null;
+        const aExpired = aD && aD < today;
+        const bExpired = bD && bD < today;
+        if (aExpired !== bExpired) return aExpired ? 1 : -1;
+        if (!aD && !bD) return 0;
+        if (!aD) return 1;
+        if (!bD) return -1;
+        return aD - bD;
       });
 
       document.getElementById('item-count').textContent = `共 ${filtered.length} 个机会`;
@@ -383,22 +393,23 @@
         return;
       }
 
-      const today = new Date();
-      today.setHours(0, 0, 0, 0);
-
       grid.innerHTML = filtered.map(item => {
-        // Deadline logic
+        let isExpired = false;
         let deadlineHtml = '';
         if (item.deadline) {
           const dDate = new Date(item.deadline);
           const diffDays = Math.ceil((dDate - today) / 86400000);
-          
-          let colorClass = 'dl-green';
-          if (diffDays < 7) colorClass = 'dl-red';
-          else if (diffDays < 14) colorClass = 'dl-orange';
-          else if (diffDays < 30) colorClass = 'dl-yellow';
-          
-          deadlineHtml = `<span class="deadline ${colorClass}">距截止 ${diffDays} 天</span>`;
+
+          if (diffDays <= 0) {
+            isExpired = true;
+            deadlineHtml = `<span class="deadline dl-expired">已截止</span>`;
+          } else {
+            let colorClass = 'dl-green';
+            if (diffDays < 7) colorClass = 'dl-red';
+            else if (diffDays < 14) colorClass = 'dl-orange';
+            else if (diffDays < 30) colorClass = 'dl-yellow';
+            deadlineHtml = `<span class="deadline ${colorClass}">距截止 ${diffDays} 天</span>`;
+          }
         } else {
           deadlineHtml = `<span class="deadline dl-green">无截止日期</span>`;
         }
@@ -419,7 +430,7 @@
         const prioClass = item.priority === 'HIGH' ? 'prio-high' : (item.priority === 'MAYBE' ? 'prio-maybe' : '');
 
         return `
-          <div class="card ${prioClass}">
+          <div class="card ${prioClass}${isExpired ? ' expired' : ''}">
             <div class="card-header">
               <a href="${esc(item.url)}" target="_blank" class="title">${esc(item.title)}</a>
               ${deadlineHtml}
