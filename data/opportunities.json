@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T08:11:41+00:00",
+ "updated_at": "2026-09-13T08:27:43+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -152,6 +152,105 @@
     "residency"
    ],
    "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "31f1d497e98a1cbe",
+   "title": "Residency open call for artists based in Italy",
+   "organization": "Gasworks",
+   "country": "英国",
+   "url": "https://gasworks.org.uk/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Gasworks 与 Fondazione Memmo 合作，面向居住在意大利的早期职业艺术家开放驻留征集。为期十一周的全额资助驻留将于 2027 年 1 月 6 日至 3 月 24 日在伦敦举行。项目支持专业发展、文化交流与艺术实验，驻留为自主引导、非规定性、以过程为导向，鼓励艺术家研究并发展新作品、接触城市并建立网络。Gasworks 提供行政、关怀与策展支持，但期望驻留者自我驱动，主导自身的",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "25539b776e7d58d6",
+   "title": "Open Call 2027",
+   "organization": "Art Omi: Artists",
+   "country": "United States",
+   "url": "https://apply.albeefoundation.org/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Art Omi: Artists 面向全球艺术家征集2027年驻留申请，地点在纽约州乡村。驻留时间为2027年6月17日至7月12日，提供私人卧室、私人工作室和每日三餐，但旅费与材料费需自理，符合条件者可申请旅费补助。每期邀请两位评论家/策展人作为驻留评论家，主持讨论并进行工作室访问，促进深度交流与专业连接。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": true,
+    "travel": false
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "b502b2adb65a23a1",
+   "title": "Al-Tiba9 Art Magazine Issue22 | Call For Artists",
+   "organization": "Al-Tiba9 Art Magazine",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-al-tiba9-art-magazine-issue22-call-for-artists_2",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Al-Tiba9 Art Magazine 第22期公开征集艺术家作品，面向全球艺术家开放，入选作品将刊登于杂志。该机会为出版类征集，非驻留或资助项目，不提供资金、住宿或旅费支持。适合视觉艺术家、数字媒体创作者投稿，与独立出版方向相关。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "open_call",
+    "publishing"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "99310ecdff75e2da",
+   "title": "OPEN CALL - Interview with Al-Tiba9 Art Magazine",
+   "organization": "Al-Tiba9 Art Magazine",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-open-call-interview-with-al-tiba9-art-magazine_2",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Al-Tiba9 Art Magazine 发布公开征集，邀请艺术家参与访谈。该机会面向国际艺术家，通过杂志平台展示其创作理念与实践。具体截止日期、资助情况及驻留细节未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "publishing"
+   ],
+   "relevance": 45,
    "priority": "LOW",
    "first_seen": "2026-09-13",
    "ai_scored": true
