@@ -1,0 +1,30 @@
+services:
+  # WeWe RSS:把微信公众号转成标准 RSS feed
+  # 部署后访问 http://<本机IP>:4000,扫码登录微信,
+  # 为每个公众号生成 feed,把地址填进 config/sources.yml(region: cn)
+  wewe-rss:
+    image: cooderl/wewe-rss:latest
+    container_name: wewe-rss
+    ports:
+      - "4000:4000"
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - wewe-data:/app/data
+    restart: unless-stopped
+
+  # changedetection.io:监控国内机构官网的 open call 页面变动
+  # 部署后访问 http://<本机IP>:5000,逐个添加要监控的页面,
+  # 用 CSS 选择器锁定列表区域,通知方式选 Telegram(填 bot token / chat id)
+  changedetection:
+    image: ghcr.io/dgtlmoon/changedetection.io:latest
+    container_name: changedetection
+    ports:
+      - "5000:5000"
+    volumes:
+      - cd-data:/datastore
+    restart: unless-stopped
+
+volumes:
+  wewe-data:
+  cd-data:

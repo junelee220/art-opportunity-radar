@@ -1,0 +1,152 @@
+# ============================================================
+# 艺术机会雷达 - 关键词矩阵
+# 合并自 GPT 六组关键词体系 + Gemini 触发/排雷词矩阵
+# 匹配规则:不区分大小写的子串匹配
+# 流程:trigger_words 命中任一 → 进入打分(funding + media 加权)
+#       → block_words 命中任一 → 直接丢弃
+# ============================================================
+
+# --- 触发词:判断"这是一个机会"而非新闻/展览报道 ---
+trigger_words:
+  - open call
+  - call for artists
+  - call for applications
+  - call for proposals
+  - submissions open
+  - artist residency
+  - artist-in-residence
+  - residency
+  - residence
+  - fellowship
+  - grant
+  - funding
+  - award
+  - prize
+  - scholarship
+  - commission
+  - research opportunity
+  - 驻留
+  - 驻留招募
+  - 艺术家驻留
+  - 艺术家驻地
+  - 开放申请
+  - 公开征集
+  - 公开招募
+  - 招募
+  - 征集
+  - 资助申请
+  - 申请指南
+  - 截止日期
+
+# --- 资金词:判断"值不值得申请"(权重) ---
+funding_words:
+  # 英文
+  fully funded: 3
+  stipend: 2
+  artist fee: 2
+  production budget: 2
+  production grant: 2
+  travel grant: 2
+  travel support: 2
+  travel expenses: 2
+  accommodation: 2
+  living allowance: 2
+  per diem: 1
+  visa support: 1
+  non-restrictive: 2
+  no application fee: 1
+  workspace: 1
+  studio provided: 2
+  # 中文
+  全额资助: 3
+  创作津贴: 2
+  制作费: 2
+  差旅: 1
+  提供住宿: 2
+  生活补贴: 2
+  免申请费: 1
+
+# --- 媒介方向词:匹配你的创作脉络(权重) ---
+# 方向一:独立出版 / 小志 / 图像叙事
+media_words:
+  zine: 3
+  artist book: 3
+  artist's book: 3
+  risograph: 3
+  independent publishing: 3
+  self-publishing: 2
+  graphic novel: 2
+  graphic narrative: 2
+  comics: 2
+  printmaking: 2
+  screenprint: 2
+  小志: 3
+  独立出版: 3
+  艺术书: 3
+  版画: 2
+  图像叙事: 2
+  # 方向二:媒体考古 / 数字人文 / 开源硬件
+  media archaeology: 3
+  digital humanities: 3
+  open source hardware: 3
+  open hardware: 3
+  creative computing: 2
+  critical technology: 2
+  tactical media: 2
+  diy electronics: 2
+  floss: 2
+  software art: 2
+  媒体考古: 3
+  数字人文: 3
+  开源硬件: 3
+  实验媒体: 2
+  # 方向三:空间实践 / 公共空间 / 在地调研
+  site-specific: 2
+  public space: 2
+  spatial practice: 3
+  spatial politics: 3
+  urban intervention: 2
+  fieldwork: 2
+  artistic research: 2
+  community-engaged: 2
+  空间实践: 3
+  公共空间: 2
+  田野调查: 2
+  社会介入: 2
+  在地调研: 2
+  # 泛数字媒体(兼容词)
+  new media: 1
+  media art: 1
+  digital art: 1
+  creative technology: 1
+  electronic art: 1
+
+# --- 排雷词:命中即丢弃(自费/付费陷阱/身份硬限制) ---
+# 注意:不要加裸词 "application fee"——会把 "no application fee" 也误杀
+block_words:
+  - self-funded
+  - self funded
+  - tuition
+  - program fee required
+  - artist pays
+  - entry fee
+  - competition entry fee
+  - vanity gallery
+  - us citizens only
+  - eu residents only
+  - undergraduate students only
+  - 自费
+  - 学费
+  - 参展费
+  - 收取管理费
+  - 仅限在校生
+  - 限当地户籍
+
+# --- 阈值 ---
+thresholds:
+  # 关键词阶段最低分(funding + media 加权和),低于此值不进入 AI 判读
+  keyword_min_score: 2
+  # AI 相关度 >= 此值才发 Telegram 通知
+  ai_relevance_notify: 75
+  # AI 相关度 >= 此值标记为 HIGH 优先级
+  ai_priority_high: 85

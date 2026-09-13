@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>艺术机会雷达 ART OPPORTUNITY RADAR</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #c9d1d9;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --red: #f85149;
+      --orange: #d29922;
+      --yellow: #e3b341;
+      --green: #2ea043;
+      --prio-high: rgba(248, 81, 73, 0.15);
+      --prio-high-border: rgba(248, 81, 73, 0.4);
+      --prio-maybe: rgba(210, 153, 34, 0.1);
+      --prio-maybe-border: rgba(210, 153, 34, 0.3);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      margin: 0;
+      padding: 20px;
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    header {
+      margin-bottom: 30px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 24px;
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
+
+    .subtitle {
+      color: var(--text-muted);
+      font-size: 14px;
+      display: flex;
+      gap: 16px;
+      align-items: center;
+    }
+
+    .controls {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin-bottom: 30px;
+    }
+
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .filter-label {
+      color: var(--text-muted);
+      font-size: 13px;
+      margin-right: 8px;
+    }
+
+    .filter-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 4px 12px;
+      border-radius: 100px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-btn:hover {
+      border-color: var(--text-muted);
+    }
+
+    .filter-btn.active {
+      background: var(--text);
+      color: var(--bg);
+      border-color: var(--text);
+    }
+
+    .search-input {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 14px;
+      width: 100%;
+      max-width: 400px;
+      outline: none;
+    }
+
+    .search-input:focus {
+      border-color: var(--accent);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+    }
+
+    .card.prio-high {
+      background: linear-gradient(to bottom right, var(--prio-high), transparent 40%);
+      border-color: var(--prio-high-border);
+    }
+
+    .card.prio-maybe {
+      background: linear-gradient(to bottom right, var(--prio-maybe), transparent 40%);
+      border-color: var(--prio-maybe-border);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .title {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+
+    .title:hover {
+      text-decoration: underline;
+    }
+
+    .deadline {
+      font-size: 12px;
+      padding: 2px 8px;
+      border-radius: 100px;
+      white-space: nowrap;
+      font-weight: 500;
+      border: 1px solid currentColor;
+    }
+
+    .dl-red { color: var(--red); }
+    .dl-orange { color: var(--orange); }
+    .dl-yellow { color: var(--yellow); }
+    .dl-green { color: var(--green); }
+
+    .meta {
+      font-size: 13px;
+      color: var(--text-muted);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .dot { opacity: 0.5; }
+
+    .summary {
+      font-size: 14px;
+      color: var(--text);
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      flex-grow: 1;
+    }
+
+    .chips-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .chip {
+      font-size: 12px;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+    }
+
+    .funding-chip {
+      background: rgba(46, 160, 67, 0.1);
+      border-color: rgba(46, 160, 67, 0.2);
+      color: #7ee787;
+    }
+
+    .rel-chip {
+      background: rgba(88, 166, 255, 0.1);
+      border-color: rgba(88, 166, 255, 0.2);
+      color: var(--accent);
+    }
+
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      background: var(--surface);
+      border: 1px dashed var(--border);
+      border-radius: 8px;
+    }
+
+    @media (max-width: 600px) {
+      .grid { grid-template-columns: 1fr; }
+      .controls { gap: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>艺术机会雷达 ART OPPORTUNITY RADAR</h1>
+      <div class="subtitle">
+        <span id="update-time">数据更新于 ...</span>
+        <span id="item-count">共 0 个机会</span>
+      </div>
+    </header>
+
+    <div class="controls">
+      <input type="text" id="search" class="search-input" placeholder="搜索标题、机构或简介...">
+      
+      <div class="filter-group" id="cat-filters">
+        <span class="filter-label">类别</span>
+      </div>
+
+      <div class="filter-group" id="region-filters">
+        <span class="filter-label">地区</span>
+      </div>
+    </div>
+
+    <div class="grid" id="grid">
+    </div>
+  </div>
+
+  <script>
+    const state = {
+      data: null,
+      items: [],
+      category: '全部',
+      region: '全部',
+      search: ''
+    };
+
+    const CATEGORIES = ['全部', 'Residency', 'Grant', 'Open Call', 'Publishing', 'Digital·Media', 'Research', 'Spatial'];
+    const REGIONS = ['全部', '海外', '国内'];
+
+    // Utility: Escape HTML to prevent XSS
+    const esc = (str) => {
+      if (str == null) return '';
+      return String(str).replace(/[&<>"']/g, m => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+      })[m]);
+    };
+
+    async function init() {
+      renderFilters();
+      setupListeners();
+      
+      try {
+        let res = await fetch('data/opportunities.json');
+        if (!res.ok) throw new Error('Primary fetch failed');
+        state.data = await res.json();
+      } catch (e) {
+        try {
+          let res = await fetch('../data/opportunities.json');
+          if (!res.ok) throw new Error('Fallback fetch failed');
+          state.data = await res.json();
+        } catch (e2) {
+          state.data = null;
+        }
+      }
+
+      if (state.data && state.data.items) {
+        state.items = state.data.items;
+        
+        // Format update time
+        if (state.data.updated_at) {
+          const d = new Date(state.data.updated_at);
+          document.getElementById('update-time').textContent = `数据更新于 ${d.toLocaleString('zh-CN')}`;
+        }
+      }
+
+      render();
+    }
+
+    function renderFilters() {
+      const catContainer = document.getElementById('cat-filters');
+      catContainer.innerHTML = '<span class="filter-label">类别</span>' + CATEGORIES.map(c => 
+        `<button class="filter-btn ${c === state.category ? 'active' : ''}" data-type="category" data-val="${c}">${c}</button>`
+      ).join('');
+
+      const regContainer = document.getElementById('region-filters');
+      regContainer.innerHTML = '<span class="filter-label">地区</span>' + REGIONS.map(r => 
+        `<button class="filter-btn ${r === state.region ? 'active' : ''}" data-type="region" data-val="${r}">${r}</button>`
+      ).join('');
+    }
+
+    function setupListeners() {
+      document.getElementById('search').addEventListener('input', (e) => {
+        state.search = e.target.value.toLowerCase();
+        render();
+      });
+
+      document.addEventListener('click', (e) => {
+        if (e.target.classList.contains('filter-btn')) {
+          const type = e.target.getAttribute('data-type');
+          const val = e.target.getAttribute('data-val');
+          state[type] = val;
+          renderFilters();
+          render();
+        }
+      });
+    }
+
+    function render() {
+      const grid = document.getElementById('grid');
+      
+      if (!state.items || state.items.length === 0) {
+        grid.innerHTML = '<div class="empty-state">暂无数据,雷达尚未运行</div>';
+        document.getElementById('item-count').textContent = `共 0 个机会`;
+        return;
+      }
+
+      // Filter
+      let filtered = state.items.filter(item => {
+        const matchCat = state.category === '全部' || (item.categories && item.categories.includes(state.category));
+        const matchReg = state.region === '全部' || item.region === state.region;
+        const searchStr = `${item.title} ${item.organization} ${item.summary}`.toLowerCase();
+        const matchSearch = !state.search || searchStr.includes(state.search);
+        return matchCat && matchReg && matchSearch;
+      });
+
+      // Sort by deadline ascending (nulls last)
+      filtered.sort((a, b) => {
+        if (!a.deadline && !b.deadline) return 0;
+        if (!a.deadline) return 1;
+        if (!b.deadline) return -1;
+        return new Date(a.deadline) - new Date(b.deadline);
+      });
+
+      document.getElementById('item-count').textContent = `共 ${filtered.length} 个机会`;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = '<div class="empty-state">没有找到匹配的机会</div>';
+        return;
+      }
+
+      const today = new Date();
+      today.setHours(0, 0, 0, 0);
+
+      grid.innerHTML = filtered.map(item => {
+        // Deadline logic
+        let deadlineHtml = '';
+        if (item.deadline) {
+          const dDate = new Date(item.deadline);
+          const diffDays = Math.ceil((dDate - today) / 86400000);
+          
+          let colorClass = 'dl-green';
+          if (diffDays < 7) colorClass = 'dl-red';
+          else if (diffDays < 14) colorClass = 'dl-orange';
+          else if (diffDays < 30) colorClass = 'dl-yellow';
+          
+          deadlineHtml = `<span class="deadline ${colorClass}">距截止 ${diffDays} 天</span>`;
+        } else {
+          deadlineHtml = `<span class="deadline dl-green">无截止日期</span>`;
+        }
+
+        // Funding chips
+        const f = item.funding || {};
+        const fundingChips = [
+          f.fully_funded ? '💰 fully funded' : '',
+          f.accommodation ? '🛏 accommodation' : '',
+          f.travel ? '✈️ travel' : '',
+          f.stipend ? '🎫 stipend' : ''
+        ].filter(Boolean).map(t => `<span class="chip funding-chip">${esc(t)}</span>`).join('');
+
+        // Category chips
+        const cats = (item.categories || []).map(c => `<span class="chip">${esc(c)}</span>`).join('');
+
+        // Priority class
+        const prioClass = item.priority === 'HIGH' ? 'prio-high' : (item.priority === 'MAYBE' ? 'prio-maybe' : '');
+
+        return `
+          <div class="card ${prioClass}">
+            <div class="card-header">
+              <a href="${esc(item.url)}" target="_blank" class="title">${esc(item.title)}</a>
+              ${deadlineHtml}
+            </div>
+            <div class="meta">
+              <span class="org">${esc(item.organization)}</span>
+              <span class="dot">•</span>
+              <span class="country">${esc(item.country)}</span>
+              <span class="dot">•</span>
+              <span class="source">${esc(item.source)}</span>
+            </div>
+            <div class="summary">${esc(item.summary)}</div>
+            <div class="chips-row">
+              ${fundingChips}
+            </div>
+            <div class="chips-row">
+              ${cats}
+              ${item.relevance ? `<span class="chip rel-chip">相关度 ${esc(item.relevance)}</span>` : ''}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Start
+    init();
+  </script>
+</body>
+</html>

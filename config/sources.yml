@@ -1,0 +1,51 @@
+# ============================================================
+# 信息源清单:加源只改这里,下次运行自动生效
+# region: overseas = GitHub Actions 抓取 / cn = 国内设备抓取
+# tier: 1 = 聚合器(高频) 2 = 机构页 3 = 基金
+# ============================================================
+sources:
+  # ---- 以下三个 feed 已逐一验证可用(2026-09) ----
+  - name: on-the-move
+    url: https://on-the-move.org/feed/
+    type: rss
+    region: overseas
+    tier: 1
+
+  - name: res-artis
+    url: https://resartis.org/feed/
+    type: rss
+    region: overseas
+    tier: 1
+
+  - name: curating-info
+    url: https://curating.org/feed
+    type: rss
+    region: overseas
+    tier: 1
+
+  # ============================================================
+  # 以下站点经核查无可用 RSS(2026-09 验证:404/403/超时)
+  # Phase 2 用 changedetection.io 监控其列表页(可跑在国内
+  # 设备的 cn-node 上,也可自建)。监控目标 URL 备忘:
+  #
+  # e-flux          https://www.e-flux.com/announcements/
+  # transartists    https://www.transartists.org/opportunities
+  # artconnect      https://www.artconnect.com/opportunities/residencies
+  # ACA             https://artistcommunities.org/
+  # rivet           https://rivet.es
+  # chinaresidencies https://www.chinaresidencies.com/
+  # ============================================================
+
+  # ============================================================
+  # 国内源:在 cn-node 部署 WeWe RSS 后,把生成的 feed 地址
+  # 填到这里并取消注释(region 必须是 cn)。示例:
+  #
+  # - name: byartmatters-wechat
+  #   url: http://192.168.x.x:4000/feeds/xxxx.xml
+  #   type: rss
+  #   region: cn
+  #   tier: 1
+  #
+  # 建议接入:天目里美术馆 / 成都A4美术馆 / 广东时代美术馆 /
+  # PSA / 黄边站 / 敦煌当代美术馆 / 歌德学院中国(公众号)
+  # ============================================================
