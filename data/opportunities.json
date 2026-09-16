@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-13T13:25:50+00:00",
+ "updated_at": "2026-09-16T08:08:59+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -785,6 +785,251 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-09-13",
+   "ai_scored": true
+  },
+  {
+   "id": "6209aa21d5f940ab",
+   "title": "[News] Delfina Foundation: Residency for Visual Artists from Portugal and Portuguese-speaking African Nations 2027 (UK)",
+   "organization": "Delfina Foundation",
+   "country": "UK",
+   "url": "https://on-the-move.org/news/delfina-foundation-residency-visual-artists-portugal-and-portuguese-speaking-african-nations",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-04",
+   "summary": "伦敦 Delfina 基金会与 Calouste Gulbenkian 基金会合作，面向葡萄牙及葡语非洲国家（安哥拉、莫桑比克、几内亚比绍、佛得角、圣多美和普林西比）的当代视觉艺术家征集驻留申请。驻留为期12周，2027年6月28日至9月17日，全额资助，含往返机票、每日40英镑生活津贴、1200英镑材料费、伦敦交通卡及单人卧室。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "0cc68f3d7b281de4",
+   "title": "[News] HBK Braunschweig: 2027–2028 Curatorial Fellowship (Germany)",
+   "organization": "HBK Braunschweig",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/hbk-braunschweig-2027-2028-curatorial-fellowship-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-04",
+   "summary": "德国布伦瑞克造型艺术学院（HBK Braunschweig）面向策展人开放2027–2028策展奖学金申请，为期12个月。获奖者需为Braunschweig Projects 2027/2028项目策划并实现最终展览，并可与下萨克森州的博物馆、收藏或科研文化机构合作开展策展项目。要求至少3年策展经验，需在布伦瑞克驻留至少8个月并参加2027年4月19–30日的欢迎周。资助含每月1600欧元津贴、免",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "grant",
+    "research"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "67617a7d3fc60bfb",
+   "title": "[News] HBK Braunschweig: Braunschweig Projects Residency Programme 2027–28 (Germany)",
+   "organization": "HBK Braunschweig",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/hbk-braunschweig-braunschweig-projects-residency-programme-2027-28-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-04",
+   "summary": "德国布伦瑞克造型艺术学院（HBK Braunschweig）面向视觉艺术家与声音艺术家开放2027–28年度为期12个月的驻留奖学金，共设2个声音艺术和5个视觉艺术名额。获选者需在布伦瑞克驻留至少8个月并参加2027年4月19–30日的欢迎周，项目需与学院环境紧密相关，并配备导师。资助包括每月1600欧元津贴、免费单人工作室公寓、项目与差旅补贴，需自付每月250欧元杂费。申请者须完成艺术学位并有丰",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 70,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "9f5d4f5b06ed99ed",
+   "title": "[News] CONVIVIUM: CONVIVIAL FOODSCAPES Residency for Visual Artists (Portugal)",
+   "organization": "CONVIVIUM (EU-funded project) / Quinta das Relvas",
+   "country": "Portugal",
+   "url": "https://on-the-move.org/news/convivium-convivial-foodscapes-residency-visual-artists-portugal",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-15",
+   "summary": "欧盟资助项目 CONVIVIUM 面向居住在比利时、法国、荷兰、挪威、波兰、葡萄牙和西班牙的视觉艺术家，征集在葡萄牙 Quinta das Relvas 为期一个月的驻留（2026年11月）。主题围绕“共融食物景观”，探索多物种生命与过程、仪式与再现、思辨未来等方向，需创作一件视觉媒介作品。费用全包，含机票、住宿、1000欧元酬金及150欧元材料费（报销制），餐食不含。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "e748b7c4ef6091fc",
+   "title": "[News] Africa-Europe Partnerships for Culture: Connect and Create Mentoring Scheme 2027",
+   "organization": "Institut français (Africa–Europe Partnerships for Culture, EU-funded)",
+   "country": "France",
+   "url": "https://on-the-move.org/news/africa-europe-partnerships-culture-connect-and-create-mentoring-scheme-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-09",
+   "summary": "欧盟资助的非洲-欧洲文化伙伴关系项目下的 Connect & Create 导师计划，面向撒哈拉以南非洲表演艺术与音乐行业的早期职业从业者（2-5年经验，从事管理、制作、发行、行政、传播等支持性工作）。2027年1月至12月支持15名参与者，配对非洲或欧洲导师，含季度工作坊和集体沉浸式参访。参与者所属机构可获7500欧元资助，用于运营、发展及技能提升，导师与学员的差旅住宿费用由项目承担。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "grant",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "2e898104a46effd3",
+   "title": "[News] CIRKULUM Festival 2027 for Contemporary Circus Artists (Czech Republic)",
+   "organization": "CIRKULUM Festival",
+   "country": "Czech Republic",
+   "url": "https://on-the-move.org/news/cirkulum-festival-2027-contemporary-circus-artists-czech-republic",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-30",
+   "summary": "CIRKULUM 2027 当代马戏艺术节公开征集，面向有30分钟户外演出的新马戏艺术家及团体（含进行中作品）。入选者将于2027年2月12日至15日在捷克俄斯特拉发Gong多功能厅参与展演，主办方承担旅费、住宿及餐饮，并提供与国内外艺术节代表交流的推介会及艺术家目录展示机会。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "c99e5fcb7688b2b5",
+   "title": "Open call for cultural institutions: Flying Rivers",
+   "organization": null,
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6787845/open-call-for-cultural-institutions-flying-rivers",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "面向文化机构的公开征集项目“Flying Rivers”，具体资助内容、截止日期及主办方信息未在提供文本中说明，需查阅原始来源确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "9b7423f40081c947",
+   "title": "Ellsworth Artist Residency",
+   "organization": "Art Share L.A.",
+   "country": "United States",
+   "url": "https://hortusgardens.org/artist-residency/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Art Share L.A. 现征集第11和12期 Ellsworth 艺术家驻留项目申请。该项目为新兴艺术家提供12周工作室空间及1000美元津贴，并包含与策展人、学者、艺术家的交流机会及群展。驻留时间分别为2025年10月30日至2026年1月29日，以及2026年2月12日至5月7日。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "2c93dfbfaf923eff",
+   "title": "Ars Biologica ArtXScience Residency",
+   "organization": "České Budějovice European Capital of Culture (ECoC) 2028 and Ars Electronica",
+   "country": "Czech Republic",
+   "url": "https://ars.electronica.art/export/en",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Ars Biologica ArtXScience 驻留项目由捷克布杰约维采2028欧洲文化之都与林茨电子艺术中心联合发起，面向艺术家、设计师、创意人士及艺术团体，提供全额资助，与当地科学家直接合作。项目聚焦气候紧急情况、可持续农业、地球工程、永续农业、水资源管理及生态影响等环境议题，探索艺术与科学协作应对紧迫环境挑战的可能。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "df6d665a4884d2c0",
+   "title": "Buinho residency program (Portugal) - New call 2027",
+   "organization": "Buinho",
+   "country": "Portugal",
+   "url": "https://rivet.es/calls/view/buinho-residency-program-portugal-new-call-2027_1",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "葡萄牙 Buinho 驻留项目发布 2027 年新一轮公开征集，面向艺术家、创作者与研究者，提供在葡萄牙乡村社区进行创作与交流的机会。具体资助内容、申请截止日期及国际申请资格需查阅官方公告确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-16",
    "ai_scored": true
   }
  ]
