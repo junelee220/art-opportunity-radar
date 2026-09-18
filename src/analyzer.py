@@ -104,7 +104,7 @@ LLM_PROMPT = """分析以下艺术机会信息,只返回一个 JSON 对象,不�
  "funding": {"fully_funded": true/false/null, "stipend": true/false/null, "accommodation": true/false/null, "travel": true/false/null},
  "categories": ["从以下选0到4个: residency, grant, open_call, publishing, digital_media, research, spatial"]}
 
-relevance 评分标准:是真实的驻留/基金/征集机会 40 分基础;全额资助 +20;匹配独立出版/媒体考古/数字人文/开源硬件/空间实践方向 每个 +15;接受国际艺术家 +10;截止日期明确 +5。
+relevance 评分标准:是真实的驻留/基金/征集机会 40 分基础;全额资助 +20;匹配独立出版/媒体考古/数字人文/开源硬件/空间实践/策展/研究方向 每个 +15;接受国际艺术家 +10;截止日期明确 +5。
 
 机会信息:
 """

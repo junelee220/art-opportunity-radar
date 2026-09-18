@@ -124,6 +124,18 @@ media_words:
   田野调查: 2
   社会介入: 2
   在地调研: 2
+  # 方向四:策展 / 研究(2026-09-18 增补)
+  # 注意:curate/curat 会误中 accurate;裸词 research 几乎每条都命中会全面抬分,只用复合词
+  curator: 3
+  curating: 3
+  exhibition making: 3
+  策展: 3
+  展览策划: 3
+  research fellowship: 3
+  research residency: 3
+  practice-based research: 3
+  研究驻留: 3
+  研究基金: 2
   # 泛数字媒体(兼容词)
   new media: 1
   media art: 1
