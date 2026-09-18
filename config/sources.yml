@@ -58,6 +58,1392 @@ sources:
     region: overseas
     tier: 2
 
+  # ---- Excel 机构监控源(2026-09-18,自核实总表按官网域名去重)----
+  # url 统一取官网 origin(首页),配合 link_pattern: / 全站盯新链接;
+  # 已剔除:on-the-move.org(已有 RSS 源,避免重复抓取)
+  # 注:本地播种实测部分源 403/SSL 失败(疑为对 requests 的指纹或 IP 拦截),
+  #     按用户指示全部保留待人工核对,Actions 每 5 天自动重试
+  - name: 1906group
+    url: https://www.1906group.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: aa2a
+    url: https://aa2a.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: abladeofgrass
+    url: https://www.abladeofgrass.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: accordiedisaccordi
+    url: https://www.accordiedisaccordi.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: aefestival
+    url: https://aefestival.gr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: aesthetics
+    url: https://www.aesthetics.mpg.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: albeefoundation
+    url: https://www.albeefoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: altart
+    url: https://www.altart.cz/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: americanart
+    url: https://americanart.si.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: amplifyarts
+    url: https://www.amplifyarts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: aperture
+    url: https://aperture.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ars
+    url: https://ars.electronica.art/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artadia
+    url: https://artadia.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: arteles
+    url: https://www.arteles.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artes
+    url: https://artes.porto.ucp.pt/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: arthubcopenhagen
+    url: http://arthubcopenhagen.net/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artistcafe
+    url: https://artistcafe.jp/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artists
+    url: https://www.artists.fi/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artmarketmag
+    url: https://artmarketmag.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artnowmanagement
+    url: https://www.artnowmanagement.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artomi
+    url: https://artomi.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: arts-illinois-gov
+    url: https://arts.illinois.gov/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: arts-princeton-edu
+    url: https://arts.princeton.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artsandbusinesscouncil
+    url: https://artsandbusinesscouncil.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: artssoutheast
+    url: https://artssoutheast.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ateliernord
+    url: https://ateliernord.no/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: atlanticcenterforthearts
+    url: https://atlanticcenterforthearts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: bagrifoundation
+    url: https://bagrifoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: barcelona
+    url: https://www.barcelona.cat/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: beinecke
+    url: https://beinecke.library.yale.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: billedkunstnerneioslo
+    url: https://www.billedkunstnerneioslo.no/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: bkf
+    url: https://bkf.dk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: blindside
+    url: https://blindside.org.au/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: bloedelreserve
+    url: https://bloedelreserve.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: bnf
+    url: https://www.bnf.fr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: camargofoundation
+    url: https://www.camargofoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cc-madetmoselle
+    url: https://www.cc-madetmoselle.fr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cca
+    url: https://www.cca.qc.ca/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ccalagos
+    url: https://ccalagos.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ccncn
+    url: https://ccncn.eu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: chambermusicamerica
+    url: https://chambermusicamerica.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: changeoverfestival
+    url: https://changeoverfestival.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: chimaeraproject
+    url: https://www.chimaeraproject.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: chinadaily
+    url: https://www.chinadaily.com.cn/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: citedesartsparis
+    url: https://www.citedesartsparis.net/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: citeinternationaledesarts
+    url: https://www.citeinternationaledesarts.fr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cittadellarte
+    url: https://www.cittadellarte.it/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cityofliterature
+    url: https://cityofliterature.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cityofnapa
+    url: https://www.cityofnapa.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: claraboia
+    url: https://claraboia.art/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: clashbooks
+    url: https://www.clashbooks.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cnd
+    url: https://www.cnd.fr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cold-paradise
+    url: https://www.cold-paradise.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: collegeart
+    url: https://www.collegeart.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: collettivoamigdala
+    url: https://collettivoamigdala.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: coloradoreview
+    url: https://coloradoreview.colostate.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: comfortstationlogansquare
+    url: https://comfortstationlogansquare.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: communityengagement
+    url: https://www.communityengagement.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: coprosperity
+    url: https://coprosperity.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: corsicanaresidency
+    url: https://www.corsicanaresidency.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: cortexfrontal
+    url: https://cortexfrontal.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: craftprize
+    url: https://craftprize.loewe.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ctm-festival
+    url: https://www.ctm-festival.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: culturalfoundation
+    url: https://culturalfoundation.eu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: dasminsk
+    url: https://dasminsk.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: dbartlab
+    url: https://www.dbartlab.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: dedalusfoundation
+    url: https://dedalusfoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: designto
+    url: https://designto.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: dezi
+    url: https://www.dezi.work/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: driftdance
+    url: https://driftdance.eu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: emaf
+    url: https://www.emaf.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: en
+    url: https://en.dazibao.art/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: eofa
+    url: https://eofa.ch/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: esraro
+    url: https://www.esraro.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: everydayphotography
+    url: https://everydayphotography.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: exposureoneawards
+    url: https://exposureoneawards.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: fcea
+    url: https://fcea.in/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: fictionawards
+    url: https://fictionawards.writersworkshop.uiowa.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: filmfestival
+    url: https://filmfestival.gr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: firestation
+    url: https://firestation.org.qa/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: formatfestival
+    url: https://formatfestival.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: foundwork
+    url: https://foundwork.art/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: frau-schafft-raum
+    url: https://frau-schafft-raum.at/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: fringeartsbath
+    url: https://www.fringeartsbath.co.uk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: fuktmagazine
+    url: https://www.fuktmagazine.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: fundacionamaamoedo
+    url: https://fundacionamaamoedo.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: futureobservatory
+    url: https://futureobservatory.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: futuresoflistening
+    url: https://futuresoflistening.nl/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: galleryjenseits
+    url: https://www.galleryjenseits.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: gallerymcube
+    url: https://gallerymcube.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: gasworks
+    url: https://www.gasworks.org.uk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: gf
+    url: https://www.gf.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: global5050
+    url: https://global5050.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: glogauair
+    url: https://glogauair.net/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: goethe
+    url: https://www.goethe.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: goldrausch
+    url: https://goldrausch.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: grahamfoundation
+    url: https://www.grahamfoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: gulfcoastmag
+    url: https://gulfcoastmag.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hakoniemi
+    url: https://www.hakoniemi.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hambidge
+    url: https://www.hambidge.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hamiltonianartists
+    url: https://hamiltonianartists.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hanklane
+    url: https://hanklane.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hasselbladfoundation
+    url: https://www.hasselbladfoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: haverford
+    url: https://www.haverford.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hayamaresidency
+    url: https://hayamaresidency.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hdts
+    url: https://www.hdts.site/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hiap
+    url: https://www.hiap.fi/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: hillvalegallery
+    url: https://www.hillvalegallery.com.au/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: huntmuseum
+    url: https://www.huntmuseum.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: iaac-m21
+    url: http://www.iaac-m21.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ideasimagination
+    url: https://ideasimagination.columbia.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ifa
+    url: https://www.ifa.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: institutfrancais
+    url: https://www.institutfrancais.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: islaa
+    url: https://islaa.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: iterculture
+    url: https://www.iterculture.eu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: jentelarts
+    url: https://www.jentelarts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: khncenterforthearts
+    url: https://www.khncenterforthearts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: koneensaatio
+    url: https://koneensaatio.fi/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: konstakademien
+    url: https://konstakademien.se/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: konstnarsnamnden
+    url: https://www.konstnarsnamnden.se/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: kuenstlerhaus-sootboern
+    url: https://kuenstlerhaus-sootboern.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: latitudechicago
+    url: https://www.latitudechicago.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: lesantipodes
+    url: https://lesantipodes.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: lighthouseworks
+    url: https://lighthouseworks.us/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: lightupthenorth
+    url: https://lightupthenorth.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: listasafn
+    url: https://www.listasafn.is/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: loc
+    url: https://www.loc.gov/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: londonartcollective
+    url: https://londonartcollective.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: lsmartfund
+    url: https://www.lsmartfund.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: luciefoundation
+    url: https://luciefoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: macdowell
+    url: https://www.macdowell.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: maisondoramaar
+    url: https://maisondoramaar.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: makingspacehome
+    url: https://makingspacehome.notion.site/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: martin-roth-initiative
+    url: https://www.martin-roth-initiative.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mataderomadrid
+    url: https://www.mataderomadrid.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: matsuura-foundation
+    url: https://matsuura-foundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: medialab-matadero
+    url: https://www.medialab-matadero.es/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: metron
+    url: https://www.metron.ch/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: miesbcn
+    url: https://miesbcn.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mingstrike
+    url: https://mingstrike.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mishofujino
+    url: https://mishofujino.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mmca
+    url: https://www.mmca.go.kr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: morganconservatory
+    url: https://www.morganconservatory.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mothertonguesfestival
+    url: https://mothertonguesfestival.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mp
+    url: https://mp.weixin.qq.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: mqw
+    url: https://www.mqw.at/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: museumrijswijk
+    url: https://museumrijswijk.nl/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nantucketarts
+    url: https://www.nantucketarts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: narsfoundation
+    url: https://www.narsfoundation.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nassauavenuegallery
+    url: https://nassauavenuegallery.square.site/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nationalhumanitiescenter
+    url: https://nationalhumanitiescenter.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: neslist
+    url: https://neslist.is/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nirman
+    url: https://www.nirman.info/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nodisciplinelimited
+    url: https://nodisciplinelimited.hk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nordiskkulturfond
+    url: https://nordiskkulturfond.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nycchildrenstheater
+    url: https://www.nycchildrenstheater.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: nyfa
+    url: https://www.nyfa.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: officinecaos
+    url: https://www.officinecaos.net/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: pact-zollverein
+    url: https://www.pact-zollverein.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: palettespioneerindia
+    url: https://www.palettespioneerindia.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: pallasprojects
+    url: https://pallasprojects.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: pedanticarts
+    url: https://pedanticarts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: perth
+    url: https://perth.wa.gov.au/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: pioneerworks
+    url: https://pioneerworks.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: pittsburghsymphony
+    url: https://www.pittsburghsymphony.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: pkf
+    url: https://pkf.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: platformdali
+    url: https://platformdali.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: poets
+    url: https://poets.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: queensmuseum
+    url: https://queensmuseum.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: quintadasrelvas
+    url: https://quintadasrelvas.pt/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: radcliffe
+    url: https://www.radcliffe.harvard.edu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: renversons
+    url: https://www.renversons.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: rootdivision
+    url: https://rootdivision.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: rootsandculturecac
+    url: https://www.rootsandculturecac.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: roscommoncoco
+    url: https://www.roscommoncoco.ie/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: rosechoreographicschool
+    url: https://rosechoreographicschool.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: sah
+    url: https://sah.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: scuolapiccolazattere
+    url: https://scuolapiccolazattere.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: ses12naus
+    url: https://ses12naus.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: sharjahart
+    url: https://sharjahart.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: singaporeartmuseum
+    url: https://www.singaporeartmuseum.sg/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: sitetoronto
+    url: https://sitetoronto.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: skowheganart
+    url: https://skowheganart.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: sonar
+    url: https://sonar.es/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: sonic-territories
+    url: https://www.sonic-territories.at/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: soulangh
+    url: https://soulangh.tnc.gov.tw/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: southarts
+    url: https://www.southarts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: spazioberlendis
+    url: https://www.spazioberlendis.it/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: spellerbergprojects
+    url: https://spellerbergprojects.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: stiftung-kuenstlerdorf
+    url: https://www.stiftung-kuenstlerdorf.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: stockholmfilmfestival
+    url: https://www.stockholmfilmfestival.se/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: studiomuseum
+    url: https://www.studiomuseum.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: sundogtheatre
+    url: https://sundogtheatre.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: svaneff
+    url: https://www.svaneff.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tangentedanse
+    url: https://tangentedanse.ca/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tanztheater-erfurt
+    url: https://tanztheater-erfurt.de/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tcbf
+    url: https://www.tcbf.it/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: thefiftyfifty
+    url: https://thefiftyfifty.net/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: theimagecentre
+    url: https://theimagecentre.ca/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: thephotographersgallery
+    url: https://thephotographersgallery.org.uk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: thesupportingact
+    url: https://thesupportingact.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: theweavingworkshop
+    url: https://www.theweavingworkshop.co.uk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: thewhitepube
+    url: https://thewhitepube.co.uk/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: thor
+    url: https://www.thor.be/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tigerstrikesasteroid
+    url: https://www.tigerstrikesasteroid.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: timeforsheroes
+    url: https://timeforsheroes.eu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: titanik
+    url: https://www.titanik.fi/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tofringe
+    url: https://www.tofringe.it/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tokyobiennale
+    url: https://tokyobiennale.jp/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: toronto
+    url: https://www.toronto.ca/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: torontoartscouncil
+    url: https://torontoartscouncil.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: tourbus
+    url: https://tourbus.ai/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: twelvegatesarts
+    url: https://www.twelvegatesarts.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: typography-worldwide
+    url: https://typography-worldwide.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: unidee
+    url: https://unidee.cittadellarte.it/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: untitled-space
+    url: https://untitled-space.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: vbkoe
+    url: https://www.vbkoe.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: vermontstudiocenter
+    url: https://vermontstudiocenter.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: villa-arson
+    url: https://villa-arson.fr/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: visionmakermedia
+    url: https://www.visionmakermedia.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: vogue
+    url: https://www.vogue.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: waag
+    url: https://waag.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: wallspacegallery
+    url: https://wallspacegallery.ca/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: washingtonsquarereview
+    url: https://www.washingtonsquarereview.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: whiterabbitcollection
+    url: https://whiterabbitcollection.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: winterpapers
+    url: https://www.winterpapers.com/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: wpzimmer
+    url: https://wpzimmer.be/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: xposure
+    url: https://xposure.net/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: yalereview
+    url: https://yalereview.org/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+  - name: zmina
+    url: https://zmina.eu/
+    type: webpage
+    link_pattern: /
+    region: overseas
+    tier: 2
+
   # ============================================================
   # 搁置(2026-09 复核,均为浏览器反爬/SPA,待 changedetection.io):
   # 歌德学院 goethe.de — 403(Akamai 反爬,requests/webfetch 均拒)
@@ -81,3 +1467,1493 @@ sources:
   # 建议接入:天目里美术馆 / 成都A4美术馆 / 广东时代美术馆 /
   # PSA / 黄边站 / 敦煌当代美术馆 / 歌德学院中国(公众号)
   # ============================================================
+
+# ============================================================
+# 静态核实机会库(非抓取源):提取自《艺术机会_核实与增补版_2026-09-18.xlsx》核实总表
+# 字段:apply=招募/申请链接  site=官网链接  category=项目类型  field=媒介/领域
+# status 为 2026-09-18 基准的核实状态,已截止条目仅供回溯,申请前请自行确认
+# 注意:scraper 只读取上方 sources: 段,本段不参与抓取,仅作查询/展示用
+# ============================================================
+verified_opportunities:
+- name: Howard Tanenbaum Fellowship for Artistic Research 2027
+  apply: https://theimagecentre.ca/fellowship/
+  site: https://theimagecentre.ca/
+  category: Fellowship
+  field: 影像/电影,摄影,研究
+  status: 开放/待截止
+- name: Trame Residency 2027
+  apply: https://www.citeinternationaledesarts.fr/en/appels-a-candidature/trame/
+  site: https://www.citeinternationaledesarts.fr
+  category: 驻地
+  field: 作曲,写作,声音/音乐,建筑/空间,影像/电影,研究,策展,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,诗歌,跨学科
+  status: 开放/待截止
+- name: Fotosalongen 2027
+  apply: https://site.picter.com/hasselblad-foundation-fotosalongen-2027
+  site: https://www.hasselbladfoundation.org/en/portfolio_page/440875/
+  category: 展览
+  field: 摄影
+  status: 开放/待截止
+- name: Skowhegan 2027 Program
+  apply: https://application2027.skowheganart.org/login
+  site: https://skowheganart.org/school/
+  category: 专业发展
+  field: 声音/音乐,影像/电影,摄影,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: CCA Research Fellowship Program 2027
+  apply: https://www.cca.qc.ca/en/64843/cca-research-fellowship-program
+  site: https://www.cca.qc.ca
+  category: Fellowship
+  field: 建筑/空间,研究
+  status: 开放/待截止
+- name: PRIM-Dazibao Production-Dissemination Residency
+  apply: https://en.dazibao.art/call-for-proposals-prim-dazibao-residency
+  site: https://en.dazibao.art
+  category: 驻地
+  field: 声音/音乐,影像/电影,新媒体
+  status: 开放/待截止
+- name: Smithsonian American Art Museum Fellowship Program, 2027–2028
+  apply: https://americanart.si.edu/research/fellowships/apply
+  site: https://americanart.si.edu/research/fellowships
+  category: Fellowship
+  field: 研究
+  status: 开放/待截止
+- name: Pedantic Arts Residency / Research Grant — Summer & Fall 2027
+  apply: https://pedanticarts.org/get-involved/apply/
+  site: https://pedanticarts.org/announcements/open-call-for-residents-and-grantees-submit-by-october-15th/
+  category: 资助/制作,驻地
+  field: 写作,社会实践,策展,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Dora Maar House Fellowship 2027
+  apply: https://maisondoramaar.org/fellowship/apply/
+  site: https://maisondoramaar.org/
+  category: Fellowship,驻地
+  field: 写作,声音/音乐,影像/电影,摄影,研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,诗歌,跨学科
+  status: 开放/待截止
+- name: LOEWE FOUNDATION Craft Prize 2027
+  apply: https://craftprize.loewe.com/en/home?country=GB
+  site: https://craftprize.loewe.com/en/home?country=GB
+  category: 奖项,展览
+  field: 工艺/纺织,设计
+  status: 开放/待截止
+- name: International Short Performance Competition 2027
+  apply: https://www.iterculture.eu/en/teatri-riflessi/tr2027/tr12/
+  site: https://www.iterculture.eu/en/
+  category: 奖项,节展
+  field: 剧场,舞蹈/身体,视觉艺术（行为）,跨学科
+  status: 开放/待截止
+- name: Creative Accelerator Fund FY27
+  apply: https://arts.illinois.gov/granting-opportunities/grants-programs/creative-accelerator-fund.html
+  site: https://arts.illinois.gov
+  category: 资助/制作
+  field: 跨学科
+  status: 开放/待截止
+- name: 2027 Creative Entrepreneur Fellowship
+  apply: https://artsandbusinesscouncil.org/cef/
+  site: https://artsandbusinesscouncil.org
+  category: 专业发展
+  field: 跨学科
+  status: 开放/待截止
+- name: Artist-Initiated Projects 2027
+  apply: https://pallasprojects.org/artist-initiated-projects-open-call
+  site: https://pallasprojects.org/
+  category: 展览,资助/制作
+  field: 影像/电影,摄影,数字/AI,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: The International Coproduction Fund
+  apply: https://portal.gap.goethe.de/
+  site: https://www.goethe.de/en/
+  category: 资助/制作
+  field: 剧场,声音/音乐,舞蹈/身体,跨学科
+  status: 开放/待截止
+- name: Institut français x Cité internationale des arts Residency Programme 2027-2028
+  apply: https://www.institutfrancais.com/en/programme/residence-and-professional-mobility/residencies-institut-francais-x-cite-internationale
+  site: https://www.institutfrancais.com/
+  category: 驻地
+  field: 偶戏,写作,剧场,声音/音乐,工艺/纺织,建筑/空间,影像/电影,摄影,数字/AI,研究,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: Artist-in-Residence Program (2027 cycle)
+  apply: https://www.morganconservatory.org/artist-residencies
+  site: https://www.morganconservatory.org
+  category: 出版/征稿,驻地
+  field: 工艺/纺织
+  status: 开放/待截止
+- name: Autumn 2026 Arts & Culture Grants
+  apply: https://bagrifoundation.org/funding-opportunities
+  site: https://bagrifoundation.org/
+  category: 资助/制作
+  field: 写作,剧场,声音/音乐,工艺/纺织,影像/电影,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: On-Line Program (October–December 2026)
+  apply: https://glogauair.net/apply/programs/
+  site: https://glogauair.net
+  category: 专业发展,驻地
+  field: 作曲,偶戏,写作,剧场,剧本,声音/音乐,工艺/纺织,建筑/空间,影像/电影,摄影,数字/AI,新媒体,歌剧,研究,社会实践,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,诗歌,跨学科
+  status: 开放/待截止
+- name: Torino Fringe Festival 2027 — Artists and Companies Open Call
+  apply: https://www.tofringe.it/call-2027-eng/
+  site: https://www.tofringe.it/
+  category: 节展
+  field: 剧场,声音/音乐,影像/电影,舞蹈/身体,视觉艺术（行为）,跨学科
+  status: 开放/待截止
+- name: Amplify Arts Fellowship 2027 (Migration)
+  apply: https://www.amplifyarts.org/events-blog/2027-fellowship
+  site: https://www.amplifyarts.org
+  category: 资助/制作
+  field: 写作,影像/电影,新媒体,社会实践,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: LABdiff 2027–2028 Open Call
+  apply: https://tangentedanse.ca/en/submit-a-project/
+  site: https://tangentedanse.ca
+  category: 驻地
+  field: 舞蹈/身体
+  status: 开放/待截止
+- name: Residency 2027
+  apply: mailto:makingspace2017@gmail.com
+  site: https://makingspacehome.notion.site/Making-Space-1bdde344b55c80ea919ff3004e3f8cd2
+  category: 驻地
+  field: 跨学科
+  status: 开放/待截止
+- name: 2027–2028 Solo/Duo Exhibition Open Call
+  apply: https://spellerbergprojects.com/calls/exhibitions-call/
+  site: https://spellerbergprojects.com
+  category: 展览
+  field: 工艺/纺织,影像/电影,摄影,新媒体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计
+  status: 开放/待截止
+- name: '2026 Artadia Awards: Atlanta'
+  apply: https://artadia.org/awards/
+  site: https://artadia.org/
+  category: 奖项,资助/制作
+  field: 工艺/纺织,影像/电影,摄影,数字/AI,新媒体,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Lighthouse Works Fellowship 2027
+  apply: https://lighthouseworks.us/fellowship
+  site: https://lighthouseworks.us
+  category: 驻地
+  field: 作曲,写作,剧本,声音/音乐,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,诗歌,跨学科
+  status: 开放/待截止
+- name: Ensemble Forward Grant 2026
+  apply: https://chambermusicamerica.org/grants/ensemble-forward/
+  site: https://chambermusicamerica.org
+  category: 资助/制作
+  field: 声音/音乐
+  status: 开放/待截止
+- name: Residential Fellowship 2027–2028
+  apply: https://nationalhumanitiescenter.org/residential-fellowships/
+  site: https://nationalhumanitiescenter.org
+  category: Fellowship
+  field: 写作,研究
+  status: 开放/待截止
+- name: Apply to exhibit in 2028
+  apply: https://www.billedkunstnerneioslo.no/en/apply-to-exhibit-in-2028/
+  site: https://www.billedkunstnerneioslo.no/en/
+  category: 展览
+  field: 影像/电影,摄影,新媒体,策展,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Camargo Fellowship 2027–2028
+  apply: https://camargofoundation.submittable.com/submit
+  site: https://www.camargofoundation.org/
+  category: Fellowship,资助/制作,驻地
+  field: 写作,剧场,声音/音乐,影像/电影,数字/AI,研究,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: Textile Biennial 2027 | Colonial patterns
+  apply: https://museumrijswijk.nl/open-call-textiel-biennale
+  site: https://museumrijswijk.nl/
+  category: 展览
+  field: 工艺/纺织
+  status: 开放/待截止
+- name: 2026 Artist Grant
+  apply: https://thesupportingact.org/programs/artist-grant/2026
+  site: https://thesupportingact.org
+  category: 资助/制作
+  field: 写作,剧场,声音/音乐,工艺/纺织,影像/电影,摄影,数字/AI,新媒体,社会实践,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,诗歌,跨学科
+  status: 开放/待截止
+- name: The Melissa Rucker Finishing Fund
+  apply: https://www.chimaeraproject.org/the-melissa-rucker-finishing-fund/
+  site: https://www.chimaeraproject.org/
+  category: 专业发展,资助/制作
+  field: 影像/电影
+  status: 开放/待截止
+- name: 2027 Call for Submissions
+  apply: https://thefiftyfifty.net/submit
+  site: https://thefiftyfifty.net/
+  category: 展览
+  field: 声音/音乐,工艺/纺织,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Colorado Review — Nonfiction Submissions
+  apply: https://coloradoreview.colostate.edu/colorado-review/
+  site: https://coloradoreview.colostate.edu/colorado-review/
+  category: 出版/征稿
+  field: 写作,研究
+  status: 开放/待截止
+- name: 'Biomimicry and Indigenous Knowledge: Braiding Pathways for Regenerative Health Futures'
+  apply: https://www.visionmakermedia.org/fund-your-film/
+  site: https://www.visionmakermedia.org/
+  category: 资助/制作
+  field: 影像/电影
+  status: 开放/待截止
+- name: NARS International Residency Program (Rolling Admission for International Artists)
+  apply: https://narsfoundation.submittable.com/submit/134702/nars-residency-program-rolling-admission-for-international-artists-only
+  site: https://www.narsfoundation.org/residencies/international-residency-program
+  category: 驻地
+  field: 声音/音乐,影像/电影,摄影,新媒体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: The Yale Review — Nonfiction Submissions
+  apply: https://yalereview.org/submissions
+  site: https://yalereview.org/submissions
+  category: 出版/征稿
+  field: 写作,研究
+  status: 开放/待截止
+- name: Pollock-Krasner Foundation Grants
+  apply: https://pkf.org/apply/
+  site: https://pkf.org/apply/
+  category: 资助/制作
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: June 2027 Artist Residency in Japan
+  apply: https://hayamaresidency.com/
+  site: https://hayamaresidency.com/
+  category: 驻地
+  field: 工艺/纺织,影像/电影,摄影,数字/AI,新媒体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: 'A Blade of Grass Field Funds: Documentation and Archiving'
+  apply: https://www.abladeofgrass.org/field-funds/
+  site: https://www.abladeofgrass.org/
+  category: 资助/制作
+  field: 研究,社会实践,跨学科
+  status: 开放/待截止
+- name: Vermont Studio Center Open Call — Summer/Fall 2027 Residencies
+  apply: https://vermontstudiocenter.org/apply
+  site: https://vermontstudiocenter.org/
+  category: 驻地
+  field: 写作,影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,诗歌
+  status: 开放/待截止
+- name: Branding, Career & Marketing Services for Artists
+  apply: https://www.artnowmanagement.com/contact
+  site: https://www.artnowmanagement.com
+  category: 专业发展
+  field: 摄影,视觉艺术（绘画）,跨学科
+  status: 开放/待截止
+- name: Manuscript submissions
+  apply: https://www.clashbooks.com/submissions
+  site: https://www.clashbooks.com
+  category: 出版/征稿
+  field: 写作,剧本,诗歌
+  status: 开放/待截止
+- name: Winter Papers Residency at Drumnadubber Studios
+  apply: https://www.winterpapers.com/submissions
+  site: https://www.winterpapers.com/
+  category: 驻地
+  field: 写作,工艺/纺织,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Open Call for Residencies 2027
+  apply: https://www.thor.be/en/studio-residences/
+  site: https://www.thor.be/en/
+  category: 驻地
+  field: 舞蹈/身体
+  status: 开放/待截止
+- name: 2026–2027 艺术驻留公开招募
+  apply: https://ses12naus.org/en/programa/open-call-2026-2027-2/
+  site: https://ses12naus.org/
+  category: 驻地
+  field: 建筑/空间,摄影,新媒体,研究,社会实践,策展,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: ifa Artists' Contacts Programme
+  apply: https://www.ifa.de/en/funding/artists-contacts/
+  site: https://www.ifa.de/en/
+  category: 专业发展,资助/制作
+  field: 建筑/空间,摄影,新媒体,研究,策展,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: Trust me, I’m an AI/rtist
+  apply: https://waag.homerun.co/hamlet-open-call-for-creative-interventions/nl
+  site: https://waag.org/en/article/open-call-creative-interventions-trust-me-im-airtist/
+  category: 专业发展,委托,资助/制作
+  field: 剧场,声音/音乐,影像/电影,数字/AI,新媒体,舞蹈/身体,跨学科
+  status: 开放/待截止
+- name: 2027-2028 Fellowship
+  apply: https://ideasimagination.columbia.edu/apply/applying-for-a-fellowship/
+  site: https://ideasimagination.columbia.edu/
+  category: Fellowship
+  field: 作曲,写作,声音/音乐,影像/电影,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: Art Market International Art Magazine Submissions
+  apply: https://artmarketmag.com/submissions/
+  site: https://artmarketmag.com
+  category: 出版/征稿
+  field: 摄影,数字/AI,视觉艺术（绘画）
+  status: 开放/待截止
+- name: Eidolon Centre for Everyday Photography
+  apply: https://everydayphotography.org/centre/grant-2026
+  site: https://everydayphotography.org/centre/grant-2026
+  category: 资助/制作
+  field: 写作,影像/电影,摄影,数字/AI,研究,社会实践,跨学科
+  status: 开放/待截止
+- name: Hakoniemi Artist Residency
+  apply: https://www.hakoniemi.com/en/artist-residency
+  site: https://www.hakoniemi.com/en/artist-residency
+  category: 驻地
+  field: 写作,声音/音乐,工艺/纺织,影像/电影,摄影,研究,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Portrait Artist of the Year 2026 | Season 2
+  apply: https://www.palettespioneerindia.com/portrait-artist-of-the-year
+  site: https://www.palettespioneerindia.com/
+  category: 奖项,节展
+  field: 视觉艺术（绘画）
+  status: 开放/待截止
+- name: Inception Grant 2026–27
+  apply: https://fcea.in/inception-grant/apply/
+  site: https://fcea.in/inception-grant/
+  category: 专业发展,资助/制作
+  field: 摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: SAM Residencies Cycle 4 (2027/2028)
+  apply: https://samresidencies.smapply.org/prog/cycle4/
+  site: https://www.singaporeartmuseum.sg/
+  category: 驻地
+  field: 研究,社会实践,策展,视觉艺术（绘画）,跨学科
+  status: 开放/待截止
+- name: 档案学术与艺术研究奖助（ECF Fellowships at HAEU）
+  apply: https://culturalfoundation.eu/stories/new-fellowship-programme-to-research-the-ecf-historical-archives/
+  site: https://culturalfoundation.eu/
+  category: Fellowship,资助/制作
+  field: 写作,声音/音乐,影像/电影,研究,社会实践,策展,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Tokyo Biennale 2027 SOCIAL DIVE Open Call
+  apply: https://socialdive.jp/en/
+  site: https://tokyobiennale.jp/en/archives/news/9378
+  category: 委托,展览,节展,驻地
+  field: 影像/电影,新媒体,研究,社会实践,策展,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: MiSHŌ Residency 2027
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSczuk41hpQdsqQqWU09XgROdpgHCbtPPfvnu9RbPWrReyTukg/viewform
+  site: https://mishofujino.org/open-call
+  category: 驻地
+  field: 写作,声音/音乐,研究,社会实践,舞蹈/身体,跨学科
+  status: 开放/待截止
+- name: 现代艺术家助成制度 令和8年度
+  apply: https://matsuura-foundation.org/business/
+  site: https://matsuura-foundation.org/
+  category: 资助/制作
+  field: 研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: 2027–28 QM-Jerome Foundation Fellowship for Emerging Artists
+  apply: https://queensmuseum.org/program/open-call-2027-28-qm-jerome-foundation-fellowship-for-emerging-artists/
+  site: https://queensmuseum.org
+  category: Fellowship
+  field: 视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: Alternative Roots 2026 Open Call
+  apply: https://mingstrike.com/posts/alternative-roots-2026-open-call-c4b83cad
+  site: https://mingstrike.com/
+  category: 展览,节展
+  field: 剧场,舞蹈/身体,视觉艺术（行为）,跨学科
+  status: 开放/待截止
+- name: Resynthesising the Traditional 2027
+  apply: https://www.ctm-festival.de/festival-2027/open-calls/resynthesising-the-traditional-2027
+  site: https://www.ctm-festival.de/festival-2027/open-calls/resynthesising-the-traditional-2027
+  category: 专业发展,工作坊,节展,驻地
+  field: 作曲,声音/音乐,新媒体,研究,跨学科
+  status: 开放/待截止
+- name: Residencies 1/2027
+  apply: https://pact-zollverein.typeform.com/to/sl7mjZO5
+  site: https://www.pact-zollverein.de/en/fields-of-work/kuenstlerinnenhaus/residenzen
+  category: 驻地
+  field: 声音/音乐,建筑/空间,影像/电影,数字/AI,研究,舞蹈/身体,跨学科
+  status: 开放/待截止
+- name: Ars Biologica ArtXScience Residency
+  apply: https://docs.google.com/forms/d/e/1FAIpQLScPzalC2BxqgUwf7COJR3JdQxArMFXLOf2KPiJrgh0d3_WY2g/viewform
+  site: https://ars.electronica.art/export/en/ecoc2028-ars-biologica-art-science-residency/
+  category: 资助/制作,驻地
+  field: 研究,社会实践,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: 'Àsìkò Art School 2027: La valeur du faire est ici'
+  apply: https://ccalagos.org/open-call-2027/
+  site: https://ccalagos.org/
+  category: 专业发展,工作坊,驻地
+  field: 写作,声音/音乐,工艺/纺织,影像/电影,摄影,研究,社会实践,策展,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计
+  status: 开放/待截止
+- name: In Situ Residency Programme 2027
+  apply: https://www.citedesartsparis.net/en/in-situ-residency-programme-2027
+  site: https://www.citedesartsparis.net/
+  category: 资助/制作,驻地
+  field: 影像/电影,摄影,新媒体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Situated Research Residencies 2027 驻留征集
+  apply: https://www.medialab-matadero.es/en/announcements/situated-research-2027
+  site: https://www.medialab-matadero.es/
+  category: Fellowship,驻地
+  field: 建筑/空间,影像/电影,摄影,数字/AI,新媒体,研究,社会实践,策展,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: In Situ 2027
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSfHI2z_m8wyPHAXlFe0c1RFNl8WWrxVN6T0zGjUpQWqnFmlIw/viewform
+  site: https://www.citeinternationaledesarts.fr/en/appels-a-candidature/in-situ/
+  category: Fellowship,资助/制作,驻地
+  field: 写作,剧场,声音/音乐,建筑/空间,影像/电影,研究,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: Hillvale Gallery 2027 Exhibition Program
+  apply: https://www.hillvalegallery.com.au/apply
+  site: https://www.hillvalegallery.com.au/
+  category: 展览
+  field: 摄影
+  status: 开放/待截止
+- name: 2026 Foundwork Artist Prize
+  apply: https://foundwork.art/artist-prize
+  site: https://foundwork.art
+  category: 奖项
+  field: 工艺/纺织,影像/电影,摄影,数字/AI,新媒体,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: Berlendis Venice Art Prize 2027 Second Edition
+  apply: https://www.spazioberlendis.it/berlendis-price-application-form/
+  site: https://www.spazioberlendis.it/
+  category: 奖项,展览
+  field: 工艺/纺织,影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: Museum Education Practicum Program (Fall 2026)
+  apply: https://www.studiomuseum.org/museum-education-practicum
+  site: https://www.studiomuseum.org/
+  category: 专业发展
+  field: 研究
+  status: 开放/待截止
+- name: Hurford Post-Baccalaureate Fellow 2026–2028
+  apply: https://haverford.wd1.myworkdayjobs.com/External/job/Haverford-Campus/Post-Baccalaureate-Fellow_R1476
+  site: https://www.haverford.edu/
+  category: Fellowship,专业发展
+  field: 研究,跨学科
+  status: 开放/待截止
+- name: This is Gender Regional Curatorial Fellowship
+  apply: https://thisisgender.global5050.org/regional-curatorial-fellowship/
+  site: https://global5050.org/
+  category: Fellowship,专业发展
+  field: 写作,摄影,研究,社会实践,策展
+  status: 开放/待截止
+- name: 'FUKT Magazine #24 – The City Issue Open Call'
+  apply: https://www.fuktmagazine.com/opencall2026
+  site: https://www.fuktmagazine.com
+  category: 出版/征稿
+  field: 视觉艺术（绘画）
+  status: 开放/待截止
+- name: NARS 2026 Fall Open Call International Residency - US-Based Fellowship
+  apply: https://narsfoundation.submittable.com/submit
+  site: https://www.narsfoundation.org/residencies/us-artists
+  category: Fellowship,驻地
+  field: 声音/音乐,影像/电影,摄影,新媒体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Prêmio Claraboia de Arte Contemporânea 2026
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSe1lCqdZhcLhb6wbC9JCzVje80tF1-aNzFJjPjpFSGZSvfOLg/viewform?usp=header
+  site: https://claraboia.art/premio-claraboia/
+  category: 奖项,展览
+  field: 影像/电影,摄影,新媒体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: FRAU schafft Raum — Open Call 4 (2027–2028)
+  apply: https://frau-schafft-raum.at/?call
+  site: https://frau-schafft-raum.at/
+  category: 展览
+  field: 视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: 2027 & 2028 Solo & Group Show Open Call
+  apply: https://coprosperity.org/exhibitions
+  site: https://coprosperity.org
+  category: 展览
+  field: 影像/电影,摄影,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 开放/待截止
+- name: Comfort Station 2027 Exhibitions Cycle Open Call
+  apply: https://forms.gle/2wozkeLMku9zPrhE9
+  site: https://comfortstationlogansquare.org/
+  category: 展览
+  field: 跨学科
+  status: 开放/待截止
+- name: Exposure One Awards 2026 — Photographer of the Year
+  apply: https://exposureoneawards.com/enter/
+  site: https://exposureoneawards.com
+  category: 奖项
+  field: 摄影
+  status: 开放/待截止
+- name: Open Call 2027
+  apply: https://wpzimmer.be/en/open-call/open-call-2027-2/
+  site: https://wpzimmer.be/en/
+  category: 驻地
+  field: 剧场,社会实践,舞蹈/身体,视觉艺术（行为）,跨学科
+  status: 开放/待截止
+- name: Artistic Cohort 2027-2029
+  apply: https://rosechoreographicschool.com/apply
+  site: https://rosechoreographicschool.com/
+  category: Fellowship,专业发展
+  field: 剧场,研究,舞蹈/身体,跨学科
+  status: 开放/待截止
+- name: AHC Residency 2027
+  apply: http://arthubcopenhagen.net/en/event/ahc-residency-2027/
+  site: http://arthubcopenhagen.net
+  category: 专业发展,驻地
+  field: 视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 开放/待截止
+- name: Titanik A.i.R. 2027
+  apply: https://www.titanik.fi/residency-open-call-titanik-a-i-r-2027/
+  site: https://www.titanik.fi
+  category: 驻地
+  field: 声音/音乐,新媒体,跨学科
+  status: 开放/待截止
+- name: Time for (S) Heroes
+  apply: https://timeforsheroes.eu/open-call
+  site: https://timeforsheroes.eu/open-call
+  category: 驻地
+  field: 声音/音乐,工艺/纺织,数字/AI,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 开放/待截止
+- name: Xposure International Photography Awards 2026
+  apply: https://awards.xposure.net
+  site: https://xposure.net
+  category: 奖项,节展
+  field: 摄影
+  status: 开放/待截止
+- name: Open Call for the Athens Epidaurus Festival 2027 Artistic Programme
+  apply: https://aefestival.gr/call-2027/?lang=en
+  site: https://aefestival.gr/?lang=en
+  category: 委托,节展,资助/制作
+  field: 剧场,声音/音乐,舞蹈/身体,跨学科
+  status: 开放/待截止
+- name: Culinary Residency 2027
+  apply: https://dasminsk.de/residency
+  site: https://dasminsk.de/
+  category: 驻地
+  field: 社会实践,视觉艺术（行为）,跨学科
+  status: 开放/待截止
+- name: 'Changing Asia 2026 — Moments of Connection: Smiles and Hands of the Asia-Pacific'
+  apply: https://site.picter.com/changing-asia-2026
+  site: https://www.chinadaily.com.cn
+  category: 出版/征稿,节展
+  field: 摄影
+  status: 开放/待截止
+- name: TNT Residency (Winter 2027 cycle)
+  apply: http://www.transmitter.nyc/tnt-residency
+  site: https://www.tigerstrikesasteroid.com
+  category: 驻地
+  field: 影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 今日截止
+- name: Double Exposure Exhibition Open Call
+  apply: https://www.rootsandculturecac.org/exhibitions/submissions/
+  site: https://www.rootsandculturecac.org
+  category: 展览
+  field: 影像/电影,摄影,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 今日截止
+- name: NEMO – Northern European Mobility Opportunity 2026
+  apply: https://nordiskkulturfond.org/en/funding-programmes/nemo-northern-european-mobility-opportunity
+  site: https://nordiskkulturfond.org
+  category: 资助/制作
+  field: 写作,剧场,声音/音乐,工艺/纺织,影像/电影,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 今日截止
+- name: 23rd International Short Film Festival 2026
+  apply: https://filmfreeway.com/accordiedisaccordi
+  site: https://www.accordiedisaccordi.com
+  category: 奖项,节展
+  field: 声音/音乐,影像/电影,新媒体
+  status: 今日截止
+- name: Metron Förderpreis 2026
+  apply: https://www.metron.ch/foerderpreis/
+  site: https://www.metron.ch
+  category: 奖项,资助/制作
+  field: 剧场,声音/音乐,建筑/空间,社会实践,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 今日截止
+- name: 'Curator-in-Residence 2026: Mentorship Programme'
+  apply: https://nodisciplinelimited.hk/index.php/portfolio/curator-in-residence-2026/
+  site: https://nodisciplinelimited.hk/
+  category: 专业发展
+  field: 剧场,影像/电影,数字/AI,新媒体,研究,社会实践,视觉艺术（行为）,跨学科
+  status: 今日截止
+- name: ACF Open Call Program 2026 Late Period
+  apply: https://artistcafe.jp/news/2904/
+  site: https://artistcafe.jp/
+  category: 专业发展,展览,工作坊
+  field: 社会实践,策展,跨学科
+  status: 今日截止
+- name: MMCA International Artist Residency Program 2027
+  apply: https://m.mmca.go.kr/eng/pr/newsDetail.do?bdCId=202608270010567
+  site: https://www.mmca.go.kr/eng/
+  category: 驻地
+  field: 声音/音乐,影像/电影,摄影,新媒体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 今日截止
+- name: 12Gates & PAAFF Contemporary Video Art Exhibition 2026
+  apply: https://filmfreeway.com/12GatesVideoArt
+  site: https://www.twelvegatesarts.org/
+  category: 展览,节展
+  field: 影像/电影,新媒体
+  status: 已截止
+- name: AA2A Scheme 2026/2027
+  apply: https://aa2a.org/apply/
+  site: https://aa2a.org/
+  category: 专业发展,驻地
+  field: 工艺/纺织,影像/电影,摄影,数字/AI,新媒体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: 'Listening Collectively: Acoustic Flows'
+  apply: https://2026.sonic-territories.at/open-call-2026-program
+  site: https://www.sonic-territories.at/
+  category: 工作坊,节展
+  field: 声音/音乐,新媒体,研究,社会实践,视觉艺术（行为）,跨学科
+  status: 已截止
+- name: Artists and Creatives Grant Fall Cycle 2026
+  apply: https://www.communityengagement.org/how-to-apply
+  site: https://www.communityengagement.org/
+  category: 资助/制作
+  field: 声音/音乐,影像/电影,社会实践,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: Jentel Artist Residency — Winter/Spring 2027
+  apply: https://jentelartistresidency.submittable.com/submit
+  site: https://www.jentelarts.org/
+  category: 驻地
+  field: 写作,声音/音乐,视觉艺术（绘画）
+  status: 已截止
+- name: Yale Library Special Collections Research Fellowships for Graduate Students 2027–2028
+  apply: https://beinecke.library.yale.edu/beinecke/researchers/fellowships/research-fellowships-graduate-students
+  site: https://beinecke.library.yale.edu
+  category: Fellowship
+  field: 写作,剧场,声音/音乐,影像/电影,摄影,研究,策展,舞蹈/身体,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: Renversons Emerging Choreographer Commission
+  apply: https://www.renversons.com/apply
+  site: https://www.renversons.com
+  category: 委托,资助/制作
+  field: 舞蹈/身体,跨学科
+  status: 已截止
+- name: The Lucie Photo Book Prize 2026
+  apply: https://luciefoundation.org/lucie-photo-book-prize/
+  site: https://luciefoundation.org/
+  category: 出版/征稿,奖项
+  field: 写作,摄影,视觉艺术（绘画）,设计
+  status: 已截止
+- name: Spring 2027 New Voices Award for Poetry
+  apply: https://washingtonsquarereview.squarespace.com/newvoicesaward
+  site: https://www.washingtonsquarereview.com/
+  category: 出版/征稿,奖项
+  field: 写作,诗歌
+  status: 已截止
+- name: Millard Meiss Publication Fund / Wyeth Foundation for American Art Publication Grant
+  apply: https://www.collegeart.org/programs/publishing-grants/meiss
+  site: https://www.collegeart.org/programs/publishing-grants/meiss
+  category: 资助/制作
+  field: 写作,研究
+  status: 已截止
+- name: Songwriter Teaching Artists
+  apply: https://www.nycchildrenstheater.org/job-opening/songwriter-teaching-artists/
+  site: https://www.nycchildrenstheater.org/about-nycct/work-with-us/
+  category: 专业发展,工作坊
+  field: 写作,剧场,声音/音乐
+  status: 已截止
+- name: Hank Lane Music & Productions Auditions
+  apply: https://www.nyfa.org/opportunities/opportunity-info/?id=ad281d2a-1337-41fb-9b06-26ca0fe2b241&title=seeking-dynamic-instrumentalists-%26-vocalists
+  site: https://hanklane.com/careers
+  category: 专业发展
+  field: 声音/音乐
+  status: 已截止
+- name: Toronto Arts Council Residency Grant
+  apply: https://torontoartscouncil.org/grant-programs/tac-grants
+  site: https://torontoartscouncil.org
+  category: 资助/制作
+  field: 写作,剧场,声音/音乐,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: Playwright Submissions - Scenes from the Staten Island Ferry 2026
+  apply: https://sundogtheatre.org/opportunities/playwright-submissions-scenes-from-the-staten-island-ferry-2026/
+  site: https://sundogtheatre.org/opportunities/
+  category: 出版/征稿
+  field: 剧场,剧本
+  status: 已截止
+- name: BI-ANNUAL OPEN CALL 2027
+  apply: https://www.artworkarchive.com/call-for-submission/galleryjenseits/gallery-jenseits-bi-annual-open-call-2027
+  site: https://www.galleryjenseits.com/
+  category: 展览
+  field: 视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: 'Artadia Awards: Boston'
+  apply: https://artadia.submittable.com/submit
+  site: https://artadia.org/
+  category: 奖项
+  field: 影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: 2027 Ambroggio Prize
+  apply: https://poets.org/academy-american-poets/prizes/ambroggio-prize
+  site: https://poets.org/
+  category: 出版/征稿,奖项
+  field: 写作,诗歌
+  status: 已截止
+- name: Kluge Fellowships
+  apply: https://www.loc.gov/programs/john-w-kluge-center/chairs-fellowships/fellowships/kluge-fellowships/application-information
+  site: https://www.loc.gov/programs/john-w-kluge-center/
+  category: Fellowship
+  field: 研究
+  status: 已截止
+- name: Spring 2027 Residency Session
+  apply: https://www.hambidge.org/guidelines-apply
+  site: https://www.hambidge.org/
+  category: 驻地
+  field: 写作,声音/音乐,研究,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: Nes Artist Residency (October/November 2026)
+  apply: https://nes.slideroom.com/#/permalink/program/88722
+  site: https://neslist.is/
+  category: 驻地
+  field: 写作,声音/音乐,工艺/纺织,建筑/空间,影像/电影,摄影,研究,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: CONVIVIAL FOODSCAPES 艺术与生态驻留
+  apply: https://quintadasrelvas.pt/convivialfoodscapes/
+  site: https://quintadasrelvas.pt/
+  category: 驻地
+  field: 摄影,数字/AI,新媒体,研究,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Artist Residency — 15–29 October 2026
+  apply: https://www.cold-paradise.com/artist-residency
+  site: https://www.cold-paradise.com/artist-residency
+  category: 驻地
+  field: 写作,声音/音乐,研究,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 2027 Grants to Individuals
+  apply: https://www.grahamfoundation.org/grant_programs/?mode=individual
+  site: https://www.grahamfoundation.org/
+  category: 资助/制作
+  field: 写作,建筑/空间,影像/电影,新媒体,研究,策展,设计,跨学科
+  status: 已截止
+- name: MQ Artist in Residence Programme 2027
+  apply: https://www.mqw.at/en/art-culture/artists-in-residence
+  site: https://www.mqw.at
+  category: 驻地
+  field: 影像/电影,摄影,数字/AI,研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'Art & Stories: Archival Research Residency 2027'
+  apply: https://eofa.ch/en/residences/art-stories/
+  site: https://eofa.ch/
+  category: 资助/制作,驻地
+  field: 写作,影像/电影,摄影,研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Artistic Research Residency — Archives of International Organisations in Geneva 2027
+  apply: https://www.eofa.ch/en/open-call/
+  site: https://www.eofa.ch/en/
+  category: 驻地
+  field: 写作,声音/音乐,影像/电影,摄影,新媒体,研究,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Rejselegater 2026 — Tegneren Anne Gretes Fond
+  apply: https://bkf.dk/open-call-rejselegater-fra-tegneren-anne-gretes-fond/
+  site: https://bkf.dk
+  category: 资助/制作
+  field: 写作,建筑/空间,摄影,视觉艺术（绘画）,设计,诗歌
+  status: 已截止
+- name: 37th Stockholm International Film Festival — Call for Entries
+  apply: https://filmfreeway.com/StockholmFilmFestival
+  site: https://www.stockholmfilmfestival.se/en
+  category: 奖项,节展
+  field: 影像/电影
+  status: 已截止
+- name: Convocatòria de residències per a projectes artístics 2027
+  apply: https://ajuntament.barcelona.cat/fabriquescreacio/en/news/applications-are-now-open-2027-residency-programme-fabra-i-coats-fabrica-de-creacio
+  site: https://www.barcelona.cat/fabraicoats/
+  category: 驻地
+  field: 写作,剧场,声音/音乐,影像/电影,新媒体,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Résidence de recherche curatoriale 2026–2027
+  apply: https://villa-arson.fr/actualites/2026/07/appel-a-candidatures-residence-de-recherche-curatoriale/
+  site: https://villa-arson.fr
+  category: 驻地
+  field: 研究,策展,跨学科
+  status: 已截止
+- name: contact.energy '26 — Internationales Tanztheater Festival
+  apply: https://tanztheater-erfurt.de/festivals/contact-energy/
+  site: https://tanztheater-erfurt.de
+  category: 奖项,节展
+  field: 剧场,舞蹈/身体,视觉艺术（行为）
+  status: 已截止
+- name: Goldrausch Künstlerinnenprojekt 2027
+  apply: https://goldrausch.org/en/bewerbung/open-call/
+  site: https://goldrausch.org/
+  category: 专业发展,展览,工作坊
+  field: 声音/音乐,工艺/纺织,影像/电影,摄影,数字/AI,新媒体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Ausschreibung für das Ausstellungsjahr 2027
+  apply: https://kuenstlerhaus-sootboern.de/bewerbung-fuer-ausstellungen/
+  site: https://kuenstlerhaus-sootboern.de/
+  category: 展览
+  field: 声音/音乐,影像/电影,摄影,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Mediterranean & European Cross-Residency 2027
+  apply: https://cortexfrontal.org/open-call/
+  site: https://cortexfrontal.org
+  category: 驻地
+  field: 写作,摄影,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: Hamiltonian Teaching Artist Residency at American University
+  apply: https://jobs.chronicle.com/job/38026558/hamiltonian-teaching-artist-residency-at-american-university/
+  site: https://hamiltonianartists.org
+  category: Fellowship,驻地
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Rauschenberg Medical Emergency Grants Cycle 38
+  apply: https://www.nyfa.org/awards-grants/rauschenberg-medical-emergency-grants/
+  site: https://www.nyfa.org/
+  category: 资助/制作
+  field: 影像/电影,数字/AI,舞蹈/身体,视觉艺术（绘画）
+  status: 已截止
+- name: Senior Fellowship 2026
+  apply: https://dedalusfoundation.org/programs/fellowships-awards/view/senior-fellowship/
+  site: https://dedalusfoundation.org/
+  category: Fellowship,资助/制作
+  field: 写作,研究,视觉艺术（绘画）
+  status: 已截止
+- name: Artists Intensive Study Programme (AISP) — Second Edition 2027
+  apply: https://qmforms.qm.org.qa/form/AISP-2
+  site: https://firestation.org.qa/en/calendar/aisp-second-edition/
+  category: 专业发展,驻地
+  field: 声音/音乐,影像/电影,摄影,新媒体,社会实践,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Guggenheim Fellowship 2027
+  apply: https://competition.gf.org/signin
+  site: https://www.gf.org/program/how-to-apply
+  category: 专业发展,资助/制作
+  field: 写作,剧场,声音/音乐,影像/电影,数字/AI,研究,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: Atelier Nord Residency 2027–2028
+  apply: https://ateliernord.no/project/atelier-nord-residency/?lang=en
+  site: https://ateliernord.no/
+  category: 驻地
+  field: 数字/AI,研究
+  status: 已截止
+- name: The 2026 Funding Call (Arts & Research)
+  apply: https://koneensaatio.fi/en/grants/
+  site: https://koneensaatio.fi/en/
+  category: 专业发展,资助/制作
+  field: 写作,剧场,声音/音乐,工艺/纺织,建筑/空间,影像/电影,摄影,数字/AI,新媒体,研究,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: The Toni Beauchamp Prize in Critical Art Writing
+  apply: https://gulfcoastmag.org/beauchamp-prize-contest/index.html
+  site: https://gulfcoastmag.org
+  category: 出版/征稿
+  field: 写作
+  status: 已截止
+- name: The Barn Artist Residency (Winter/Spring 2027 Cycle)
+  apply: https://www.albeefoundation.org/guidelines--submitting.html
+  site: https://www.albeefoundation.org
+  category: Fellowship,驻地
+  field: 写作,剧本,视觉艺术（绘画）,视觉艺术（装置/雕塑）,诗歌,跨学科
+  status: 已截止
+- name: The 12th International Awards for Art Criticism (IAAC 12)
+  apply: http://www.iaac-m21.com/english/
+  site: http://www.iaac-m21.com
+  category: 出版/征稿,奖项
+  field: 写作,研究,策展,跨学科
+  status: 已截止
+- name: Art & Stories 2027
+  apply: https://www.eofa.ch/en/open-call/
+  site: https://www.eofa.ch
+  category: 驻地
+  field: 写作,剧场,声音/音乐,影像/电影,研究,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计
+  status: 已截止
+- name: Support for International Showcasing of co-creation projects
+  apply: https://platform.izolyatsia.org/en/contest/zmina-resilience-showcasing-1
+  site: https://zmina.eu/en/open-calls/support-for-international-showcasing-of-co-creation-projects/
+  category: 资助/制作
+  field: 剧场,声音/音乐,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'Open Call 2027: Artists, Architecture, Dance & Music Residencies'
+  apply: https://artomi.org/residencies/
+  site: https://artomi.org
+  category: 驻地
+  field: 声音/音乐,建筑/空间,社会实践,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'Call for Artists — Mentoring Artist-in-Residence (Mentor: Hannah Drake)'
+  apply: https://atlanticcenterforthearts.org/residencies/mair-schedule/
+  site: https://atlanticcenterforthearts.org
+  category: 驻地
+  field: 写作,剧场,舞蹈/身体,跨学科
+  status: 已截止
+- name: Winter 2026 Residency Session
+  apply: https://sitetoronto.org/residencies
+  site: https://sitetoronto.org
+  category: 驻地
+  field: 影像/电影,研究,策展,视觉艺术（行为）,跨学科
+  status: 已截止
+- name: Data-driven Tour Planning Programme
+  apply: https://tourbus.ai/news/open-call-tourbus-europa/
+  site: https://tourbus.ai/news/open-call-tourbus-europa/
+  category: 专业发展,工作坊
+  field: 声音/音乐
+  status: 已截止
+- name: 'FORMAT27 Open Call: PLAY'
+  apply: https://site.picter.com/format-27-open-call/timeline
+  site: https://formatfestival.com/
+  category: 奖项,展览,节展
+  field: 影像/电影,摄影,数字/AI,新媒体,策展,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Helsinki–Dublin Residency Exchange 2027
+  apply: https://www.hiap.fi/open-call/helsinki-dublin-residency-exchange-2027/
+  site: https://www.hiap.fi/
+  category: 驻地
+  field: 影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Artist in Residence Programme / Finland-based Artists / 3 Months / 2027
+  apply: https://www.hiap.fi/open-call/hiap-artist-in-residency-programme-finland-based-artists-3-months-2027/
+  site: https://www.hiap.fi/
+  category: 驻地
+  field: 声音/音乐,影像/电影,摄影,研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Workspace Residency Programme for Finland-based Artists 2027
+  apply: https://www.hiap.fi/open-call/hiap-workspace-residency-programme-for-finland-based-artists-2027/
+  site: https://www.hiap.fi/
+  category: 驻地
+  field: 声音/音乐,影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: The 8th Dream Big Art Awards Media Art
+  apply: https://dbag.co.kr/8th/
+  site: https://www.dbartlab.com/
+  category: 奖项,展览
+  field: 影像/电影,数字/AI,新媒体
+  status: 已截止
+- name: Digital Call-Out
+  apply: https://whiterabbitcollection.org/wrg-digital-call-out/
+  site: https://whiterabbitcollection.org
+  category: 委托
+  field: 影像/电影,数字/AI
+  status: 已截止
+- name: Open Call for Solo Exhibitions (Spring 2027)
+  apply: https://www.instagram.com/nassauavenuegallery/
+  site: https://nassauavenuegallery.square.site
+  category: 展览
+  field: 工艺/纺织,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'DesignTO Festival 2027: Intersections Public Art Installations'
+  apply: https://yongestclair.ca/event/call-for-artists-designto-2027/
+  site: https://designto.org/
+  category: 委托,展览,节展,资助/制作
+  field: 建筑/空间,新媒体,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: Bath Open Art Prize 2026
+  apply: https://www.fringeartsbath.co.uk/bathopen
+  site: https://www.fringeartsbath.co.uk
+  category: 奖项,展览
+  field: 工艺/纺织,影像/电影,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'Futures of Listening — Earth Immersion #1: Trembling Planet'
+  apply: https://fiber.homerun.co/artist-residency-earth-immersion/en
+  site: https://futuresoflistening.nl/
+  category: 委托,驻地
+  field: 作曲,声音/音乐,影像/电影,新媒体,研究,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: 'Futures of Listening — Worlding Narratives #2: Roaming Sound Space'
+  apply: https://fiber.homerun.co/artist-residency-worlding-narratives/en
+  site: https://futuresoflistening.nl/
+  category: 委托,驻地
+  field: 作曲,写作,声音/音乐,新媒体,研究,设计,跨学科
+  status: 已截止
+- name: 'Futures of Listening — Architecture on Sound #1'
+  apply: https://fiber.homerun.co/artist-residency-architecture-on-sound/en
+  site: https://futuresoflistening.nl/
+  category: 委托,驻地
+  field: 作曲,声音/音乐,建筑/空间,影像/电影,新媒体,研究,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: Lead image commission for Mother Tongues Festival 2027
+  apply: https://mothertonguesfestival.com/2026/07/14/open-call-for-illustrators-2027/
+  site: https://mothertonguesfestival.com/
+  category: 委托
+  field: 视觉艺术（绘画）,设计
+  status: 已截止
+- name: Competición Internacional de Cortometrajes ANIMARIO 2026
+  apply: https://www.mataderomadrid.org/convocatorias
+  site: https://www.mataderomadrid.org
+  category: 奖项,节展
+  field: 影像/电影,数字/AI,新媒体,跨学科
+  status: 已截止
+- name: Visiting Research Curator of UNIDEE Residency Programs 2027-28
+  apply: https://unidee.cittadellarte.it/activity.html?id=269
+  site: https://unidee.cittadellarte.it/
+  category: 专业发展
+  field: 研究,社会实践,策展,跨学科
+  status: 已截止
+- name: OPEN CALL 2027 BLINDSIDE
+  apply: https://blindside.org.au/opportunities/
+  site: https://blindside.org.au
+  category: 展览
+  field: 跨学科
+  status: 已截止
+- name: Exhibition Fellowship 2026-2027
+  apply: https://rootdivision.org/apply/
+  site: https://rootdivision.org/
+  category: Fellowship,专业发展
+  field: 研究,策展,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: R.A.R.O. Buenos Aires Open Call
+  apply: https://www.esraro.com/en/buenosaires
+  site: https://www.esraro.com/en
+  category: 驻地
+  field: 工艺/纺织,摄影,新媒体,研究,策展,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'Brave New Visions: Creativity as Rebellion — PhotoVogue Global Open Call 2026'
+  apply: https://app.picter.com/contests/cd85f379-1cc7-458a-9f36-157a9c10f942/start
+  site: https://www.vogue.com/photovogue
+  category: 出版/征稿,奖项,资助/制作
+  field: 影像/电影,摄影,数字/AI,跨学科
+  status: 已截止
+- name: ILLUMINE 2 Commission
+  apply: https://lightupthenorth.com/development/illumine/
+  site: https://lightupthenorth.com/development/illumine/
+  category: 委托,资助/制作
+  field: 建筑/空间
+  status: 已截止
+- name: Programme Line 1
+  apply: https://www.martin-roth-initiative.de/en/application-programme-line-1
+  site: https://www.martin-roth-initiative.de/en/application-programme-line-1
+  category: Fellowship,资助/制作
+  field: 写作,剧场,声音/音乐,影像/电影,舞蹈/身体,跨学科
+  status: 已截止
+- name: ISLAA Publication Grant 2026
+  apply: mailto:applications@islaa.org
+  site: https://islaa.org/updates/islaapublicationgrants/
+  category: 出版/征稿,资助/制作
+  field: 写作,研究,策展
+  status: 已截止
+- name: MacDowell Fellowship
+  apply: https://www.macdowell.org/apply/apply-for-fellowship
+  site: https://www.macdowell.org/
+  category: Fellowship,驻地
+  field: 写作,剧场,剧本,声音/音乐,建筑/空间,影像/电影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,诗歌,跨学科
+  status: 已截止
+- name: The Shine of Our Eyes / Open Call
+  apply: https://forms.gle/HfFW6QnfjBURH7yt6
+  site: https://typography-worldwide.org/en/2026/08/13/the-shine-of-our-eyes-open-call/
+  category: 专业发展,驻地
+  field: 工艺/纺织,研究,策展
+  status: 已截止
+- name: 'ArtEvol 2026: A View from Everywhere'
+  apply: https://opencall.londonartcollective.com/artevol2026
+  site: https://londonartcollective.com/
+  category: 展览
+  field: 写作,声音/音乐,工艺/纺织,影像/电影,摄影,数字/AI,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Accueil-Studio Residencies 2027
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSc0N0kkgOF903C-5kAVRlmbLIlchiQ201JoBTPs2G7wrLPRiw/viewform?usp=header
+  site: https://ccncn.eu/en/projects-supported-by-the-ccn/accueil-studio-residencies/
+  category: 资助/制作,驻地
+  field: 写作,剧场,声音/音乐,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Courants du monde — Résidence culture / Parcours de collections 2027
+  apply: https://www.bnf.fr/en/actualitesEN/2027-call-applications-hosting-international-professionals
+  site: https://www.bnf.fr/en/programmes-hosting-visiting-international-professionals
+  category: 专业发展,驻地
+  field: 写作,研究,策展,跨学科
+  status: 已截止
+- name: OPEN CALL - RESIDENCY PROGRAMS FOR 2027
+  apply: https://www.altart.cz/rezidence-2027/
+  site: https://www.altart.cz/
+  category: 资助/制作,驻地
+  field: 剧场,研究,社会实践,舞蹈/身体,视觉艺术（行为）,跨学科
+  status: 已截止
+- name: 'Open Call: Refusing Rehearsing Resisting'
+  apply: https://www.vbkoe.org/en/open-call-refusing-rehearsing-resisting/
+  site: https://www.vbkoe.org/en/open-call-refusing-rehearsing-resisting/
+  category: 展览
+  field: 研究,社会实践,跨学科
+  status: 已截止
+- name: Radcliffe Fellowship 2027–28（Creative Arts）
+  apply: https://www.radcliffe.harvard.edu/radcliffe-fellowship/application-information
+  site: https://www.radcliffe.harvard.edu/radcliffe-fellowship
+  category: Fellowship
+  field: 写作,声音/音乐,影像/电影
+  status: 已截止
+- name: Apply for studio space in Arts Square, Sharjah
+  apply: https://forms.sharjahart.org/Open-Call-Apply-for-studio-space-in-Arts-Square-Sharjah-En
+  site: https://sharjahart.org
+  category: 驻地
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: AIR_MCUBE International Artists' Residency Nepal 2026 | 2027
+  apply: https://gallerymcube.com/residency-apply/
+  site: https://gallerymcube.com
+  category: 驻地
+  field: 摄影,社会实践,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: 2027年蕭壠文化園區國際藝術進駐計畫
+  apply: https://air-culture.tainan.gov.tw/index.php?id=4&inter=plan
+  site: https://soulangh.tnc.gov.tw/
+  category: 驻地
+  field: 作曲,偶戏,写作,剧场,剧本,声音/音乐,工艺/纺织,建筑/空间,影像/电影,摄影,数字/AI,新媒体,歌剧,研究,社会实践,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,诗歌,跨学科
+  status: 已截止
+- name: Dezi Art Prize 2026
+  apply: https://www.deziart.co/artprize
+  site: https://www.dezi.work/
+  category: 奖项,资助/制作
+  field: 工艺/纺织,影像/电影,摄影,数字/AI,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计
+  status: 已截止
+- name: Latin American Artistic Field Grants
+  apply: https://fundacionamaamoedo.org
+  site: https://fundacionamaamoedo.org
+  category: 出版/征稿,资助/制作
+  field: 研究,社会实践,跨学科
+  status: 已截止
+- name: Gästbostad i Paris, Svenska institutet 2027–2028
+  apply: https://www.konstnarsnamnden.se/stipendier-och-bidrag/stipendie/gastbostad-paris-svenska-institutet/
+  site: https://www.konstnarsnamnden.se/
+  category: 驻地
+  field: 工艺/纺织,建筑/空间,摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计
+  status: 已截止
+- name: Hodder Fellowship 2027–28
+  apply: https://arts.princeton.edu/fellowships/hodder-fellowship/
+  site: https://arts.princeton.edu/
+  category: Fellowship
+  field: 剧场,声音/音乐,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Princeton Arts Fellowship 2027-2029
+  apply: https://arts.princeton.edu/fellowships/princeton-arts-fellowship/
+  site: https://arts.princeton.edu/
+  category: Fellowship,专业发展
+  field: 剧场,声音/音乐,舞蹈/身体
+  status: 已截止
+- name: Numèric Research and Creation Grant Residency 2026
+  apply: https://lesantipodes.com/numeric/2026_formulari_en.html
+  site: https://lesantipodes.com/
+  category: 资助/制作,驻地
+  field: 写作,剧场,声音/音乐,影像/电影,数字/AI,研究,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Royal Swedish Academy of Fine Arts x Cité internationale des arts
+  apply: https://www.citeinternationaledesarts.fr/en/programme-de-residence/royal-swedish-academy-of-fine-arts-x-cite-internationale-des-arts/
+  site: https://konstakademien.se/
+  category: 驻地
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: ON::View Artist Residency 2027
+  apply: https://artssoutheast.org/onview-residency-app
+  site: https://artssoutheast.org/
+  category: 驻地
+  field: 作曲,偶戏,写作,剧场,剧本,声音/音乐,工艺/纺织,建筑/空间,影像/电影,摄影,数字/AI,歌剧,研究,社会实践,策展,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,诗歌,跨学科
+  status: 已截止
+- name: KNOWCASE Open Call 2027
+  apply: https://zealous.co/sonard/opportunity/knowcase-open-call-2027/
+  site: https://sonar.es/en/knowcase-open-call-2027
+  category: 委托,展览,资助/制作
+  field: 影像/电影,数字/AI,新媒体,研究,社会实践,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: Who Walks Here — Artistic Residency at OvestLab 2027
+  apply: mailto:laura.p@collettivoamigdala.com
+  site: https://collettivoamigdala.com/portfolio-page/open-call-who-walks-here-artistic-residency-at-ovestlab-modena-italy/
+  category: 驻地
+  field: 剧场,声音/音乐,建筑/空间,研究,社会实践,舞蹈/身体,视觉艺术（行为）,跨学科
+  status: 已截止
+- name: Digital Culture Installation
+  apply: https://sonar.es
+  site: https://sonar.es
+  category: 委托,展览
+  field: 数字/AI,跨学科
+  status: 已截止
+- name: 'Open Call for Residencies 2027: What Is Real?'
+  apply: https://calls.platformdali.org
+  site: https://platformdali.org/en/call/open-call-for-residencies-2027-what-is-real/
+  category: 资助/制作,驻地
+  field: 新媒体,跨学科
+  status: 已截止
+- name: Roscommon Public Art Programme
+  apply: https://www.roscommoncoco.ie/en/services/community/arts-office/public-art.html
+  site: https://www.roscommoncoco.ie/en/services/community/arts-office/public-art.html
+  category: 委托
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Hunt Museum Open Submission Exhibition 2026
+  apply: https://huntmuseum.oess1.uk/Applications/ArtistEnter2021?callID=729
+  site: https://www.huntmuseum.com/
+  category: 奖项,展览
+  field: 摄影,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Design Researchers in Residence 2026/27 — Grown
+  apply: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=PC0S7mJOh0Ga9FRJTCZq8rRxAnYxSQhAjBTcR8sK1M9UNlVSQllJNDBHRDFDMzBWVDJNMERPRVdONy4u
+  site: https://futureobservatory.org/research/apply-for-funding/apply-for-funding-grown
+  category: Fellowship,驻地
+  field: 工艺/纺织,建筑/空间,数字/AI,研究,设计,跨学科
+  status: 已截止
+- name: 'Open Call: Cite the past, sight the stars'
+  apply: https://tpg.submittable.com/submit
+  site: https://thephotographersgallery.org.uk/
+  category: 驻地
+  field: 摄影,数字/AI,跨学科
+  status: 已截止
+- name: International Granada Writers in Residence Programme 2026
+  apply: mailto:talleres@granadaciudaddeliteratura.com
+  site: https://cityofliterature.com/opportunities/granada-writers-in-residence-programme/
+  category: 驻地
+  field: 写作,剧本,诗歌
+  status: 已截止
+- name: Résidence de territoire 2026–2027 — « Mémoire(s) »
+  apply: https://www.cc-madetmoselle.fr/fr/appel-a-projet-residence-de-territoire.html
+  site: https://www.cc-madetmoselle.fr/UserFiles/File/cteac-mad-moselle-appel-a-projet-residence-de-territoire-2026-2027.pdf
+  category: 驻地
+  field: 写作,剧场,声音/音乐,影像/电影,摄影,社会实践,舞蹈/身体,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 'Ecosystems as Living Communities, Vol. III: UniCredit Group UNIDEE Connective Residencies 2026–27'
+  apply: https://unidee.cittadellarte.it/activity.html?id=263
+  site: https://www.cittadellarte.it/
+  category: 委托,资助/制作,驻地
+  field: 社会实践,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: In Listening 2027
+  apply: https://www.ctm-festival.de/festival-2027/open-calls/in-listening-2027
+  site: https://www.ctm-festival.de/
+  category: 委托,资助/制作
+  field: 写作,声音/音乐,研究,跨学科
+  status: 已截止
+- name: PRESS PLAY OPEN CALL FOR EXHIBITORS
+  apply: https://pioneerworks.org/programs/press-play-2026
+  site: https://pioneerworks.org/
+  category: 出版/征稿,节展
+  field: 写作,声音/音乐,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Résidence Partagée 2027–2028
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSf_CgBFScw1s8P8NGtNAQhTqV9geiJZDZcpa_5asTL5X77qVQ/viewform
+  site: https://www.cnd.fr/fr/appels-a-projets/residence-partagee-paris-reseau-danse
+  category: 资助/制作,驻地
+  field: 剧场,舞蹈/身体,跨学科
+  status: 已截止
+- name: Exhibition Curator 2027
+  apply: https://www.emaf.de/en/jobs/
+  site: https://www.emaf.de/en/jobs/
+  category: 节展
+  field: 影像/电影,数字/AI,策展
+  status: 已截止
+- name: 2026 Paris Photo–Aperture PhotoBook Awards
+  apply: https://site.picter.com/2026-paris-photo-aperture-photobook-awards
+  site: https://aperture.org/calls-for-entry/photobook-awards/
+  category: 奖项
+  field: 摄影
+  status: 已截止
+- name: Call for Proposals
+  apply: https://ca.mar.medallia.com/?d=l&e=90010513&h=6497B02EF9E89AD&l=en
+  site: https://www.toronto.ca/explore-enjoy/history-art-culture/museums/
+  category: 展览,工作坊,资助/制作
+  field: 写作,影像/电影,社会实践,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: 未来身体营 × NOWNESS 舞蹈影像实验室 2026
+  apply: http://t.cn/AXNMSRxh
+  site: https://mp.weixin.qq.com/s/cvzoqNfsjIsUsrANXI2F3A
+  category: 专业发展,节展
+  field: 影像/电影,舞蹈/身体,跨学科
+  status: 已截止
+- name: Neo Future - Thematic 2-Week Residency Program in Finland, Dec 2026
+  apply: https://www.arteles.org/future_residency.html
+  site: https://www.arteles.org
+  category: 驻地
+  field: 研究,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: 'Open Call: Inter/national Fellowship'
+  apply: https://scuolapiccolazattere.com/eventi/international-fellowship-2025-2-3
+  site: https://scuolapiccolazattere.com/
+  category: Fellowship,驻地
+  field: 写作,建筑/空间,研究,策展,跨学科
+  status: 已截止
+- name: National Gallery of Iceland/CUSP
+  apply: https://on-the-move.org/news/national-gallery-icelandcusp-residency-time-based-media-artists-2027-iceland
+  site: https://on-the-move.org/news/national-gallery-icelandcusp-residency-time-based-media-artists-2027-iceland
+  category: 驻地
+  field: 声音/音乐,影像/电影,数字/AI,研究,跨学科
+  status: 已截止
+- name: Open Call about the preservation of time-based arts at the National Gallery of Iceland
+  apply: https://www.listasafn.is/english/
+  site: https://www.listasafn.is/english/
+  category: 驻地
+  field: 影像/电影,数字/AI,研究,跨学科
+  status: 已截止
+- name: Silence, Awareness, Existence — Winter 2027 Residency
+  apply: https://arteles.wufoo.com/forms/qm3aog805onitv/
+  site: https://www.arteles.org
+  category: 驻地
+  field: 写作,声音/音乐,影像/电影,摄影,研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Lilly Reich Grant
+  apply: https://miesbcn.com/project/lilly-reich-grant-for-equality-in-architecture/
+  site: https://miesbcn.com/project/lilly-reich-grant-for-equality-in-architecture/
+  category: 资助/制作
+  field: 建筑/空间,研究,设计
+  status: 已截止
+- name: Culture Forward
+  apply: https://www.svaneff.org/cultureforward
+  site: https://www.svaneff.org/
+  category: 资助/制作
+  field: 写作,剧场,声音/音乐,影像/电影,社会实践,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 2027 Creative Residency Program
+  apply: https://bloedelreserve.org/creative-residency/
+  site: https://bloedelreserve.org/
+  category: 驻地
+  field: 写作,声音/音乐,影像/电影,研究,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: Spring 2027 Work-Trade Residency
+  apply: https://www.hdts.site/work-trade
+  site: https://www.hdts.site/
+  category: 驻地
+  field: 研究,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: Napa Lighted Art Festival 2027
+  apply: https://opportunities.wearecreativewest.org/opportunity/17275/CAFE
+  site: https://www.cityofnapa.org/689/Napa-Lighted-Art-Festival
+  category: 委托,节展
+  field: 声音/音乐,影像/电影,数字/AI,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: 100W-Corsicana Artists and Writers Residency
+  apply: https://www.corsicanaresidency.org/apply
+  site: https://www.corsicanaresidency.org/apply
+  category: 驻地
+  field: 写作,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Arts in Community Grants 2026
+  apply: https://www.southarts.org/grants-opportunities/arts-community-grants
+  site: https://www.southarts.org/
+  category: 资助/制作
+  field: 写作,剧场,影像/电影,社会实践,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: 2027 Session 1 Residencies
+  apply: https://www.khncenterforthearts.org/residencyresident-application/how-apply
+  site: https://www.khncenterforthearts.org/
+  category: 驻地
+  field: 写作,声音/音乐,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Long Term and Substitute Cello
+  apply: https://pittsburghsymphony.formstack.com/forms/pso_audition_application_form
+  site: https://www.pittsburghsymphony.org/
+  category: 专业发展
+  field: 声音/音乐
+  status: 已截止
+- name: Textile & Fiber Art Residency Program 2026
+  apply: https://www.theweavingworkshop.co.uk/apply
+  site: https://www.theweavingworkshop.co.uk
+  category: 工作坊,驻地
+  field: 视觉艺术（绘画）,设计,跨学科
+  status: 已截止
+- name: International Contest for New Comic Authors 2026
+  apply: https://www.tcbf.it/26/
+  site: https://www.tcbf.it/
+  category: 奖项
+  field: 写作,视觉艺术（绘画）
+  status: 已截止
+- name: 'Le Garage Moderne/OASIS: Residency 2026'
+  apply: https://on-the-move.org/news/le-garage-moderneoasis-residency-2026-france
+  site: https://on-the-move.org/news/le-garage-moderneoasis-residency-2026-france
+  category: 驻地
+  field: 剧场,声音/音乐,建筑/空间,影像/电影,社会实践,舞蹈/身体,视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计,跨学科
+  status: 已截止
+- name: INHABIT // Artist-in-Residence
+  apply: https://www.aesthetics.mpg.de/en/research/inhabit-artist-in-residence/application.html
+  site: https://www.aesthetics.mpg.de/en/research/inhabit-artist-in-residence.html
+  category: 驻地
+  field: 声音/音乐,影像/电影,跨学科
+  status: 已截止
+- name: Tartu City of Literature
+  apply: https://on-the-move.org/news/tartu-city-literature-residency-writers-and-translators-autumn-2026-estonia
+  site: https://on-the-move.org/news/tartu-city-literature-residency-writers-and-translators-autumn-2026-estonia
+  category: 驻地
+  field: 跨学科
+  status: 已截止
+- name: Open Call Galleria Toinen Silmä Event Space Spring 2027
+  apply: mailto:toinensilma@gmail.com
+  site: https://www.artists.fi/fi/open-call-galleria-toinen-silman-tapahtumatilaan-tammi-toukokuulle-2027-dl-19
+  category: 展览,工作坊
+  field: 影像/电影,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,跨学科
+  status: 已截止
+- name: Artist in Residence
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSc3ttERKBJ_kSdKrPWVqaUIUS0HIlgxJ3ouOgO-Fa-hu3b_3g/viewform
+  site: https://www.latitudechicago.org/artist-in-residence
+  category: 驻地
+  field: 数字/AI,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Studio bursary open call for London-based Hong Kong Diaspora artists
+  apply: https://www.gasworks.org.uk/opportunities/studio-bursary-open-call-for-hong-kong-diaspora-artists#application-form
+  site: https://www.gasworks.org.uk/opportunities/studio-bursary-open-call-for-hong-kong-diaspora-artists
+  category: 专业发展,资助/制作
+  field: 视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Major Events and Festivals Sponsorship Program (Australia)
+  apply: https://perth.wa.gov.au/en/community/funding-and-grants/sponsorships
+  site: https://perth.wa.gov.au
+  category: 资助/制作
+  field: 剧场,声音/音乐,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: 'Open Call: Fellowship per practitioners con base a Venezia'
+  apply: https://scuolapiccolazattere.com/eventi/fellowship-practitioners-con-base-a-venezia-2-2
+  site: https://scuolapiccolazattere.com/
+  category: Fellowship
+  field: 写作,建筑/空间,研究,策展,跨学科
+  status: 已截止
+- name: The Iowa Short Fiction Award & John Simmons Short Fiction Award
+  apply: https://fictionawards.writersworkshop.uiowa.edu/how-submit
+  site: https://fictionawards.writersworkshop.uiowa.edu/
+  category: 出版/征稿,奖项
+  field: 写作
+  status: 已截止
+- name: H. Allen Brooks Travelling Fellowship
+  apply: https://sah.org/jobs-opportunities/sah-fellowships-and-grants/h-allen-brooks-travelling-fellowship/
+  site: https://sah.org/jobs-opportunities/sah-fellowships-and-grants/h-allen-brooks-travelling-fellowship/
+  category: Fellowship
+  field: 写作,建筑/空间,研究
+  status: 已截止
+- name: “DREAM” Issue + Exhibition Open Call
+  apply: https://untitled-space.com/open-call/
+  site: https://untitled-space.com/
+  category: 出版/征稿,展览
+  field: 工艺/纺织,影像/电影,摄影,数字/AI,视觉艺术（绘画）,视觉艺术（行为）,视觉艺术（装置/雕塑）,设计
+  status: 已截止
+- name: Open Artists Call 2026
+  apply: https://wallspacegallery.ca/blogs/news/open-artists-call
+  site: https://wallspacegallery.ca/blogs/news/open-artists-call
+  category: 展览
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）,设计
+  status: 已截止
+- name: Hale Master of Fine Art Residency
+  apply: https://www.nantucketarts.org/artists-in-residence
+  site: https://www.nantucketarts.org
+  category: 驻地
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Photographer-in-Residence 2026
+  apply: https://docs.google.com/forms/d/1E0ghiNxlpklNyb4busra0pzMSZUphhXOYMca4nv6uUE/viewform
+  site: https://www.1906group.com/the-art-of-building
+  category: 委托,驻地
+  field: 摄影
+  status: 已截止
+- name: Liu Shiming Distinguished Educator Award
+  apply: https://docs.google.com/forms/d/e/1FAIpQLSeW1fWdYmpTrKpc3bg4z7eS1lkd-Nsk33LV9VlX2yoUbEph5w/viewform?usp=sharing&ouid=103500248872789033357
+  site: https://www.lsmartfund.org/educatoraward2026
+  category: 奖项
+  field: 视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: Explorations on Sound and New Media Art Conference 2026
+  apply: https://cmt3.research.microsoft.com/ESNMA2026
+  site: https://artes.porto.ucp.pt/pt-pt/art-center/conferences/explorations-sound-and-new-media-art-conference-2026/call-abstracts
+  category: 研讨/会议
+  field: 声音/音乐,影像/电影,数字/AI,研究,社会实践,跨学科
+  status: 已截止
+- name: The White Pube Creatives Grant
+  apply: https://thewhitepube.co.uk/grants/
+  site: https://thewhitepube.co.uk/grants/
+  category: 资助/制作
+  field: 写作,数字/AI,研究,视觉艺术（绘画）,跨学科
+  status: 已截止
+- name: DRIFT Open Call Wave 2
+  apply: https://www.shorttheatre.org/en/drift-open-call/
+  site: https://driftdance.eu/
+  category: 专业发展,节展,资助/制作,驻地
+  field: 研究,舞蹈/身体,跨学科
+  status: 已截止
+- name: Stiftung Künstlerdorf Schöppingen 2 To 6 Month Fellowship
+  apply: https://stiftung-kuenstlerdorf.de/en/apply
+  site: https://www.stiftung-kuenstlerdorf.de/en/application_process
+  category: Fellowship,驻地
+  field: 写作,声音/音乐,视觉艺术（绘画）,视觉艺术（装置/雕塑）
+  status: 已截止
+- name: 'OPU International Performing Arts Season 2026/2027: Emerging Performing Artists'
+  apply: https://www.officinecaos.net/index.php/opencall26-27/
+  site: https://www.officinecaos.net/
+  category: 节展
+  field: 剧场,数字/AI,舞蹈/身体,跨学科
+  status: 已截止
+- name: Changeover Festival
+  apply: https://changeoverfestival.com/open-call_2026
+  site: https://changeoverfestival.com
+  category: 节展
+  field: 声音/音乐
+  status: 已截止
+- name: 67th TIFF Immersive / XR Open Call
+  apply: https://vp.eventival.com/thessaloniki/tiff67/film-form/tiff67-immersive
+  site: https://filmfestival.gr/en/newsroom/news/tiff67immersivecall/
+  category: 节展
+  field: 影像/电影,数字/AI,跨学科
+  status: 已截止
+- name: NIRMAN RESIDENCIES
+  apply: https://forms.gle/UTJJV9raWuU6ByDV7
+  site: https://www.nirman.info
+  category: 驻地
+  field: 跨学科
+  status: 已截止
