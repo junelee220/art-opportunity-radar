@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-16T08:08:59+00:00",
+ "updated_at": "2026-09-18T05:42:54+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -1030,6 +1030,102 @@
    "relevance": 45,
    "priority": "LOW",
    "first_seen": "2026-09-16",
+   "ai_scored": true
+  },
+  {
+   "id": "8299734c22d81da5",
+   "title": "Current residencies",
+   "organization": null,
+   "country": null,
+   "url": "https://www.camargofoundation.org/en/residencies/current-residencies",
+   "source": "camargofoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Current residencies”这一标题，未提供主办机构、国家、截止日期、资助情况或具体项目内容，无法判断其性质与适用性。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-18",
+   "ai_scored": true
+  },
+  {
+   "id": "b18583e4ba094c05",
+   "title": "Commissions de sélection et d'attribution des subventions de l'Institut français",
+   "organization": "Institut français",
+   "country": "France",
+   "url": "https://www.institutfrancais.com/fr/commissions-selection-institut-francais",
+   "source": "institutfrancais",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "法国文化机构 Institut français 发布的资助遴选与分配委员会信息，面向艺术与文化项目提供资助机会，具体申请条件、资助额度及截止日期未在标题中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-18",
+   "ai_scored": true
+  },
+  {
+   "id": "302e66158f941a18",
+   "title": "English Commission Building. In souvenir album by Thomas Hunter: Memorial of the International Exhibition at Philadelphia, 1876.",
+   "organization": null,
+   "country": null,
+   "url": "https://www.loc.gov/resource/cph.3b45334/",
+   "source": "loc",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为1876年费城国际博览会纪念册中英国委员会大楼的图片说明，不包含任何艺术机会、驻留、基金或征集信息，无法作为申请参考。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-18",
+   "ai_scored": true
+  },
+  {
+   "id": "28efa83005b4f1f1",
+   "title": "Open Call: Refusing Rehearsing Resisting",
+   "organization": null,
+   "country": null,
+   "url": "https://www.vbkoe.org/open-call-refusing-rehearsing-resisting-2/",
+   "source": "vbkoe",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该机会为名为“Refusing Rehearsing Resisting”的公开征集，具体主办机构、国家及截止日期均未提供。从标题推测可能与策展、研究或空间实践相关，但缺乏详细信息，无法确认资助情况、驻留条件或国际参与资格。建议获取更多官方信息后再评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-18",
    "ai_scored": true
   }
  ]
