@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T05:42:54+00:00",
+ "updated_at": "2026-09-21T08:26:36+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -1126,6 +1126,299 @@
    "relevance": 40,
    "priority": "LOW",
    "first_seen": "2026-09-18",
+   "ai_scored": true
+  },
+  {
+   "id": "23c5ce3cae2da435",
+   "title": "[News] Delfina Foundation: Brooks International Fellowship 2027 (UK)",
+   "organization": "Delfina Foundation",
+   "country": "UK",
+   "url": "https://on-the-move.org/news/delfina-foundation-brooks-international-fellowship-2027-uk",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-21",
+   "summary": "Delfina Foundation 与泰特美术馆合作推出 Brooks 国际研究员计划 2027，招募国际研究者于 2027 年 4 月至 9 月在泰特工作六个月。两个方向：墨西哥裔英国艺术家 Leonora Carrington 的戏剧与表演研究，以及支持残障与神经多样性艺术家的支持性工作室研究。提供每日 40 英镑生活津贴、往返经济舱机票、住宿单间、签证费报销及英国境内差旅。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "2c59522f9ecaae18",
+   "title": "[News] International Playwright Exchange 2027 (Sweden, Germany, the Netherlands)",
+   "organization": "ASSITEJ Sweden, KJTZ, Fonds Podiumkunsten",
+   "country": "Sweden, Germany, Netherlands",
+   "url": "https://on-the-move.org/news/international-playwright-exchange-2027-sweden-germany-netherlands",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-20",
+   "summary": "国际剧作家交流项目\"Writing Across Borders\"面向儿童与青少年剧场的剧作家和戏剧构作，由瑞典、德国、荷兰三国机构联合主办。每国选3名参与者，参加在德国、荷兰、瑞典举行的三次线下聚会及线上交流。参与免费，主办方承担住宿、餐饮及差旅费用。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "95775ddeb709cd0c",
+   "title": "[News] European Media Art Platform Residency Programme 2027",
+   "organization": "European Media Art Platform (EMAP)",
+   "country": "European Union",
+   "url": "https://on-the-move.org/news/european-media-art-platform-residency-programme-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-06",
+   "summary": "欧洲媒体艺术平台（EMAP）2027驻留计划由欧盟创意欧洲计划共同资助，面向数字、媒体、机器人及生物艺术领域的艺术家、双人组合与团体。入选者将在15家欧洲主办机构之一进行为期两个月的创作驻留，需与合作伙伴共同创作。资助含4000欧元艺术家津贴、2000欧元合作者津贴、4000欧元项目预算、住宿及旅费，并受邀参加西班牙LABoral启动会议。申请者须为欧盟或创意欧洲合格国家的居民或纳税人，在读本硕学",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "digital_media",
+    "research",
+    "spatial"
+   ],
+   "relevance": 100,
+   "priority": "HIGH",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "c96ea35182665e54",
+   "title": "Trans Music Archive Residency Program 2026",
+   "organization": "Trans Music Archive & Figure 8 Recording",
+   "country": "United States",
+   "url": "https://www.transmusicarchive.org/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "跨性别音乐档案驻留项目与Figure 8 Recording合作，为两位跨性别艺术家或乐队提供为期八天的录音驻留，地点在纽约布鲁克林，时间12月12日至19日，每个工作室一位艺术家，提供内部工程师协助，并给予每位入选者1500美元津贴，旨在支持跨性别艺术家完成录音作品。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "62a7d1866664a422",
+   "title": "Madrid Exhibition — Open Call for Artists",
+   "organization": null,
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/madrid-exhibition-open-call-for-artists",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "马德里艺术展览公开征集艺术家，面向国际创作者开放，具体资助与截止日期未在信息中说明。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "4b266709d499b6b3",
+   "title": "UBS China head: RMB key funding option for global institutions",
+   "organization": null,
+   "country": null,
+   "url": "https://www.chinadaily.com.cn/a/202609/21/WS6ab088ece4b06d4aa055f27b.html",
+   "source": "chinadaily",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为瑞银中国负责人关于人民币可作为全球机构关键融资选项的言论，并非艺术驻留、基金或征集机会，缺乏主办方、截止日期与申请方式等实质内容。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "bc2fc6a3ddd05873",
+   "title": "Artists Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://gallerymcube.com/artistsresidencyprogram/",
+   "source": "gallerymcube",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“Artists Residency”字样，未提供主办机构、国家、截止日期、资助情况或具体项目描述，无法判断其真实性与匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "44d3c0c3f4f6ca94",
+   "title": "Artists Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://gallerymcube.com/open-call-airmcube-2026/",
+   "source": "gallerymcube",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅包含“Artists Residency”字样，未提供主办机构、国家、截止日期、资助情况或具体项目描述，无法判断其真实性与匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "12e2fcca5b9b8992",
+   "title": "MacDowell Awards Fall 2026 Winter 2027 Fellowships",
+   "organization": "MacDowell",
+   "country": "United States",
+   "url": "https://www.macdowell.org/news/macdowell-awards-fall-2026-winter-2027-fellowships-to-artists-working-across-disciplines",
+   "source": "macdowell",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "MacDowell 是美国历史最悠久的艺术家驻留项目之一，为各领域艺术家提供创作空间与时间。本次为2026年秋季至2027年冬季奖学金申请，面向国际艺术家开放，提供工作室与食宿，并设有少量旅费补助。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "fe3a5e284f5e0f34",
+   "title": "Artist-in-Residence Christiane Liedtke",
+   "organization": "Christiane Liedtke",
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-christiane-liedtke-3/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提及“Christiane Liedtke 艺术家驻留”，缺乏主办机构、国家、截止日期、资助内容等具体细节，无法确认是否为真实有效的驻留机会。建议访问相关官方网站或联系主办方获取完整申请信息。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "fb59c649af30abef",
+   "title": "Artist-in-Residence Heather Stewart",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-heather-stewart/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及驻留艺术家 Heather Stewart，未提供主办机构、国家、截止日期、资助条件或申请方式等具体内容，无法确认是否为面向国际艺术家开放的真实驻留机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "a05eb663aef4facc",
+   "title": "Writer-in-Residence Jancie Creaney",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/writer-in-residence-jancie-creaney/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Jancie Creaney 驻留作家项目，面向写作者提供驻留机会，但信息中未提供主办机构、国家、截止日期及资助细节，需进一步核实。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-21",
    "ai_scored": true
   }
  ]
