@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-21T08:26:36+00:00",
+ "updated_at": "2026-09-26T08:12:30+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -1419,6 +1419,580 @@
    "relevance": 40,
    "priority": "LOW",
    "first_seen": "2026-09-21",
+   "ai_scored": true
+  },
+  {
+   "id": "b4ecd423c7e8367f",
+   "title": "[News] Festival ADAR: Residency for Groups Based in Europe 2026–2027 (Spain)",
+   "organization": "Festival ADAR",
+   "country": "Spain",
+   "url": "https://on-the-move.org/news/festival-adar-residency-groups-based-europe-2026-2027-spain",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-09-28",
+   "summary": "西班牙ADAR艺术节面向合法居住在欧洲（西班牙以外）的4-5人艺术家或文化工作者团体，提供在阿斯图里亚斯乡村Leiguarda的21-30天驻留，须于2027年6月7日前完成。支持研究、创作、实验、排练、录制、展览或演出，无需完成作品。每位艺术家获30欧元/天、400-800欧元差旅补助及住宿，另有可能的额外补贴。领域涵盖建筑、文化遗产、设计、文学、音乐、表演与视觉艺术。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "research",
+    "spatial"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "e1df9419328b0a48",
+   "title": "[News] Busan Metropolitan City: Land and Ecological Art (South Korea)",
+   "organization": "Busan Metropolitan City",
+   "country": "South Korea",
+   "url": "https://on-the-move.org/news/busan-metropolitan-city-land-and-ecological-art-south-korea",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-22",
+   "summary": "釜山广域市面向全球征集乙淑岛（洛东江河口的河口岛屿）场域回应型大地与生态艺术作品。乙淑岛是东亚-澳大利西亚候鸟迁飞路线的重要中转站，曾因农业、填埋和城市开发而改变，后恢复为湿地与候鸟栖息地。征集要求作品回应其生态、景观与历史，尽量减少生态干扰并体现环境责任。作品于2027年5月至6月完成并向公众开放，候鸟高峰期（11月至次年2月）禁止现场施工。艺术家、景观建筑、建筑、设计等专业人士及跨学科团队均可",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "spatial",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "0bdbc5698283cd3e",
+   "title": "[News] EMMA – Creative Center Pforzheim: Designers in Residence 2027 (Germany)",
+   "organization": "EMMA – Creative Center Pforzheim",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/emma-creative-center-pforzheim-designers-residence-2027-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-02",
+   "summary": "德国普福尔茨海姆市EMMA创意中心联合普福尔茨海姆应用技术大学设计学院及巴登-符腾堡设计中心，面向珠宝、时装、配饰、工业与平面设计等领域的青年设计师提供2027年驻留奖学金。三名入选者将于2027年4月1日至6月30日在EMMA工作，使用设备齐全的工作坊与联合办公空间。奖学金全额资助，含免费住宿、每月1000欧元补贴及旅费，另提供材料费专项补助，成果将在EMMA展出。申请者须大学毕业、年龄不超过3",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 65,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "83554760e1868456",
+   "title": "[News] Gasworks: 2027 Residency for Artists Based in Central America (UK)",
+   "organization": "Gasworks",
+   "country": "英国",
+   "url": "https://on-the-move.org/news/gasworks-2027-residency-artists-based-central-america-uk",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-06",
+   "summary": "Gasworks 面向中美洲（伯利兹、哥斯达黎加、萨尔瓦多、危地马拉、洪都拉斯、尼加拉瓜、巴拿马）早期职业艺术家开放2027年驻留征集。为期11周，2027年4月7日至6月22日在伦敦举行，全额资助，提供工作室、住宿、往返经济舱机票、签证费用支持、每周175英镑津贴、最高800英镑材料预算及交通卡。驻留以艺术家自主研究创作为主，机构提供行政、关怀与策展支持，促进文化交流与专业发展。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "846774787f282bc3",
+   "title": "[News] Art Explora/Cité internationale des arts: Residency Programme 2027 (France)",
+   "organization": "Art Explora / Cité internationale des Arts",
+   "country": "France",
+   "url": "https://on-the-move.org/news/art-exploracite-internationale-des-arts-residency-programme-2027-france",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-30",
+   "summary": "Art Explora 与巴黎 Cité internationale des Arts 联合推出 2027 年驻留计划，面向全球艺术家、艺术家团体、研究者与策展人，主题聚焦艺术、科学与技术的关系及当代社会生态议题。分 SOLO（仅艺术家）与 COLLECTIVE（艺术家或艺术家+研究者/策展人）两类，驻留期 3 或 6 个月，2027 年 3 月至 2028 年 2 月两期。提供约 50 平方米",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "digital_media",
+    "spatial"
+   ],
+   "relevance": 100,
+   "priority": "HIGH",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "e6c78a342292e025",
+   "title": "[News] Matsu Biennial 2026 Call for International Artists (Taiwan)",
+   "organization": "Matsu Biennial",
+   "country": "Taiwan",
+   "url": "https://on-the-move.org/news/matsu-biennial-2026-call-international-artists-taiwan",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-30",
+   "summary": "第四届马祖双年展将于2027年8月20日至11月7日在台湾连江县马祖群岛举办，现面向全球艺术家公开征集。征集鼓励创作者从外部视角回应马祖的文化保存与延续，将冷战遗产转化为当代艺术对话。无固定主题，可探索三个方向：岛屿（闽东文化、宗教、石屋）、前哨（地缘政治、集体记忆）、海洋（生态、蓝眼泪、海洋废弃物）。项目类型为场域特定装置或参与式创作。入选方案可获最高80万新台币（含税）资助。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "residency",
+    "spatial",
+    "research"
+   ],
+   "relevance": 70,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "13b5d87c4b177dd4",
+   "title": "[News] National Asian Culture Center: ACC NEXT Emerging Asian Artists International 2027 (South Korea)",
+   "organization": "National Asian Culture Center (ACC)",
+   "country": "South Korea",
+   "url": "https://on-the-move.org/news/national-asian-culture-center-acc-next-emerging-asian-artists-international-2027-south-korea",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-25",
+   "summary": "韩国国立亚洲文化殿堂（ACC）面向亚洲40岁以下新兴艺术家征集“Prototype”主题作品，聚焦艺术与科技，包括互动装置、生成影像、动态与机器人艺术、XR等。入选约10位/组，2027年4月至8月在光州ACC Creation Space 5展出。提供作品费300万韩元、装置材料费最高200万韩元、国际往返机票、住宿，并有机会参与2027 ACC CREATORS驻留。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "open_call",
+    "residency",
+    "digital_media",
+    "research"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "7566a3f639f1f451",
+   "title": "Open call for land / ecological art on Eulsukdo, Busan",
+   "organization": null,
+   "country": "South Korea",
+   "url": "https://www.e-flux.com/announcements/6788243/open-call-for-land-ecological-art-on-eulsukdo-busan",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "韩国釜山乙淑岛公开征集土地与生态艺术创作方案，面向关注生态、土地与环境议题的艺术家。具体资助与截止日期未提供。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "969d609742bbeea3",
+   "title": "Curatorial Residency",
+   "organization": "The New Wave Curatorial Residency / The Bunker Artspace",
+   "country": "United States",
+   "url": "https://www.newwave.art/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "新浪潮策展驻留项目与西棕榈滩Beth Rudin DeWoody的The Bunker Artspace合作，为期一年，支持一位新兴独立策展人。驻留者将基于The Bunker藏品策划并实现一场展览，于2027年12月在底层画廊开幕。流程包括2026年10-11月评审面试与选拔，2027年1-8月远程研发，9-10月约四周现场驻留，12月展览开幕。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "research"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "a1c577b44504ae5a",
+   "title": "NARS Foundation International Residency - Rolling Application",
+   "organization": "NARS Foundation",
+   "country": "United States",
+   "url": "https://rivet.es/calls/view/nars-foundation-international-residency-rolling-application",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "NARS Foundation 国际驻留项目全年滚动申请，面向全球艺术家开放。驻留位于纽约布鲁克林，提供工作室空间与策展支持，帮助艺术家发展创作并融入当地艺术社群。费用与资助情况需查阅官网，通常需自付或申请奖学金。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "19299696b8c2e0be",
+   "title": "NARS Curatorial Fellowship",
+   "organization": "NARS Foundation",
+   "country": "United States",
+   "url": "https://rivet.es/calls/view/nars-curatorial-fellowship",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "NARS 策展奖学金面向新兴策展人，提供在纽约布鲁克林 NARS 基金会的策展实践机会，通常包含展览策划、工作室访问及与驻留艺术家交流。该项目支持国际申请者，具体资助内容、津贴与截止日期需查阅官网最新公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "research"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "4a9679fdf653e7b8",
+   "title": "OPEN CALL・GlogauAIR´s ONLINE RESIDENCY PROGRAM (October – December 2026)",
+   "organization": "GlogauAIR",
+   "country": "Germany",
+   "url": "https://rivet.es/calls/view/copy-of-glogauair-open-call-for-artistson-line-program-oct-dec-2026",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "GlogauAIR 面向国际艺术家开放 2026 年 10 月至 12 月的线上驻留项目申请。该项目以线上形式开展，艺术家无需前往柏林即可参与，通常包含线上交流、工作室访问、导师指导与成果展示等环节，适合探索数字媒体、跨地域协作与远程创作实践的艺术工作者。具体资助内容、费用与截止日期需查阅官方公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "digital_media"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "05d24f7aa51522e6",
+   "title": "OPEN CALL EY!Studio A.i.R Madrid Spain",
+   "organization": "EY!Studio",
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/open-call-ey-studio-a-i-r-madrid-spain",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "EY!Studio 位于西班牙马德里，现开放艺术家驻留（A.i.R）申请。该机会面向国际艺术家，提供在马德里进行创作与交流的空间，具体资助内容、驻留时长及截止日期未在标题中明确，需查阅官方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 50,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "2ba5016347e82e34",
+   "title": "KUBU Open Call 2027 (DL 30.9.) 25.9.2026 Näyttelyhaut",
+   "organization": "KUBU",
+   "country": "Finland",
+   "url": "https://www.artists.fi/fi/kubu-open-call-2027-dl-309",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-09-30",
+   "summary": "KUBU 面向 2027 年展览项目公开征集，申请截止日期为 2026 年 9 月 30 日。该机会为艺术家提供展览展示平台，具体资助与驻留条件未在信息中明确说明，需进一步查阅主办方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "1f9bc007acf3ccb3",
+   "title": "Open Call - Arts Education Residency in Benin, West Africa (DL 30.9.) 25.9.2026 Residenssit",
+   "organization": null,
+   "country": "Benin",
+   "url": "https://www.artists.fi/fi/open-call-arts-education-residency-benin-west-africa-dl-309",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-09-30",
+   "summary": "贝宁（西非）艺术教育驻留项目公开征集，面向艺术教育方向，截止日期为2026年9月30日。具体资助条件、主办机构及申请要求未在信息中明确说明。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "18dedbb68cb446d5",
+   "title": "ASTON MARTIN RESIDENCES ART GALLERY PRESENTS LOUIS CARREON",
+   "organization": "Aston Martin Residences Art Gallery",
+   "country": null,
+   "url": "https://artmarketmag.com/aston-martin-residences-art-gallery-presents-louis-carreon/",
+   "source": "artmarketmag",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "阿斯顿·马丁住宅艺术画廊呈现 Louis Carreon 的展览。该信息为画廊展览公告，未提供驻留、基金、征集或资助等艺术家机会细节，也无截止日期或申请信息。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "0c856dfaaf3ebb20",
+   "title": "Lee Ho Chul Unification Road Literary Award",
+   "organization": "Lee Ho Chul Unification Road Literary Award",
+   "country": null,
+   "url": "https://ideasimagination.columbia.edu/news/lee-ho-chul-unification-road-literary-award/",
+   "source": "ideasimagination",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该奖项以韩国诗人李浩哲命名，旨在征集与统一、和平、分裂等主题相关的文学作品，通常面向诗歌、小说等体裁。信息中未提供主办机构详情、截止日期、资助条件或国际参与资格，无法确认其是否为面向国际艺术家的驻留或基金机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "publishing"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "2feb315ececcdfa6",
+   "title": "Chanel Next Prize",
+   "organization": "Chanel",
+   "country": null,
+   "url": "https://ideasimagination.columbia.edu/news/chanel-next-prize/",
+   "source": "ideasimagination",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Chanel Next Prize 由香奈儿设立，旨在支持全球在艺术与文化领域具有突破性的创作者，涵盖表演、音乐、视觉艺术、设计等方向。获奖者可获得资金支持及香奈儿文化基金会的资源网络，用于推进创作项目。该奖项面向国际艺术家开放，通常每两年评选一次，具体截止日期需关注官方公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "694fbf5de2e00571",
+   "title": "Artist-in-Residence Madeleine Aimée",
+   "organization": "Madeleine Aimée",
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-madeleine-aimee/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提及“Artist-in-Residence Madeleine Aimée”，缺乏主办机构背景、国家、截止日期、资助条件及申请要求等具体细节，无法确认是否为真实有效的驻留机会。建议核实来源并获取完整项目说明后再评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "d612c340c2e467cd",
+   "title": "Queens Arts Fund Arts Access Grant",
+   "organization": "Queens Arts Fund",
+   "country": "United States",
+   "url": "https://www.nyfa.org/awards-grants/queens-arts-fund-arts-access-grant/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Queens Arts Fund 的 Arts Access Grant 是面向纽约皇后区艺术家的资助项目，旨在支持社区艺术项目与创作实践。该基金通常要求申请者为皇后区居民或机构，资助金额较小，用于促进本地艺术可及性与社区参与。具体截止日期与资助细节需查阅官网。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "2d31e8f306516f70",
+   "title": "Queens Arts Fund New Work Grant",
+   "organization": "Queens Arts Fund",
+   "country": "United States",
+   "url": "https://www.nyfa.org/awards-grants/queens-arts-fund-new-work-grant/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Queens Arts Fund 的 New Work Grant 面向皇后区艺术家，资助新作品创作。该基金支持各类艺术项目，包括视觉艺术、表演、媒体等。具体截止日期和资助细节需查阅官网。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "0b42e045f9cd790a",
+   "title": "Apply Now: Rauschenberg Dancer Emergency Grants Cycle 26",
+   "organization": "Rauschenberg",
+   "country": null,
+   "url": "https://www.nyfa.org/event/apply-now-rauschenberg-dancer-emergency-grants-cycle-26/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Rauschenberg Dancer Emergency Grants 第26轮现正接受申请，为职业舞者提供紧急资金援助，用于应对突发的经济困难。该基金由 Rauschenberg 基金会管理，旨在帮助舞蹈从业者渡过危机。申请细节和截止日期需查阅官方页面。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
+   "ai_scored": true
+  },
+  {
+   "id": "dd6724a7f1fa72e5",
+   "title": "Grant",
+   "organization": null,
+   "country": null,
+   "url": "https://www.nyfa.org/events/category/grant/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“Grant”一词，未提供主办机构、国家、截止日期、资助范围或申请条件等任何具体内容，无法判断其真实性、资助力度或与独立出版、媒体考古、数字人文等方向的匹配度。建议补充完整的机会描述后再行评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-09-26",
    "ai_scored": true
   }
  ]
