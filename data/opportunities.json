@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01T09:39:46+00:00",
+ "updated_at": "2026-10-06T09:40:20+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -2560,6 +2560,482 @@
    "relevance": 55,
    "priority": "LOW",
    "first_seen": "2026-10-01",
+   "ai_scored": true
+  },
+  {
+   "id": "a31e7d11cfb44440",
+   "title": "[News] OASis: KIBLA Residence on Artistic Intelligence Nature and Technology 2026 (Slovenia)",
+   "organization": "Association for Culture and Education KIBLA (ACE KIBLA)",
+   "country": "Slovenia",
+   "url": "https://on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-19",
+   "summary": "斯洛文尼亚 KIBLA 协会面向国际艺术家、研究者与跨学科实践者征集 OASis Maribor 驻留项目（2026年11月19-27日），探索自然、技术与艺术实践的交叉，涉及增强/虚拟/混合现实、人工智能及马里博尔地区自然与文化遗产。申请者须居住于欧盟成员国或 Creative Europe 计划合格国家。支持含1300欧元艺术家费、最高300欧元差旅、住宿、工作室、策展与制作支持。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "digital_media",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "66a0cd4c844b856b",
+   "title": "[News] HIAP: Learning Materials International Artist in Residence 2027",
+   "organization": "HIAP Helsinki International Artist Programme",
+   "country": "Finland",
+   "url": "https://on-the-move.org/news/hiap-learning-materials-international-artist-residence-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-26",
+   "summary": "HIAP 赫尔辛基国际艺术家项目联合 Bioart Society、Koynẽ Program、TUO TUO 等伙伴，面向芬兰境外国际艺术家与艺术从业者征集 2027 年 Learning Materials 驻留申请，驻留期分别为 2027 年 4 月 12 日至 7 月 11 日或 8 月 16 日至 11 月 14 日。项目聚焦社会参与、过程导向与材料驱动的实践，强调研究、实验、技能共享与",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "af58b70bcfdaa3aa",
+   "title": "[News] Australian Tapestry Workshop: Hancock Fellowship International Artists Residency 2027 (Australia)",
+   "organization": "Australian Tapestry Workshop",
+   "country": "Australia",
+   "url": "https://on-the-move.org/news/australian-tapestry-workshop-hancock-fellowship-international-artists-residency-2027-australia",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-12",
+   "summary": "澳大利亚挂毯工作坊（墨尔本）面向居住和工作在澳大利亚境外的中期职业纺织艺术家与设计师，提供2027年8月16日至9月11日的Hancock Fellowship国际艺术家驻留。由Tapestry Foundation of Australia资助，含往返墨尔本机票、四周住宿、主画廊个展及1000澳元展览费、工作室空间、材料与技术支持，并有机会参与社区展览与公共项目。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "990fded35eb57e77",
+   "title": "[News] Craftwork4.0All: Craft Mobilities 2026–2027",
+   "organization": "Craftwork4.0All",
+   "country": null,
+   "url": "https://on-the-move.org/news/craftwork40all-craft-mobilities-2026-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-31",
+   "summary": "Craftwork4.0All 面向手工艺从业者征集 10 天驻留申请，旨在交流、学习并共同创作一件手工艺作品，驻留期为 2026 年 11 月至 2027 年 10 月。每个参与国（克罗地亚、法国、爱尔兰、意大利、葡萄牙、塞尔维亚、斯洛伐克、斯洛文尼亚、西班牙、瑞典）各选一名从业者。资助涵盖差旅、住宿与每日生活补贴，接待机构可获最高 400 欧元材料费。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "27150afedc0149e5",
+   "title": "[News] Lendhauer: Projects on ‘Urban Ecologies Coexistence and Control’ 2027 (Austria)",
+   "organization": "Lendhauer",
+   "country": "Austria",
+   "url": "https://on-the-move.org/news/lendhauer-projects-urban-ecologies-coexistence-and-control-2027-austria",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-02",
+   "summary": "奥地利 Lendhauer 协会公开征集 2027 年克拉根福 Lendhafen 城市生态主题项目，主题为“城市生态：共存与控制”，探讨公共空间中人类与非人类行动者的关系、包容与排斥、规制与共存等议题。面向奥地利及国际的艺术家、设计师、建筑师、表演者、理论家及跨领域实践者，个人与团体均可申请，欢迎成熟艺术方案及实验性、过程性、协作性方法。入选项目于 2027 年 6 月至 9 月实施，提供最高 ",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "open_call",
+    "residency",
+    "spatial",
+    "research"
+   ],
+   "relevance": 70,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "0cbd89751820ffe1",
+   "title": "[News] MoriCAF: Residency for Curators 2027–28 (Japan)",
+   "organization": "Mori Contemporary Art Foundation (MoriCAF)",
+   "country": "Japan",
+   "url": "https://on-the-move.org/news/moricaf-residency-curators-2027-28-japan",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-31",
+   "summary": "森当代艺术基金会（MoriCAF）面向日本境外策展人提供2027年4月至2028年3月间的驻留机会，时长1至3个月（最多90天）。项目支持策展人在日本开展研究，与艺术家、研究者、美术馆、展览、艺术节及替代空间交流，促进日本当代艺术的国际传播。驻留结束前需呈现研究成果，优先考虑与具体未来展览或项目直接相关的研究。申请者需具备五年以上当代艺术策展经验，英语或日语流利。提供住宿、往返机票及最高20万日元",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "open_call"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "59d27cc4432d7076",
+   "title": "[News] Chevening: British Library Coptic Collections Fellowship 2027 (UK)",
+   "organization": "Chevening / British Library",
+   "country": "UK",
+   "url": "https://on-the-move.org/news/chevening-british-library-coptic-collections-fellowship-2027-uk",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-27",
+   "summary": "Chevening 与大英图书馆合作的科普特藏品研究奖学金，面向埃及、巴勒斯坦和苏丹的中期职业专业人士，需对科普特手稿遗产与文獻收藏有浓厚兴趣。研究员将在伦敦大英图书馆工作12个月（2027年9月至2028年9月），与亚洲与非洲研究负责人 Michael Erdman 博士合作，调查馆藏科普特手稿、完善编目记录、研究藏品来源并开展公众与社区参与。资助含生活费、往返经济舱机票、活动津贴及最高1000",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "ef9c95a17eb35960",
+   "title": "[News] NRW KULTURsekretariat: TANZRECHERCHE x SPRUNGBRETT Dance Research Residency and Performance 2027 (Germany)",
+   "organization": "NRW KULTURsekretariat (NRWKS) 与 tanz NRW festival",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/nrw-kultursekretariat-tanzrecherche-x-sprungbrett-dance-research-residency-and-performance",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-03",
+   "summary": "德国北莱茵-威斯特法伦州文化秘书处与 tanz NRW 艺术节联合推出 TANZRECHERCHE x SPRUNGBRETT 舞蹈研究驻留项目，面向新兴艺术家及国际编舞、舞蹈艺术家。提供5000欧元研究资助、2027年4月26日至5月10日为期两周的伍珀塔尔或埃森驻留、场地资源与戏剧构作支持，并覆盖差旅与住宿费用，随后参与5月12日至23日的 tanz nrw 27 艺术节。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "grant",
+    "open_call",
+    "research"
+   ],
+   "relevance": 65,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "ea3484533a65c0b1",
+   "title": "[News] Chevening: Southeast Asian British Library Fellowship 2027–28",
+   "organization": "Chevening / British Library",
+   "country": "United Kingdom",
+   "url": "https://on-the-move.org/news/chevening-southeast-asian-british-library-fellowship-2027-28",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-27",
+   "summary": "Chevening 与英国图书馆合办的东南亚英国图书馆研究员计划，面向柬埔寨、老挝、泰国的中期职业专业人士，研究英国图书馆约1840至1950年间柬埔寨文、老挝文、泰文早期印刷藏品（约600-800件），创建原文字符与罗马化元数据，协助编目。为期12个月（2027年9月至2028年9月），提供生活津贴、往返经济舱机票、活动津贴及最高1000英镑项目费用。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "publishing"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "6b257a4348f4ce1e",
+   "title": "New partnerships and residencies 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788133/new-partnerships-and-residencies-2026",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息标题为“2026年新合作与驻留机会”，但未提供主办机构、国家、截止日期、资助细节或具体项目描述，无法确认其真实性及具体内容。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "b006faf1466536a6",
+   "title": "Basim Magdy awarded Helmut-Kraft-Art Prize 2026",
+   "organization": "Helmut-Kraft-Art Prize",
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788309/basim-magdy-awarded-helmut-kraft-art-prize-2026",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息报道艺术家 Basim Magdy 获得 2026 年 Helmut-Kraft 艺术奖，属于获奖新闻而非公开征集或驻留机会。奖项由德国 Helmut Kraft 基金会颁发，通常授予已具影响力的艺术家，不面向公开申请，因此对寻求投稿机会的创作者参考价值有限。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "ce08420cc49b7578",
+   "title": "Residency open call for artists based in Central America",
+   "organization": "Gasworks",
+   "country": "United Kingdom",
+   "url": "https://gasworks.org.uk/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Gasworks 面向中美洲（伯利兹、哥斯达黎加、萨尔瓦多、危地马拉、洪都拉斯、尼加拉瓜、巴拿马）早期职业艺术家开放驻留申请。为期十一周的全额资助驻留将于2027年4月7日至6月22日在伦敦举行，支持专业发展、文化交流与艺术实验。驻留以自我主导、非规定性、过程为导向，提供行政、关怀与策展支持，艺术家需自主推进研究与创作。由 Shelagh Wakely Bequest 资助，The Elephan",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "f0fc51d5b9def51e",
+   "title": "Throwing Shapes Professional Residency",
+   "organization": "Throwing Shapes",
+   "country": null,
+   "url": "https://throwingshapes.ie/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Throwing Shapes与Staycity合作，为成熟陶瓷艺术家和陶艺家提供专业驻留。该项目提供为期3个月的全工作室使用权和免费住宿，面向已建立职业地位的创作者。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "74c102af93b20398",
+   "title": "Al-Tiba9 Art Magazine Issue23 | Call For Artists",
+   "organization": "Al-Tiba9 Art Magazine",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-al-tiba9-art-magazine-issue22-call-for-artists_3",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Al-Tiba9 艺术杂志第23期公开征集艺术家作品，面向全球创作者，涵盖当代艺术、视觉艺术等多种媒介。入选作品将刊登于杂志，获得国际曝光机会。该机会为出版类征集，非驻留或资助项目，无明确截止日期与资金支持信息。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "publishing",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "01c8206d2270250c",
+   "title": "Open Call for Al-Tiba9 Artist Directory 2027",
+   "organization": "Al-Tiba9",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-open-call-for-al-tiba9-artist-directory-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Al-Tiba9 面向全球艺术家开放 2027 年艺术家名录征集，入选者将被收录于其线上艺术家目录并获得国际曝光机会。该机会主要提供展示与推广平台，未明确说明资金支持、住宿或差旅安排，适合希望提升国际可见度的艺术家申请。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "open_call",
+    "digital_media"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "f6a433aa3cf96a04",
+   "title": "Taiteilijahaku | Call for Artists Neljä Lab (DL 1.11.) 1.10.2026 Näyttelyhaut",
+   "organization": "Neljä Lab",
+   "country": "Finland",
+   "url": "https://www.artists.fi/index%2Ephp/fi/taiteilijahaku-call-artists-nelja-lab-dl-111",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-11-01",
+   "summary": "Neljä Lab 面向艺术家发起公开征集，邀请提交展览或项目提案。该机会面向国际艺术家开放，具体资助与驻留条件未在信息中明确说明。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "f90f2f799d892493",
+   "title": "OPEN CALL Marta3Art Studio & Gallery, Helsinki — THE COLOR OF THE FLOWERS (DL 23.10.) 15.9.2026 Näyttelyhaut",
+   "organization": "Marta3Art Studio & Gallery",
+   "country": "Finland",
+   "url": "https://www.artists.fi/index%2Ephp/fi/open-call-marta3art-studio-gallery-helsinki-color-flowers-dl-2310",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-10-23",
+   "summary": "赫尔辛基 Marta3Art Studio & Gallery 面向艺术家开放征集，主题为“THE COLOR OF THE FLOWERS”，展览地点在芬兰赫尔辛基。征集截止日期为2026年10月23日。该机会为公开征集，具体资助与驻留条件未在信息中说明，适合关注空间实践与策展方向的国际艺术家申请。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "d38937163036509e",
+   "title": "Bielefeld Science Award",
+   "organization": null,
+   "country": "Germany",
+   "url": "https://ideasimagination.columbia.edu/news/bielefeld-science-award/",
+   "source": "ideasimagination",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "比勒费尔德科学奖（Bielefeld Science Award）是德国比勒费尔德地区设立的学术奖项，主要面向科学研究成果，通常不面向艺术家或独立出版、媒体考古、数字人文等创作实践。信息中未提供具体截止日期、资助细节或国际申请资格，与艺术驻留、基金或公开征集的相关性较低。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "fce2f52b78959758",
+   "title": "Arts Journalism Grants Pilot program supporting arts journalism and cultural coverage at legacy and emerging media outlets.",
+   "organization": null,
+   "country": null,
+   "url": "https://www.southarts.org/grants-opportunities/arts-journalism-grants",
+   "source": "southarts",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该机会为艺术新闻资助试点项目，旨在支持传统及新兴媒体机构的艺术新闻与文化报道。项目面向媒体机构而非个人艺术家，资助形式与金额未明确，未提及驻留、住宿或差旅支持。与独立出版、媒体考古、数字人文、开源硬件、空间实践、策展或研究方向关联较弱，主要涉及新闻传播领域。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant",
+    "publishing"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-06",
    "ai_scored": true
   }
  ]
