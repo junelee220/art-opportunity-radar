@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06T09:40:20+00:00",
+ "updated_at": "2026-10-11T09:33:21+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -3036,6 +3036,563 @@
    "relevance": 40,
    "priority": "LOW",
    "first_seen": "2026-10-06",
+   "ai_scored": true
+  },
+  {
+   "id": "11ccdc48e360f3f3",
+   "title": "[News] Adirondack Experience: Artist-in-Residence Programme 2027 (USA)",
+   "organization": "Adirondack Experience, The Museum on Blue Mountain Lake (ADKX)",
+   "country": "USA",
+   "url": "https://on-the-move.org/news/adirondack-experience-artist-residence-programme-2027-usa",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-11",
+   "summary": "美国 Adirondack Experience 博物馆将于2027年6至9月提供四个为期一个月的艺术家驻留名额。艺术家需每周至少三天在博物馆公共区域创作，每周两天在 Art Lab 主持公众参与活动，并可协调研究馆藏。提供5000美元津贴、500美元旅费及免费住宿，Art Lab 材料费250美元。驻留地偏远，无公共交通，博物馆每周提供班车。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "75e6b2c686906e2d",
+   "title": "[News] Ukraine Solidarity Residencies Programme: Residencies for Palestinian Artists 2027 (Finland)",
+   "organization": "HIAP (Helsinki International Artist Programme) 与 Sumud",
+   "country": "Finland",
+   "url": "https://on-the-move.org/news/ukraine-solidarity-residencies-programme-residencies-palestinian-artists-2027-finland",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-02",
+   "summary": "HIAP与Sumud合作，在芬兰赫尔辛基Cable Factory为巴勒斯坦及巴勒斯坦地区当代视觉艺术家提供为期三个月的驻留（2027年4月12日至7月11日）。该项目属乌克兰团结驻留计划，由芬兰教育与文化部支持。驻留不要求产出新作或展览，重点在于提供时间与空间进行艺术研究并与当地艺术界对话。提供免费工作室、往返旅费、3600欧元工作补助及签证费用支持。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "02dfcaccd604e848",
+   "title": "[News] Roberto Cimetta Fund: Emergency Mobility Grants 2027",
+   "organization": "Roberto Cimetta Fund",
+   "country": null,
+   "url": "https://on-the-move.org/news/roberto-cimetta-fund-emergency-mobility-grants-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-01",
+   "summary": "Roberto Cimetta Fund 面向黎巴嫩、叙利亚、巴勒斯坦、也门和苏丹的艺术家及文化工作者开放紧急流动资助，支持其国际与国内差旅。资助聚焦表演艺术与跨学科实践，涵盖专业培训、创作与驻留、传播与交流三类活动。每笔资助最高600欧元，用于交通、签证及领事费用和基本每日津贴；住宿由接待机构视情况提供。申请者须年满18岁，个人与团体均可，文化机构仅可作为接待方参与。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "grant",
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "e1b30b5cb8b0fbcc",
+   "title": "[News] Bunnell Streets Arts Center: Alaska AIR 2027-2028 Artist in Residence (USA)",
+   "organization": "Bunnell Street Arts Center",
+   "country": "USA",
+   "url": "https://on-the-move.org/news/bunnell-streets-arts-center-alaska-air-2027-2028-artist-residence-usa",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-15",
+   "summary": "Bunnell Street Arts Center 的 Alaska AIR 驻留项目面向国际、美国及阿拉斯加艺术家，旨在通过艺术强化 Homer 社区的社会、物质与经济结构。驻留通常为期一个月，安排在2027至2028年的秋冬春季。项目提供2000美元、旅费、住宿及工作室/画廊空间，每年授予1至4个全额资助名额。申请费25美元，可申请减免。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "71af11ed8a9280cf",
+   "title": "Nabi Nara",
+   "organization": "SOMA Art Berlin",
+   "country": "Germany",
+   "url": "https://www.curating.org/nabi-nara/",
+   "source": "curating-info",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Nabi Nara（SOMA Art Berlin 创始人）介绍其多年策展项目“Becoming Future”，通过工作坊、展览和沉浸式公共介入，放大女性在科技艺术中的声音。SOMA Art Berlin 位于柏林 Kreuzberg，是由女性主导、移民创办的空间。该信息为一场讲座/活动预告，而非驻留、基金或作品征集机会，未提供申请截止日期或资助信息。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "research",
+    "digital_media"
+   ],
+   "relevance": 15,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "7d30efc74af7d115",
+   "title": "Julia Phillips wins 2026 K21 Global Art Award",
+   "organization": "K21",
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788334/julia-phillips-wins-2026-k21-global-art-award",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Julia Phillips 获得 2026 年 K21 全球艺术奖。该信息为获奖新闻，并非面向公众的驻留、基金或作品征集机会，未提供申请方式、截止日期或资助细节，对独立艺术家申请参考价值有限。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "f07ce7b9a8b17b5b",
+   "title": "Call for applications: Artistic director and executive director",
+   "organization": null,
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788277/call-for-applications-artistic-director-and-executive-director",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息为艺术总监与执行总监的职位招聘征集，属于机构管理岗位招聘，而非面向艺术家的驻留、基金或创作征集机会。未提供主办机构、国家、截止日期及任何资助信息，与独立出版、媒体考古、数字人文、开源硬件、空间实践、策展或研究方向无直接关联。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "bc857b14c291d46f",
+   "title": "Art Residency – DECEMBER 2026 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-art-residency-december-2026-colombia_19",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2026年12月艺术驻留机会，面向艺术家开放。信息未提供主办机构、资助详情及申请截止日期，需进一步核实具体条件与申请要求。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "8dcb7ce0d11afce1",
+   "title": "Art Residency – JANUARY 2027 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-art-residency-january-2027-colombia",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2027年1月艺术驻留机会，面向艺术家开放。信息未提供主办机构、资助详情及具体截止日期，需进一步核实申请条件与费用安排。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "56f618d249aa1322",
+   "title": "Art Residency – NOVEMBER 2026 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-art-residency-november-2026-colombia_19",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2026年11月艺术驻留机会，面向艺术家开放。信息未提供主办机构、资助细节及申请截止日期，需进一步核实具体条件与申请要求。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "3f25cba504f77e50",
+   "title": "International Artist Residency - India 2027",
+   "organization": null,
+   "country": "India",
+   "url": "https://rivet.es/calls/view/international-artist-residency-india-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "印度2027年国际艺术家驻留计划，面向全球艺术家开放申请。该机会为国际艺术家提供在印度进行创作与交流的平台，具体资助内容、驻留时长及申请截止日期尚未明确。适合关注跨文化实践、空间与策展方向的艺术家关注。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 50,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "a59a91176f1f07cb",
+   "title": "Taiteilijahaku | Call for Artists Neljä Lab (DL 1.11.) 1.10.2026 Näyttelyhaut",
+   "organization": "Neljä Lab",
+   "country": "Finland",
+   "url": "https://www.artists.fi/fi/taiteilijahaku-call-artists-nelja-lab-dl-111",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-11-01",
+   "summary": "Neljä Lab 面向艺术家发起公开征集，邀请提交展览相关提案。该机会位于芬兰，截止日期为2026年11月1日。适合寻求展览展示与实验性创作平台的国际艺术家申请，具体资助与驻留条件需进一步确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "ba1bdd05c8c62adb",
+   "title": "ASTON MARTIN RESIDENCES ART GALLERY PRESENTS FAMED ARGENTINE PHOTOGRAPHER ALDO SESSA",
+   "organization": "Aston Martin Residences Art Gallery",
+   "country": null,
+   "url": "https://artmarketmag.com/aston-martin-residences-art-gallery-presents-famed-argentine-photographer-aldo-sessa/",
+   "source": "artmarketmag",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "阿斯顿·马丁住宅艺术画廊举办阿根廷著名摄影师Aldo Sessa的展览。该信息为展览新闻，并非面向艺术家的驻留、基金或公开征集机会，无申请渠道、资助说明或截止日期。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "33077ae047d95d55",
+   "title": "Air Open Call Learning Materials Hiap 2027",
+   "organization": "HIAP (Helsinki International Artist Programme)",
+   "country": "Finland",
+   "url": "https://bkf.dk/air-open-call-learning-materials-hiap-2027/",
+   "source": "bkf",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "HIAP 发布 Air Open Call Learning Materials 2027，面向艺术家征集与驻留学习材料相关的提案。该项目位于芬兰赫尔辛基，属于国际艺术家驻留计划的一部分，具体资助细节、截止日期及申请要求需查阅官方公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "f8db82afe6b429bb",
+   "title": "Air Open Call Exchange Residency Copenhagen Munich",
+   "organization": null,
+   "country": null,
+   "url": "https://bkf.dk/air-open-call-exchange-residency-copenhagen-munich/",
+   "source": "bkf",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为标题“Air Open Call Exchange Residency Copenhagen Munich”，缺乏主办机构、申请条件、资助内容、截止日期等具体细节，无法确认其真实性及具体安排。从标题推测可能为哥本哈根与慕尼黑之间的艺术家驻留交换项目公开征集，但信息严重不足，建议访问官方渠道核实详情后再行申请。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "496ffef6e1af6b4d",
+   "title": "Top TV awards will unveil nominees in Shandong",
+   "organization": null,
+   "country": "China",
+   "url": "https://www.chinadaily.com.cn/a/202610/10/WS6ac9e662e4b06d4aa056216a.html",
+   "source": "chinadaily",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为山东电视奖项将公布提名的新闻标题，未提供任何艺术驻留、基金、征集或出版机会的具体内容，也无申请方式、资助条件或截止日期，无法作为艺术机会使用。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "b8d23345a2423598",
+   "title": "Sophie Ristelhueber Hasselblad Award Winner 2025",
+   "organization": null,
+   "country": null,
+   "url": "https://www.hasselbladfoundation.org/en/aiovg_videos/sophie-ristelhueber-hasselblad-award-winner-2025/",
+   "source": "hasselbladfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为 Sophie Ristelhueber 获得 2025 年哈苏奖（Hasselblad Award）的新闻，并非面向艺术家开放申请的艺术机会。哈苏奖是授予杰出摄影师的荣誉奖项，由哈苏基金会颁发，不接受公开申请或投稿。因此该信息不构成驻留、基金、征集等可申请机会，与独立出版、媒体考古、数字人文等方向无直接关联。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "9d29b1c1f4d16d56",
+   "title": "Artist-in-Residence Veronike Hinsberg",
+   "organization": "Veronike Hinsberg",
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-veronike-hinsberg/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提及艺术家驻留项目名称“Artist-in-Residence Veronike Hinsberg”，未提供主办机构、国家、截止日期、资助详情或项目描述等具体内容，无法确认其真实性、开放状态及申请条件。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "eba144557951009b",
+   "title": "Curator-in-Residence (2026)",
+   "organization": null,
+   "country": null,
+   "url": "https://nodisciplinelimited.hk/index.php/portfolio/curator-in-residence-2026/",
+   "source": "nodisciplinelimited",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提供“Curator-in-Residence (2026)”这一标题，未包含主办机构、国家、截止日期、资助情况等具体细节，无法确认是否为真实的驻留机会。建议获取完整公告后再评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "65d2504e1f0ff54b",
+   "title": "Curator In Residence.Jpeg",
+   "organization": null,
+   "country": null,
+   "url": "https://nodisciplinelimited.hk/wp-content/uploads/2026/08/curator-in-residence.jpeg",
+   "source": "nodisciplinelimited",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为一个疑似图片文件名“Curator In Residence.Jpeg”，未包含任何可核实的机构、国家、截止日期或资助细节，无法确认是否为真实的驻留机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "9a61ae600c49e60e",
+   "title": "Info Session: 2027 Queens Arts Fund New Work Grant",
+   "organization": "Queens Arts Fund",
+   "country": "United States",
+   "url": "https://www.nyfa.org/event/info-session-2027-queens-arts-fund-new-work-grant-2/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "皇后区艺术基金2027年新作品资助计划信息说明会。该基金面向皇后区艺术家及艺术组织，支持新作品创作，涵盖多个艺术门类。信息说明会旨在介绍申请流程、资格要求与资助细节。具体截止日期与资助额度未在标题中明确，需查阅官方页面确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "2762186d0300cd59",
+   "title": "Made In The Bay Art Design Youth Open Call",
+   "organization": null,
+   "country": null,
+   "url": "https://rootdivision.org/apply/made-in-the-bay-art-design-youth-open-call/",
+   "source": "rootdivision",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提及“Made In The Bay Art Design Youth Open Call”，缺乏主办机构、国家、截止日期及资助细节等具体内容，无法确认其是否为真实的驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
+   "ai_scored": true
+  },
+  {
+   "id": "c3443f2cb2e97f9e",
+   "title": "Open Call: Cerchiamo 3–5 performer",
+   "organization": null,
+   "country": null,
+   "url": "https://scuolapiccolazattere.com/open-call-cerchiamo-3-5-performer",
+   "source": "scuolapiccolazattere",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为一条不完整的公开征集标题，内容为意大利语“Cerchiamo 3–5 performer”（意为“寻找3至5名表演者”），未提供主办机构、国家、截止日期、资助情况或项目描述等任何可核实细节，无法判断其是否属于驻留、基金或征集类艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-11",
    "ai_scored": true
   }
  ]
