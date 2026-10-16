@@ -1,0 +1,54 @@
+[
+ {
+  "id": "a067183958d8a8d8",
+  "title": "[News] VEIK: Light Art Residency Rottal Spring 2027 (Austria)",
+  "organization": "Cultural Association VEIK",
+  "country": "Austria",
+  "url": "https://on-the-move.org/news/veik-light-art-residency-rottal-spring-2027-austria",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-09-13",
+  "summary": "奥地利文化协会VEIK主办的Rottal灯光艺术驻留项目，2027年5月3日至30日为期28天，面向从事灯光与媒体艺术的国际艺术家。项目聚焦艺术、技术、自然环境与可持续性的关系，四位艺术家将合作创作场域特定作品，成果可能在Blockheide Leuchtet十周年灯光节展出。提供差旅津贴400-800欧元、每日30欧元补助及住宿。申请者须为Creative Europe成员国（奥地利除外）合法居",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "digital_media",
+   "research",
+   "spatial"
+  ],
+  "relevance": 85,
+  "priority": "HIGH",
+  "first_seen": "2026-09-13",
+  "ai_scored": true
+ },
+ {
+  "id": "9f5d4f5b06ed99ed",
+  "title": "[News] CONVIVIUM: CONVIVIAL FOODSCAPES Residency for Visual Artists (Portugal)",
+  "organization": "CONVIVIUM (EU-funded project) / Quinta das Relvas",
+  "country": "Portugal",
+  "url": "https://on-the-move.org/news/convivium-convivial-foodscapes-residency-visual-artists-portugal",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-09-15",
+  "summary": "欧盟资助项目 CONVIVIUM 面向居住在比利时、法国、荷兰、挪威、波兰、葡萄牙和西班牙的视觉艺术家，征集在葡萄牙 Quinta das Relvas 为期一个月的驻留（2026年11月）。主题围绕“共融食物景观”，探索多物种生命与过程、仪式与再现、思辨未来等方向，需创作一件视觉媒介作品。费用全包，含机票、住宿、1000欧元酬金及150欧元材料费（报销制），餐食不含。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "research"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-09-16",
+  "ai_scored": true
+ }
+]
