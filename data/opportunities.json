@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T07:46:14+00:00",
+ "updated_at": "2026-10-21T08:10:27+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -28,31 +28,6 @@
    "ai_scored": true
   },
   {
-   "id": "b6516e0dd5008f2c",
-   "title": "[News] Northern European Mobility Opportunity Grant 2026 for Artists in the Nordic Countries, the UK and Ireland",
-   "organization": "Nordic Culture Fund",
-   "country": "Nordic countries, UK, Ireland",
-   "url": "https://on-the-move.org/news/northern-european-mobility-opportunity-grant-2026-artists-nordic-countries-uk-and-ireland",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-18",
-   "summary": "NEMO（Northern European Mobility Opportunity）是由北欧文化基金及爱尔兰、英格兰、北爱尔兰、苏格兰和威尔士艺术资助机构支持的流动性与艺术交流项目，面向北欧国家及英国、爱尔兰的早期职业艺术家和艺术从业者。申请者需与对方国家（北欧对应英国/爱尔兰，反之亦然）的个人、团体或机构建立合作，申请前须明确合作范围。资助金额最高75,000丹麦克朗，可用于艺术家费用、交流",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "grant",
-    "research"
-   ],
-   "relevance": 55,
-   "priority": "LOW",
-   "first_seen": "2026-09-13",
-   "ai_scored": true
-  },
-  {
    "id": "be466be60814ef61",
    "title": "[News] Matadero Madrid: Medialab Matadero Situated Research Residencies 2027",
    "organization": "Medialab Matadero",
@@ -76,56 +51,6 @@
    ],
    "relevance": 85,
    "priority": "HIGH",
-   "first_seen": "2026-09-13",
-   "ai_scored": true
-  },
-  {
-   "id": "01997ad3c5b129c4",
-   "title": "[News] Rose Choreographic School: Second Artistic Cohort 2027–2029",
-   "organization": "Rose Choreographic School",
-   "country": "UK",
-   "url": "https://on-the-move.org/news/rose-choreographic-school-second-artistic-cohort-2027-2029",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-20",
-   "summary": "Rose Choreographic School 位于伦敦 Sadler's Wells East，现招募第二届艺术研究 cohort（2027年4月至2029年3月），9位艺术家将获得15,000英镑研究预算（按月发放津贴）、工作室空间、导师与制作支持。每两个月在伦敦举行8天集会，学校承担旅费与住宿，含国际申请者。接受英国及国际艺术家，无需搬迁伦敦。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
-   "first_seen": "2026-09-13",
-   "ai_scored": true
-  },
-  {
-   "id": "97e96d724374d7c0",
-   "title": "[News] PERFORMNORD 2027 Nordic Performance Art International Platform (Denmark)",
-   "organization": "PERFORMNORD / Metropolis",
-   "country": "Denmark",
-   "url": "https://on-the-move.org/news/performnord-2027-nordic-performance-art-international-platform-denmark",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-18",
-   "summary": "PERFORMNORD 2027是首个北欧表演艺术国际平台，将于2027年9月2-12日在丹麦哥本哈根举办。现面向在北欧生活工作的北欧及国际专业表演艺术家，以及在其它国家实践的北欧艺术家征集。项目将邀请40-50位关键艺术家，包含现场表演、工作室展示及对话工作坊，旨在促进国际协作。主办方承担差旅、住宿、当地后勤费用并提供参与费。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "open_call",
-    "residency"
-   ],
-   "relevance": 55,
-   "priority": "LOW",
    "first_seen": "2026-09-13",
    "ai_scored": true
   },
@@ -1098,31 +1023,6 @@
    ],
    "relevance": 85,
    "priority": "HIGH",
-   "first_seen": "2026-09-21",
-   "ai_scored": true
-  },
-  {
-   "id": "2c59522f9ecaae18",
-   "title": "[News] International Playwright Exchange 2027 (Sweden, Germany, the Netherlands)",
-   "organization": "ASSITEJ Sweden, KJTZ, Fonds Podiumkunsten",
-   "country": "Sweden, Germany, Netherlands",
-   "url": "https://on-the-move.org/news/international-playwright-exchange-2027-sweden-germany-netherlands",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-20",
-   "summary": "国际剧作家交流项目\"Writing Across Borders\"面向儿童与青少年剧场的剧作家和戏剧构作，由瑞典、德国、荷兰三国机构联合主办。每国选3名参与者，参加在德国、荷兰、瑞典举行的三次线下聚会及线上交流。参与免费，主办方承担住宿、餐饮及差旅费用。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": null,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "open_call"
-   ],
-   "relevance": 45,
-   "priority": "LOW",
    "first_seen": "2026-09-21",
    "ai_scored": true
   },
@@ -4013,6 +3913,379 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-10-16",
+   "ai_scored": true
+  },
+  {
+   "id": "7d2ab65449613800",
+   "title": "[News] Sanford Underground Research Facility: Artist-in-Residence 2027 (USA)",
+   "organization": "Sanford Underground Research Facility (SURF)",
+   "country": "USA",
+   "url": "https://on-the-move.org/news/sanford-underground-research-facility-artist-residence-2027-usa",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-01",
+   "summary": "美国桑福德地下研究设施（SURF）与黑山州立大学合作，招募2027年驻留艺术家。艺术家将深入地下4850英尺的实验室，以物理、生物、地质和工程实验为灵感进行跨学科创作。驻留包含四周夏季访问、秋季展览与讲座、5000美元津贴、最高5000美元项目资助，以及差旅、住宿和最高7000美元作品运输费用。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 95,
+   "priority": "HIGH",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "e114ed36ee40317c",
+   "title": "[News] Communauté de communes du Clermontois: Artistic and Cultural Education Residencies 2027 (France)",
+   "organization": "Communauté de communes du Clermontois",
+   "country": "France",
+   "url": "https://on-the-move.org/news/communaute-de-communes-du-clermontois-artistic-and-cultural-education-residencies-2027-france",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-25",
+   "summary": "法国Clermontois社区联合体面向法国及国际专业艺术家和艺术团体公开征集2027年艺术与公民教育驻留项目，共两个驻留时段（2027年2月至6月、5月至10月），主题为公共空间中的艺术与居住、记忆遗产与未来想象，鼓励关注社会与生态转型、数字节制等议题。个人艺术家津贴12000欧元净额，并提供住宿及两趟法国境内往返交通。申请者须具备专业身份、法语流利并持有驾照。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "spatial",
+    "research"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "23d79d2451111e31",
+   "title": "[News] M+: Sigg Fellowship for Chinese Art Research 2026/27 (Hong Kong)",
+   "organization": "M+",
+   "country": "Hong Kong",
+   "url": "https://on-the-move.org/news/m-sigg-fellowship-chinese-art-research-202627-hong-kong",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "M+ 西九龙文化区设立 Sigg Fellowship，面向全球个人或研究团队征集中国艺术研究提案，主题聚焦1980年代以来中国艺术实践中传统与当代的关系。获选者将驻留 M+ 三至六个月，使用馆藏与档案资源，与策展人交流，最终完成公开讲座及一篇中英文论文发表于 M+ Magazine。资助总额20万港币，涵盖差旅、生活、保险及研究费用。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "residency",
+    "publishing"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "aaf482e3361a76a4",
+   "title": "[News] Sixi Museum: Sixi International Artist-In-Residence 2027 (China)",
+   "organization": "Sixi Museum",
+   "country": "China",
+   "url": "https://on-the-move.org/news/sixi-museum-sixi-international-artist-residence-2027-china",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-15",
+   "summary": "四禧美术馆面向国际艺术家征集2027年驻留申请，驻留地点为南京，时间为2027年3月至5月及9月至11月。主题包括移民历史的当代回响、跨媒介互文与介入。提供市中心公寓与郊区阁楼工作室，支持签证、往返机票、保险、住宿、材料费及人员协助，并协助对接本地艺术界，驻留结束可参与展览。面向全学科艺术家，需年满18岁，具备足够中英文沟通能力。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "spatial",
+    "digital_media"
+   ],
+   "relevance": 95,
+   "priority": "HIGH",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "97460988ce921d94",
+   "title": "[News] Hordaland Kunstsenter: Artist Residency 2027/2028 for Nordic- and Baltic-based Artists (Norway)",
+   "organization": "Hordaland Kunstsenter",
+   "country": "Norway",
+   "url": "https://on-the-move.org/news/hordaland-kunstsenter-artist-residency-20272028-nordic-and-baltic-based-artists-norway",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-01",
+   "summary": "挪威卑尔根Hordaland Kunstsenter面向北欧和波罗的海国家（挪威除外）艺术家开放2027/2028驻留申请，共四个两个月档期。支持跨媒介、出版、影像、研究型及社会参与实践。提供3万挪威克朗津贴、住宿与工作空间、最高500欧元差旅支持，并要求驻留期间举办一次公开分享。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "publishing",
+    "research"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "436d9f57fc96e88e",
+   "title": "Residency open call for Lebanese artists based in Lebanon",
+   "organization": "Gasworks",
+   "country": "英国",
+   "url": "https://gasworks.org.uk/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Gasworks 面向旅居黎巴嫩的黎巴嫩艺术家开放驻留征集，为期十一周，全额资助，于2027年4月7日至6月22日在伦敦举行。项目支持专业发展、文化交流与艺术实验，驻留自主、非规定性、以过程为导向，提供行政、人文关怀与策展支持，鼓励艺术家研究新作、接触城市并建立网络。由Saikalis Bay基金会支持。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "5b5d677de5701f21",
+   "title": "Call for Artists: The Other Art Fair Los Angeles is back for LA Art Week 2027!",
+   "organization": "The Other Art Fair",
+   "country": "United States",
+   "url": "https://rivet.es/calls/view/call-for-artists-the-other-art-fair-los-angeles-is-back-for-la-art-week-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "The Other Art Fair 洛杉矶艺术周2027艺术家征集，面向艺术家提供参展机会，属于商业艺博会性质的公开征集，非驻留或资助项目。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "db6f70394d8c7dee",
+   "title": "Fuse: Music Residency 2027",
+   "organization": null,
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-fuse-music-residency-2026",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Fuse: Music Residency 2027 是一项音乐驻留机会，但提供的信息仅有标题，缺少主办机构、国家、截止日期、资助详情及申请要求等关键内容，无法确认其具体性质与适用对象。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "539059fd51c52616",
+   "title": "Playwrights Lab 2027 Theatre Arts Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-playwrights-lab-2026-theatre-arts-residency",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Playwrights Lab 2027 戏剧艺术驻留项目，面向剧作家提供创作与研讨机会。信息未提供主办机构、国家、截止日期及资助细节，需进一步核实。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "11d6bdf2ee41c597",
+   "title": "Residencies",
+   "organization": null,
+   "country": null,
+   "url": "http://arthubcopenhagen.net/residencies/",
+   "source": "arthubcopenhagen",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“Residencies”一词，未提供主办机构、国家、截止日期、资助条件或申请要求等任何具体内容，无法判断其真实性或与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "d666f03738f19cd5",
+   "title": "Open Call Til Refugiet Raevehaugen",
+   "organization": null,
+   "country": "Denmark",
+   "url": "https://bkf.dk/open-call-til-refugiet-raevehaugen/",
+   "source": "bkf",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Til Refugiet Raevehaugen 的公开征集，面向艺术家征集驻留项目申请。该机会信息有限，未明确说明资助范围、截止日期及国际申请资格，需进一步查阅主办方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "9c7a71e4214916c9",
+   "title": "Open Call Art In Architecture Kunst Am Bau",
+   "organization": null,
+   "country": null,
+   "url": "https://bkf.dk/open-call-art-in-architecture-kunst-am-bau/",
+   "source": "bkf",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "公开征集“艺术介入建筑/建筑艺术”（Art in Architecture / Kunst am Bau）项目，面向将艺术融入建筑与公共空间的创作提案。信息未提供主办机构、国家及截止日期，资助与差旅住宿条件不明。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "0da8f49bca39fd4f",
+   "title": "New York State Council On The Arts Nysca And New York Foundation For The Arts Nyfa Award 1760000 To 2026 Reserve Fund Grant Recipients",
+   "organization": "New York State Council on the Arts (NYSCA) and New York Foundation for the Arts (NYFA)",
+   "country": "United States",
+   "url": "https://www.nyfa.org/news/new-york-state-council-on-the-arts-nysca-and-new-york-foundation-for-the-arts-nyfa-award-1760000-to-2026-reserve-fund-grant-recipients/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "纽约州艺术委员会与纽约艺术基金会向2026年储备基金受助方颁发176万美元资助。该基金支持纽约州艺术机构与艺术家，属已公布受助名单的拨款项目，非公开征集。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "678ef786dc3ad4a2",
+   "title": "New York Foundation For The Arts Nyfa International Studio Curatorial Program Iscp And Sculptor George Petrides Announce The Inaugural Petrides Residency For A Greek Artist In Ny",
+   "organization": "New York Foundation for the Arts (NYFA) / International Studio & Curatorial Program (ISCP) / George Petrides",
+   "country": "United States",
+   "url": "https://www.nyfa.org/news/new-york-foundation-for-the-arts-nyfa-international-studio-curatorial-program-iscp-and-sculptor-george-petrides-announce-the-inaugural-petrides-residency-for-a-greek-artist-in-ny/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "纽约艺术基金会（NYFA）、国际工作室与策展项目（ISCP）及雕塑家George Petrides联合宣布首届Petrides驻留项目，面向希腊艺术家，在纽约开展驻留。该项目为希腊艺术家提供国际交流与创作机会，具体资助细节和截止日期尚未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "98b7d4a19ba65822",
+   "title": "Special Mention at IN/ARCHITETTURA Awards 2026 Archilovers | October 2026",
+   "organization": "Archilovers",
+   "country": null,
+   "url": "https://www.spazioberlendis.it/special-mention-at-in-architettura-awards-2026/",
+   "source": "spazioberlendis",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "IN/ARCHITETTURA Awards 2026 由 Archilovers 平台发布，是一项建筑类奖项的特别提名（Special Mention）信息，预计于2026年10月公布。该信息主要面向建筑与空间设计领域，属于奖项荣誉而非资金资助或驻留项目，未提供明确的申请截止日期、资助条件或国际参与细则。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "spatial"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-21",
    "ai_scored": true
   }
  ]

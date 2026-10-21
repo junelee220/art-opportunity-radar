@@ -50,5 +50,105 @@
   "priority": "MAYBE",
   "first_seen": "2026-09-16",
   "ai_scored": true
+ },
+ {
+  "id": "b6516e0dd5008f2c",
+  "title": "[News] Northern European Mobility Opportunity Grant 2026 for Artists in the Nordic Countries, the UK and Ireland",
+  "organization": "Nordic Culture Fund",
+  "country": "Nordic countries, UK, Ireland",
+  "url": "https://on-the-move.org/news/northern-european-mobility-opportunity-grant-2026-artists-nordic-countries-uk-and-ireland",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-09-18",
+  "summary": "NEMO（Northern European Mobility Opportunity）是由北欧文化基金及爱尔兰、英格兰、北爱尔兰、苏格兰和威尔士艺术资助机构支持的流动性与艺术交流项目，面向北欧国家及英国、爱尔兰的早期职业艺术家和艺术从业者。申请者需与对方国家（北欧对应英国/爱尔兰，反之亦然）的个人、团体或机构建立合作，申请前须明确合作范围。资助金额最高75,000丹麦克朗，可用于艺术家费用、交流",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "grant",
+   "research"
+  ],
+  "relevance": 55,
+  "priority": "LOW",
+  "first_seen": "2026-09-13",
+  "ai_scored": true
+ },
+ {
+  "id": "01997ad3c5b129c4",
+  "title": "[News] Rose Choreographic School: Second Artistic Cohort 2027–2029",
+  "organization": "Rose Choreographic School",
+  "country": "UK",
+  "url": "https://on-the-move.org/news/rose-choreographic-school-second-artistic-cohort-2027-2029",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-09-20",
+  "summary": "Rose Choreographic School 位于伦敦 Sadler's Wells East，现招募第二届艺术研究 cohort（2027年4月至2029年3月），9位艺术家将获得15,000英镑研究预算（按月发放津贴）、工作室空间、导师与制作支持。每两个月在伦敦举行8天集会，学校承担旅费与住宿，含国际申请者。接受英国及国际艺术家，无需搬迁伦敦。",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "research"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-09-13",
+  "ai_scored": true
+ },
+ {
+  "id": "97e96d724374d7c0",
+  "title": "[News] PERFORMNORD 2027 Nordic Performance Art International Platform (Denmark)",
+  "organization": "PERFORMNORD / Metropolis",
+  "country": "Denmark",
+  "url": "https://on-the-move.org/news/performnord-2027-nordic-performance-art-international-platform-denmark",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-09-18",
+  "summary": "PERFORMNORD 2027是首个北欧表演艺术国际平台，将于2027年9月2-12日在丹麦哥本哈根举办。现面向在北欧生活工作的北欧及国际专业表演艺术家，以及在其它国家实践的北欧艺术家征集。项目将邀请40-50位关键艺术家，包含现场表演、工作室展示及对话工作坊，旨在促进国际协作。主办方承担差旅、住宿、当地后勤费用并提供参与费。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "open_call",
+   "residency"
+  ],
+  "relevance": 55,
+  "priority": "LOW",
+  "first_seen": "2026-09-13",
+  "ai_scored": true
+ },
+ {
+  "id": "2c59522f9ecaae18",
+  "title": "[News] International Playwright Exchange 2027 (Sweden, Germany, the Netherlands)",
+  "organization": "ASSITEJ Sweden, KJTZ, Fonds Podiumkunsten",
+  "country": "Sweden, Germany, Netherlands",
+  "url": "https://on-the-move.org/news/international-playwright-exchange-2027-sweden-germany-netherlands",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-09-20",
+  "summary": "国际剧作家交流项目\"Writing Across Borders\"面向儿童与青少年剧场的剧作家和戏剧构作，由瑞典、德国、荷兰三国机构联合主办。每国选3名参与者，参加在德国、荷兰、瑞典举行的三次线下聚会及线上交流。参与免费，主办方承担住宿、餐饮及差旅费用。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": null,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "open_call"
+  ],
+  "relevance": 45,
+  "priority": "LOW",
+  "first_seen": "2026-09-21",
+  "ai_scored": true
  }
 ]
