@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T08:10:27+00:00",
+ "updated_at": "2026-10-26T08:21:17+00:00",
  "items": [
   {
    "id": "bc2e30b0ad5137bb",
@@ -4286,6 +4286,495 @@
    "relevance": 40,
    "priority": "LOW",
    "first_seen": "2026-10-21",
+   "ai_scored": true
+  },
+  {
+   "id": "ac21cb849fb19273",
+   "title": "[News] Circostrada: Bounce Professional Development Programme 2027 for Circus and Outdoor Arts (Portugal, Latvia)",
+   "organization": "Circostrada",
+   "country": null,
+   "url": "https://on-the-move.org/news/circostrada-bounce-professional-development-programme-2027-circus-and-outdoor-arts-portugal",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-31",
+   "summary": "Circostrada 的 BOUNCE 导师计划面向拥有 4 至 10 年经验的当代马戏与户外艺术专业人士，提供 16 小时发展课程、线下与线上工作坊、交流网络及参与 Circostrada 大会和 FRESH 活动的机会。项目涵盖节庆策划、编辑出版、文化中心节目、学术活动及驻留制作等方向，并包含启动活动与总结活动的差旅、食宿及每日津贴。启动活动于 2027 年 5 月在葡萄牙举行，总结活动于 ",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "publishing",
+    "open_call"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "bb7c5b063e305084",
+   "title": "[News] François Schneider Foundation: Talents Contemporains Competition on ‘Water’ (France)",
+   "organization": "Fondation François Schneider",
+   "country": "France",
+   "url": "https://on-the-move.org/news/francois-schneider-foundation-talents-contemporains-competition-water-france",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-22",
+   "summary": "法国弗朗索瓦·施耐德基金会第16届“当代人才”竞赛以“水”为主题，面向全球任何国籍的成年艺术家征集绘画、雕塑、装置、摄影、影像等视觉艺术作品。获奖者每人获15000欧元作品收藏费（摄影/影像多版作品为8000欧元），并参加2028年冬季在Wattwiller艺术中心的群展，获双语画册、视频肖像及参展差旅住宿全额支持。雕塑/装置类可提交制作方案，制作预算最高5万欧元。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "0c0b3e9ff1071b19",
+   "title": "[News] Playful Obscura Arthouse Games Residency 2027 for Artists in Africa (Ethiopia)",
+   "organization": "Goethe-Institut, A MAZE., Creative HUB Ethiopia, British Council, Alliance Ethio-Française",
+   "country": "Ethiopia",
+   "url": "https://on-the-move.org/news/playful-obscura-arthouse-games-residency-2027-artists-africa-ethiopia",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-01",
+   "summary": "Playful Obscura Arthouse Games Residency 2027 面向非洲艺术家，聚焦艺术游戏与趣味媒体，2027年1月25日至2月14日在埃塞俄比亚亚的斯亚贝巴举办为期三周驻留，同期接待两位艺术家。提供住宿、往返机票及地面交通、共享工作空间、最高1000欧元制作费和300欧元津贴，作品将在2027年柏林A MAZE.展出。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "digital_media",
+    "open_call"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "95d0b994bd8989eb",
+   "title": "[News] After the Single Use: Research Residencies 2027",
+   "organization": "After the Single Use (ATSU) / NOBA",
+   "country": null,
+   "url": "https://on-the-move.org/news/after-single-use-research-residencies-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-10-23",
+   "summary": "ATSU 2027研究型驻留项目，在巴尔的摩、达喀尔、爱丁堡、日内瓦、海得拉巴、奥斯陆、坦桑尼亚等地各选一名艺术家，于2027年3-5月加入当地研究团队（全职一个月或兼职最多三个月）。强调好奇心、交流与过程，不要求产出说明性作品。提供艺术家费与材料预算，部分地点含餐食补贴，驻留末期本地呈现并参与线上展览。开放所有媒介与学科，需对研究环境与项目主题有真实兴趣。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "a6f82f1091566aaa",
+   "title": "CASSIS ARTIST RESIDENCY: last-minute opportunity 2026: autumn-winter",
+   "organization": "CASSIS ARTIST RESIDENCY",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-cassis-artist-residency-open-call-2026-autumn-winter",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "CASSIS ARTIST RESIDENCY 发布2026年秋冬最后一刻驻留机会，面向艺术家开放申请。信息未提供主办国、截止日期及资助细节，需进一步核实具体条件与申请方式。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "be0a0f634e12a4d3",
+   "title": "OPEN CALL・GlogauAIR´s ONLINE RESIDENCY PROGRAM (January – March 2027)",
+   "organization": "GlogauAIR",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-open-callglogauairs-online-residency-program-october-december-2026",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "GlogauAIR 开放征集线上驻留项目（2027年1月至3月），面向艺术家提供远程创作与交流平台。具体资助内容、申请截止日期及国际申请资格未在标题中说明，需查阅官方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "digital_media"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "b96417d19adc6a54",
+   "title": "2027 ACRE Summer Artist Residency",
+   "organization": "ACRE",
+   "country": "United States",
+   "url": "https://rivet.es/calls/view/copy-of-acre-artist-residency",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "ACRE 2027年夏季艺术家驻留项目，面向艺术家提供驻留创作机会，具体资助细节、申请截止日期及国际申请资格未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "cdb8cf236ad84e31",
+   "title": "Neljä Lab open call elo-joulukuu 2027 (DL 15.12.) 23.10.2026 Näyttelyhaut",
+   "organization": "Neljä Lab",
+   "country": "Finland",
+   "url": "https://www.artists.fi/fi/nelja-lab-open-call-elo-joulukuu-2027-dl-1512",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-12-15",
+   "summary": "Neljä Lab 面向 2027 年 8 月至 12 月期间开放驻留/展览征集，申请截止日期为 2026 年 12 月 15 日。该机会适合国际艺术家与研究者申请，具体资助与住宿条件需进一步确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "b0be41f9c377d30a",
+   "title": "Open Call: Kansainvälinen näyttely Kiinan taidemuseossa 2026-2027 22.10.2026 Näyttelyhaut",
+   "organization": null,
+   "country": "China",
+   "url": "https://www.artists.fi/fi/open-call-kansainvalinen-nayttely-kiinan-taidemuseossa-2026-2027",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-10-22",
+   "summary": "面向国际艺术家的公开征集，入选作品将于2026至2027年在中国美术馆展出。信息以芬兰语发布，未明确说明资助、差旅或住宿安排，也未限定媒介，适合各类当代艺术实践者申请。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "5ae7468470407304",
+   "title": "Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://www.camargofoundation.org/en/programs",
+   "source": "camargofoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "仅提供“Residency”一词，缺少主办机构、国家、截止日期、资助情况与项目方向等关键信息，无法判断是否为真实驻留机会或评估匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "f2dda8ec6d47c9fd",
+   "title": "Foundwork Artist Prize",
+   "organization": "Foundwork",
+   "country": null,
+   "url": "https://foundwork.art/artist-prize",
+   "source": "foundwork",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Foundwork Artist Prize 是面向国际艺术家的年度奖项，由在线艺术平台 Foundwork 主办，通常评选出多位获奖者并提供奖金及平台曝光机会，申请需通过 Foundwork 平台提交作品集。具体截止日期与资助细节需查阅官网最新公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "71dafbbb28ed0481",
+   "title": "Introduction to the Exhibition Zanele Muholi – Hasselblad Award 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.hasselbladfoundation.org/en/event/introduction-to-the-exhibition-zanele-muholi-hasselblad-award-2026-2/",
+   "source": "hasselbladfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为展览介绍，介绍Zanele Muholi获2026年哈苏奖的展览，并非面向艺术家开放申请的驻留、基金或征集机会，无申请资格、资助或截止日期等实质内容。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "881bffd149d95889",
+   "title": "Grant Writing Humanities",
+   "organization": null,
+   "country": null,
+   "url": "https://nationalhumanitiescenter.org/event/webinars/grant-writing-humanities/",
+   "source": "nationalhumanitiescenter",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为“Grant Writing Humanities”字样，未提供主办机构、国家、截止日期、资助内容或任何具体机会细节，无法判断是否为真实的驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "5ea98641eac89a9f",
+   "title": "Writer-in-Residence Rikki Alen",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/writer-in-residence-rikki-alen/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及“Writer-in-Residence Rikki Alen”，未提供主办机构、国家、截止日期、资助条件或申请要求等具体内容，无法确认是否为真实的驻留机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "721ee6be86cfd8d6",
+   "title": "Artist-in-Residence Chen Shu Fen",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-chen-shu-fen/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及“Artist-in-Residence Chen Shu Fen”这一驻留项目名称，未提供主办机构、国家、截止日期、资助条件或申请要求等具体内容，无法确认其真实性及适用范围，建议获取完整项目说明后再评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "bd9d0a14a4bcaecc",
+   "title": "Artist-in-Residence Birgit Hampel",
+   "organization": "Birgit Hampel",
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-birgit-hampel/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及艺术家驻留项目“Artist-in-Residence Birgit Hampel”，未提供主办机构背景、国家、截止日期、资助条件或申请要求等具体内容，无法确认项目性质与适用方向。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "f5c44178af0deaaa",
+   "title": "Artist-in-Residence Faye Tagen",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-faye-tagen/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及“Artist-in-Residence Faye Tagen”，缺乏主办机构、国家、截止日期、资助条件及项目内容等细节，无法确认是否为真实的驻留机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "a6eefd2bcc63db94",
+   "title": "Open Call: Focal Point 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://sharjahart.org/en/open-calls/details/open-call-focal-point-2026",
+   "source": "sharjahart",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提供“Open Call: Focal Point 2026”标题，缺少主办机构、国家、截止日期及资助细节等具体内容，无法确认其性质与申请条件。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "4444fb4c123f0ec4",
+   "title": "South Arts Names Dianna Settles and Sergio Suárez Winner and Finalist of 2026 Southern Prize and State Fellowships for Visual Arts Meet the Artists",
+   "organization": "South Arts",
+   "country": "United States",
+   "url": "https://www.southarts.org/news/south-arts-names-dianna-settles-and-sergio-suarez-winner-and-finalist-2026-southern-prize-and",
+   "source": "southarts",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "South Arts 公布2026年南方视觉艺术奖及州奖学金获奖者与入围者，获奖者为 Dianna Settles 和 Sergio Suárez。该奖项面向美国南部各州视觉艺术家，提供奖金与认可，但公告未说明申请截止日期、资助细节或国际艺术家资格。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "665028ec2486e342",
+   "title": "Recent Prizewinners",
+   "organization": null,
+   "country": null,
+   "url": "https://yalereview.org/about/awards-and-accolades",
+   "source": "yalereview",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Recent Prizewinners”（近期获奖者），未提供主办机构、国家、截止日期或任何申请细节，无法判断是否为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-10-26",
    "ai_scored": true
   }
  ]

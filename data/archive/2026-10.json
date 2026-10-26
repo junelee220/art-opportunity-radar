@@ -150,5 +150,29 @@
   "priority": "LOW",
   "first_seen": "2026-09-21",
   "ai_scored": true
+ },
+ {
+  "id": "046005cd026e6b3b",
+  "title": "PollinateTO Grants Support pollinator gardens. Apply by October 28.",
+  "organization": "PollinateTO",
+  "country": "Canada",
+  "url": "https://www.toronto.ca/services-payments/water-environment/environmental-grants-incentives/pollinateto-community-grants/",
+  "source": "toronto",
+  "region": "overseas",
+  "deadline": "2025-10-28",
+  "summary": "PollinateTO 提供资助以支持授粉者花园项目，申请截止日期为10月28日。该机会面向社区花园和生态项目，与独立出版、媒体考古、数字人文、开源硬件、空间实践或策展研究无直接关联。",
+  "funding": {
+   "fully_funded": null,
+   "stipend": null,
+   "accommodation": null,
+   "travel": null
+  },
+  "categories": [
+   "grant"
+  ],
+  "relevance": 45,
+  "priority": "LOW",
+  "first_seen": "2026-10-26",
+  "ai_scored": true
  }
 ]
