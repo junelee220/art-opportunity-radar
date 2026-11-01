@@ -1,59 +1,6 @@
 {
- "updated_at": "2026-10-26T08:21:17+00:00",
+ "updated_at": "2026-11-01T09:57:28+00:00",
  "items": [
-  {
-   "id": "bc2e30b0ad5137bb",
-   "title": "[News] Ses12naus: Visual Arts Residency 2026–2027 (Spain)",
-   "organization": "Fundación Ses12naus",
-   "country": "Spain",
-   "url": "https://on-the-move.org/news/ses12naus-visual-arts-residency-2026-2027-spain",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-30",
-   "summary": "西班牙 Fundación Ses12naus 面向视觉艺术家与策展人开放 2026–2027 驻留计划，围绕伊维萨岛的地域、社区与自然文化遗产展开研究创作。驻留分两阶段：2026 年秋实地调研，2027 年春完成创作与公开展示，期间有远程跟进。共选四个项目，来自巴利阿里群岛、西班牙及欧洲。提供 2100 欧元酬金、每阶段最高 330 欧元国际旅费、3000 欧元制作费及岛上住宿交通。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research",
-    "open_call"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
-   "first_seen": "2026-09-13",
-   "ai_scored": true
-  },
-  {
-   "id": "be466be60814ef61",
-   "title": "[News] Matadero Madrid: Medialab Matadero Situated Research Residencies 2027",
-   "organization": "Medialab Matadero",
-   "country": "Spain",
-   "url": "https://on-the-move.org/news/matadero-madrid-medialab-matadero-situated-research-residencies-2027",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-27",
-   "summary": "西班牙马德里 Medialab Matadero 面向艺术、设计、科学、技术与社会交叉领域，征集三个研究与创作项目，参与2027年1月至7月的第五期“情境研究驻留”。项目须呼应其 LAB 1-5 主题（感知媒介、代谢崇高、合成心智、怪异未来、真相机制）。入选者各获1万欧元资助，用于研究、创作、制作、差旅等；海外驻留者最多报销一次往返马德里旅费。申请人须为西班牙或欧盟成员国国籍。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": null,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research",
-    "digital_media",
-    "spatial"
-   ],
-   "relevance": 85,
-   "priority": "HIGH",
-   "first_seen": "2026-09-13",
-   "ai_scored": true
-  },
   {
    "id": "31f1d497e98a1cbe",
    "title": "Residency open call for artists based in Italy",
@@ -784,30 +731,6 @@
    "ai_scored": true
   },
   {
-   "id": "2e898104a46effd3",
-   "title": "[News] CIRKULUM Festival 2027 for Contemporary Circus Artists (Czech Republic)",
-   "organization": "CIRKULUM Festival",
-   "country": "Czech Republic",
-   "url": "https://on-the-move.org/news/cirkulum-festival-2027-contemporary-circus-artists-czech-republic",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-30",
-   "summary": "CIRKULUM 2027 当代马戏艺术节公开征集，面向有30分钟户外演出的新马戏艺术家及团体（含进行中作品）。入选者将于2027年2月12日至15日在捷克俄斯特拉发Gong多功能厅参与展演，主办方承担旅费、住宿及餐饮，并提供与国内外艺术节代表交流的推介会及艺术家目录展示机会。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": false,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "open_call"
-   ],
-   "relevance": 45,
-   "priority": "LOW",
-   "first_seen": "2026-09-16",
-   "ai_scored": true
-  },
-  {
    "id": "c99e5fcb7688b2b5",
    "title": "Open call for cultural institutions: Flying Rivers",
    "organization": null,
@@ -1270,33 +1193,6 @@
    "ai_scored": true
   },
   {
-   "id": "b4ecd423c7e8367f",
-   "title": "[News] Festival ADAR: Residency for Groups Based in Europe 2026–2027 (Spain)",
-   "organization": "Festival ADAR",
-   "country": "Spain",
-   "url": "https://on-the-move.org/news/festival-adar-residency-groups-based-europe-2026-2027-spain",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-09-28",
-   "summary": "西班牙ADAR艺术节面向合法居住在欧洲（西班牙以外）的4-5人艺术家或文化工作者团体，提供在阿斯图里亚斯乡村Leiguarda的21-30天驻留，须于2027年6月7日前完成。支持研究、创作、实验、排练、录制、展览或演出，无需完成作品。每位艺术家获30欧元/天、400-800欧元差旅补助及住宿，另有可能的额外补贴。领域涵盖建筑、文化遗产、设计、文学、音乐、表演与视觉艺术。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "open_call",
-    "research",
-    "spatial"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
-   "first_seen": "2026-09-26",
-   "ai_scored": true
-  },
-  {
    "id": "e1df9419328b0a48",
    "title": "[News] Busan Metropolitan City: Land and Ecological Art (South Korea)",
    "organization": "Busan Metropolitan City",
@@ -1599,54 +1495,6 @@
     "residency"
    ],
    "relevance": 50,
-   "priority": "LOW",
-   "first_seen": "2026-09-26",
-   "ai_scored": true
-  },
-  {
-   "id": "2ba5016347e82e34",
-   "title": "KUBU Open Call 2027 (DL 30.9.) 25.9.2026 Näyttelyhaut",
-   "organization": "KUBU",
-   "country": "Finland",
-   "url": "https://www.artists.fi/fi/kubu-open-call-2027-dl-309",
-   "source": "artists",
-   "region": "overseas",
-   "deadline": "2026-09-30",
-   "summary": "KUBU 面向 2027 年展览项目公开征集，申请截止日期为 2026 年 9 月 30 日。该机会为艺术家提供展览展示平台，具体资助与驻留条件未在信息中明确说明，需进一步查阅主办方详情。",
-   "funding": {
-    "fully_funded": null,
-    "stipend": null,
-    "accommodation": null,
-    "travel": null
-   },
-   "categories": [
-    "open_call"
-   ],
-   "relevance": 45,
-   "priority": "LOW",
-   "first_seen": "2026-09-26",
-   "ai_scored": true
-  },
-  {
-   "id": "1f9bc007acf3ccb3",
-   "title": "Open Call - Arts Education Residency in Benin, West Africa (DL 30.9.) 25.9.2026 Residenssit",
-   "organization": null,
-   "country": "Benin",
-   "url": "https://www.artists.fi/fi/open-call-arts-education-residency-benin-west-africa-dl-309",
-   "source": "artists",
-   "region": "overseas",
-   "deadline": "2026-09-30",
-   "summary": "贝宁（西非）艺术教育驻留项目公开征集，面向艺术教育方向，截止日期为2026年9月30日。具体资助条件、主办机构及申请要求未在信息中明确说明。",
-   "funding": {
-    "fully_funded": null,
-    "stipend": null,
-    "accommodation": null,
-    "travel": null
-   },
-   "categories": [
-    "residency"
-   ],
-   "relevance": 45,
    "priority": "LOW",
    "first_seen": "2026-09-26",
    "ai_scored": true
@@ -2040,81 +1888,6 @@
     "research"
    ],
    "relevance": 55,
-   "priority": "LOW",
-   "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
-   "id": "c713ca258bfa0e77",
-   "title": "In Cahoots Residency June - December 2027",
-   "organization": "In Cahoots Residency",
-   "country": null,
-   "url": "https://incahootsresidency.com/",
-   "source": "artconnect",
-   "region": "overseas",
-   "deadline": "2026-10-01",
-   "summary": "In Cahoots Residency 面向新兴及专业艺术家提供住宿与工作室，重点支持艺术家书、活版印刷、版画、写作及合作创作。每期接待3至5位艺术家，驻留时长1至3周，申请者需具备艺术或写作经验。2026年10月1日截止，对应2027年6月至12月的驻留档期。",
-   "funding": {
-    "fully_funded": null,
-    "stipend": null,
-    "accommodation": true,
-    "travel": null
-   },
-   "categories": [
-    "residency",
-    "publishing",
-    "research"
-   ],
-   "relevance": 55,
-   "priority": "LOW",
-   "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
-   "id": "574aa3c7b4aaa802",
-   "title": "Open CALL for CultereX Residency, India (09-30-2026 10:58)",
-   "organization": "CultereX",
-   "country": "India",
-   "url": "https://rivet.es/calls/view/open-call-for-culterex-residency-india-09-30-2026-10-58",
-   "source": "rivet",
-   "region": "overseas",
-   "deadline": "2026-09-30",
-   "summary": "CultereX 在印度开放驻留项目征集，面向艺术家与创作者。具体资助内容、驻留时长及申请条件未在信息中说明，需查阅官方公告了解详情。",
-   "funding": {
-    "fully_funded": null,
-    "stipend": null,
-    "accommodation": null,
-    "travel": null
-   },
-   "categories": [
-    "residency"
-   ],
-   "relevance": 45,
-   "priority": "LOW",
-   "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
-   "id": "2156a337197633f9",
-   "title": "Open Call for Writer's India Residency (09-30-2026 11:24)",
-   "organization": null,
-   "country": "India",
-   "url": "https://rivet.es/calls/view/open-call-for-writer-s-india-residency-09-30-2026-11-24",
-   "source": "rivet",
-   "region": "overseas",
-   "deadline": "2026-09-30",
-   "summary": "面向写作者的印度驻留计划公开征集，邀请作家前往印度进行创作与交流。具体资助内容、申请资格及驻留时长未在信息中说明，需查阅主办方详情。",
-   "funding": {
-    "fully_funded": null,
-    "stipend": null,
-    "accommodation": null,
-    "travel": null
-   },
-   "categories": [
-    "residency",
-    "publishing"
-   ],
-   "relevance": 45,
    "priority": "LOW",
    "first_seen": "2026-10-01",
    "ai_scored": true
@@ -4775,6 +4548,860 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-10-26",
+   "ai_scored": true
+  },
+  {
+   "id": "dc8cb47c0328a021",
+   "title": "[News] IN SITU: Online Support and Immersive Lab for Emerging Artists Creating in Public Space (3rd Call)",
+   "organization": "IN SITU / On the Move",
+   "country": null,
+   "url": "https://on-the-move.org/news/situ-online-support-and-immersive-lab-emerging-artists-creating-public-space-3rd-call",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-09",
+   "summary": "IN SITU 第三轮公开征集，面向在公共空间创作的欧洲新兴艺术家。约60位艺术家可参加2027年3-6月的线上学习支持，并参与2027年5-9月的线下沉浸式实验室（六天，含写作补助1500欧元、往返机票最高300欧元、餐饮与住宿）。申请项目须处于开发中、尚未首演、面向公共空间或非传统场地，计划2028年夏呈现。约10个项目将获制作驻留支持，最终在奥地利格拉茨La Strada呈现。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "open_call",
+    "residency",
+    "spatial"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "fdb8921c9e7361ce",
+   "title": "[News] Les Rencontres d'Arles: Curatorial Research Fellowship 2027 (France)",
+   "organization": "Les Rencontres d'Arles",
+   "country": "France",
+   "url": "https://on-the-move.org/news/les-rencontres-darles-curatorial-research-fellowship-2027-france",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "法国阿尔勒摄影节面向展览策展人开放2027年策展研究奖学金，支持原创影像/摄影项目。研究阶段提供5000欧元经费及版权费，为期六个月；通过评审后进入制作阶段，由主办方管理15000欧元制作预算，涵盖作品借展、运输、制作、开幕周策展人及艺术家差旅、保险等，并承担展览设计、传播、布展与安保费用。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "grant",
+    "research",
+    "open_call"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "fc05953a985f172f",
+   "title": "[News] Villa Pérochon: Encounters of Young International Photography Residency and Exhibition 2027 (France)",
+   "organization": "Villa Pérochon",
+   "country": "France",
+   "url": "https://on-the-move.org/news/villa-perochon-encounters-young-international-photography-residency-and-exhibition-2027-france",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-15",
+   "summary": "法国尼奥尔的Villa Pérochon面向新兴国际摄影师征集2027年驻留与展览项目。驻留期为2027年3月26日至4月12日，由Simon Brodbeck与Lucie de Barbuat指导，成果将于2027年4月10日至5月31日在Bernard d'Agesci博物馆展出。提供往返旅费、材料、食宿及早餐晚餐，另含400欧元驻留补助与400欧元展览费，并可使用专业暗房与数字工作室。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "9e7d3ac80fde66ae",
+   "title": "[News] 2200: 2027 Residency for Emerging Artists (Switzerland)",
+   "organization": "2200",
+   "country": "Switzerland",
+   "url": "https://on-the-move.org/news/2200-2027-residency-emerging-artists-switzerland",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-31",
+   "summary": "2200 为新兴艺术家提供约三个月的瑞士驻留，地点包括1950年代邮局、19世纪末酒店和石制仓库，提供工作室、住宿、每月500瑞士法郎津贴，并可协商差旅支持，同时提供展示与展览规划指导，适合视觉艺术家及与场地契合的其他跨学科概念。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "spatial"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "1435d8df99b665aa",
+   "title": "[News] MON-ART: Nicosia Monastery of Arts Residency 2027 in Art, Sustainability and Community (Cyprus)",
+   "organization": "Visual Voices",
+   "country": "Cyprus",
+   "url": "https://on-the-move.org/news/mon-art-nicosia-monastery-arts-residency-2027-art-sustainability-and-community-cyprus",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-23",
+   "summary": "Visual Voices 征集塞浦路斯尼科西亚艺术修道院驻留项目（2027年2月至7月，为期6个月，选2位艺术家），面向在艺术、可持续性与社区生活交叉领域创作的艺术家，提供在地实验、社区参与和公开展示机会，聚焦后冲突语境下的城市再生。项目由欧盟Creative Europe共同资助，含6000欧元艺术家费、共享住宿、1400欧元制作费及600-1000欧元差旅。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "spatial",
+    "research"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "1cb6df2aace11c81",
+   "title": "[News] Cove Park: Residency 2027–2028 for Artists in Scotland, UK, Central and South America and Diasporas (UK)",
+   "organization": "Cove Park",
+   "country": "United Kingdom",
+   "url": "https://on-the-move.org/news/cove-park-residency-2027-2028-artists-scotland-uk-central-and-south-america-and-diasporas-uk",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-11",
+   "summary": "Cove Park 面向苏格兰、英国及中南美洲艺术家、创作者与研究者开放2027–2028年度全额资助驻留，时长2周至3个月。提供每周775英镑津贴、差旅费、材料费及签证支持，并设申请无障碍补助。接受个人、集体及合作团体申请，不限艺术形式与职业阶段。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "259e69882c0caf75",
+   "title": "[News] Mophradat: Residency at BUDA with a Premiere at NEXT Festival 2027 (Belgium)",
+   "organization": "Mophradat",
+   "country": "Belgium",
+   "url": "https://on-the-move.org/news/mophradat-residency-buda-premiere-next-festival-2027-belgium",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2027-01-04",
+   "summary": "Mophradat 与比利时 Kunstencentrum BUDA 及 NEXT Festival 合作，为阿拉伯世界表演艺术家提供为期三周（2027年10/11月）的驻留，利用 BUDA 设施完成新作并在 NEXT Festival 首演。申请者须有已发表作品、处于新项目最终开发阶段并有联合制作方或融资计划；音乐会提案不合资格。资助含差旅签证费、驻留津贴、联合制作费及演出费，总额1万欧元。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "e4cee53d5cc5972d",
+   "title": "Commissions on the High Line in 2026",
+   "organization": "High Line",
+   "country": "United States",
+   "url": "https://www.e-flux.com/announcements/6788174/commissions-on-the-high-line-in-2026",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "纽约高线公园公开征集2026年艺术委任项目，面向艺术家、策展人及跨学科创作者，支持在公共空间创作新作品，涉及装置、空间实践与公共艺术方向，具体资助与截止日期未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "ab7fb5f71cac933f",
+   "title": "Artist Residencies 2027",
+   "organization": "Studio Chapulín",
+   "country": "Mexico",
+   "url": "https://www.artconnect.com/opportunities/residencies",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Studio Chapulín 面向活跃的视觉与纯艺术家开放2027年驻留申请，驻留地点为墨西哥城，为期4至5周，聚焦创作生产与行业人脉拓展。项目提供私人住宿、工作室空间及专业导师指导。2027年驻留时段包括：冬季第二期（2月16日至3月15日）、春季第一期（3月23日至4月19日）、春季第二期（4月27日至5月24日）。未明确说明申请截止日期及资助情况。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "a3c8399c00f093e3",
+   "title": "Art Print Residency / Winter & Spring- Barcelona 2027 / La Maldita Estampa.",
+   "organization": "La Maldita Estampa",
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/copy-of-art-print-residency-winter-barcelona-2026-2027-la-maldita-estampa_1",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "La Maldita Estampa 在巴塞罗那推出2027年冬季与春季版画驻留项目，面向艺术家开放，聚焦版画创作与印刷实践。具体资助内容、申请截止日期及国际申请资格未在信息中说明，需进一步查阅主办方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "publishing"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "31983ebda3c73c42",
+   "title": "ArtFundMe – $1,000 Grant for Artists",
+   "organization": "ArtFundMe",
+   "country": null,
+   "url": "https://rivet.es/calls/view/artfundme-1000-grant-for-artists",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "ArtFundMe 提供 1,000 美元艺术家资助，面向艺术家开放申请，用于支持创作实践。信息未明确截止日期、资助覆盖范围及国际申请资格，需进一步核实具体条款。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "b227e764e1218358",
+   "title": "World Laureates Forum gathers prestigious science award recipients in Shanghai",
+   "organization": "World Laureates Forum",
+   "country": "China",
+   "url": "https://www.chinadaily.com.cn/a/202610/31/WS6ae5bf7ee4b06d4aa05663f2.html",
+   "source": "chinadaily",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "世界顶尖科学家论坛在上海汇聚众多科学奖项得主，属于科学会议交流活动，并非面向艺术家的驻留、基金或作品征集机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "f1a9b76f7cb97289",
+   "title": "grant programs",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grant_programs/",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“grant programs”两个词，未提供主办机构、国家、截止日期、资助范围或申请条件等任何具体内容，无法判断其真实性或与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "35b04aea154cdccd",
+   "title": "grantee projects",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“grantee projects”，未提供主办机构、国家、截止日期或具体资助内容，无法判断是否为真实驻留、基金或征集机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "94c8f503933be171",
+   "title": "2026 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2026",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2026 grantees”，未提供主办机构、国家、截止日期或资助细节，无法确认是否为真实的驻留、基金或征集机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "7cbabadac7ac0e6c",
+   "title": "2021 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2021",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2021 grantees”，未提供主办机构、国家、截止日期或资助细节，无法确认是否为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "0fe86f32196a91ec",
+   "title": "2025 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2025",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2025 grantees”，未提供主办机构、国家、截止日期或资助细节，无法判断是否为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "2b183afd62bd1fcc",
+   "title": "2020 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2020",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2020 grantees”，缺乏主办机构、国家、截止日期及资助细节，无法确认是否为真实驻留、基金或征集机会，也无法评估与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "2de458e87bfa54f8",
+   "title": "2024 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2024",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2024 grantees”，未提供主办机构、国家、截止日期或资助细节，无法判断是否为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "ee8e5e6a5ad3a8dc",
+   "title": "2019 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2019",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2019 grantees”，未提供主办机构、国家、截止日期或具体机会内容，无法判断是否为驻留、基金或征集，也无法评估资助与方向匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "e8aa9bd2f351a061",
+   "title": "2023 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2023",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2023 grantees”，缺乏主办机构、国家、截止日期及资助细节，无法确认是否为真实驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "8afa22c2b41f008e",
+   "title": "2018 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2018",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2018 grantees”，缺乏主办机构、国家、截止日期及资助细节，无法确认是否为真实的驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "a8616f7ca25d812b",
+   "title": "2022 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2022",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2022 grantees”，未提供主办机构、国家、截止日期或资助详情，无法确认是否为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "a3f24993a629e22e",
+   "title": "2017 grantees",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grantees/?mode=2017",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“2017 grantees”，缺乏主办机构、国家、截止日期及资助细节，无法确认是否为真实的驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "35826060b9b0e3a4",
+   "title": "Grants to Individuals The deadline has passed.",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grant_programs/?mode=individual",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提及个人资助项目，且截止日期已过，未提供主办机构、国家、资助内容或申请条件等具体细节，无法判断其当前有效性。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "7271004d8593b46d",
+   "title": "Carter Manny Award Nov 15, 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grant_programs/?mode=award",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": "2026-11-15",
+   "summary": "Carter Manny Award 是一项艺术奖项机会，截止日期为2026年11月15日。现有信息未提供主办机构、国家、资助详情或具体类别，无法确认其是否属于驻留、基金或征集类型。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "e6f034e2d3dc9f44",
+   "title": "Grants to Organizations Feb 25, 2027",
+   "organization": null,
+   "country": null,
+   "url": "https://www.grahamfoundation.org/grant_programs/?mode=organization",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": "2027-02-25",
+   "summary": "面向组织的资助机会，截止日期为2027年2月25日。信息未提供主办机构、国家、资助范围及申请条件等细节，需进一步核实具体项目内容与资格要求。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "a2219ae0fe68a07c",
+   "title": "6865 The Anne Rieselbach Architectural League Prize For Young Architects Designers",
+   "organization": "Architectural League of New York",
+   "country": "United States",
+   "url": "https://www.grahamfoundation.org/grantees/6865-the-anne-rieselbach-architectural-league-prize-for-young-architects-designers",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "安妮·里塞尔巴赫建筑联盟奖面向年轻建筑师与设计师，表彰创新建筑与设计作品。该奖项为年度竞赛，通常要求参赛者提交作品集，获奖者获得奖金与展览机会。具体截止日期与资助细节需查阅官网。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "1fccf8557973ca90",
+   "title": "6842 Publication Award In Contemporary Architecture Paca",
+   "organization": null,
+   "country": "France",
+   "url": "https://www.grahamfoundation.org/grantees/6842-publication-award-in-contemporary-architecture-paca",
+   "source": "grahamfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "PACA地区当代建筑出版奖，面向当代建筑主题的出版项目征集，具体资助细节与截止日期未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "publishing",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "e87e0a65d1e38374",
+   "title": "Zanele Muholi Hasselblad Award 2026",
+   "organization": "Hasselblad Foundation",
+   "country": "Sweden",
+   "url": "https://www.hasselbladfoundation.org/sv/portfolio_page/zanele-muholi-hasselblad-award-2026/",
+   "source": "hasselbladfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哈苏基金会将2026年哈苏奖授予南非视觉活动家艺术家Zanele Muholi，表彰其在摄影领域对黑人LGBTQIA+群体可见性与社会正义的长期贡献。该奖为荣誉性奖项，非公开征集，无申请通道。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "6fd72ec65d7959dc",
+   "title": "Artevol 2026 Audience Choice Award Announced Celebrating The Publics Voice In Contemporary Art",
+   "organization": "Artevol",
+   "country": null,
+   "url": "https://londonartcollective.com/whats-on/artevol-2026-audience-choice-award-announced-celebrating-the-publics-voice-in-contemporary-art",
+   "source": "londonartcollective",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Artevol 2026 观众选择奖公告，旨在表彰当代艺术中的公众声音。该信息仅为奖项公告，未提供申请细节、截止日期或资助说明，属于奖项结果或宣传性质，而非开放的艺术机会征集。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "2526c236b89ac57d",
+   "title": "Artist-in-Residence Ladora Munteanu",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-ladora-munteanu/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及“Artist-in-Residence Ladora Munteanu”，未提供主办机构、国家、截止日期、资助详情或申请要求，无法确认是否为真实驻留机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "cb321e42a2d9a47a",
+   "title": "Open Call 2026-2027",
+   "organization": null,
+   "country": null,
+   "url": "https://ses12naus.org/programa/open-call-2026-2027/",
+   "source": "ses12naus",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "仅提供“Open Call 2026-2027”标题，缺少主办机构、国家、截止日期、资助条件及方向等具体信息，无法判断其性质与匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "9a6a9ea43c6f250a",
+   "title": "Deutsche Börse Photography Foundation Prize 2027",
+   "organization": "Deutsche Börse Photography Foundation",
+   "country": "Germany",
+   "url": "https://thephotographersgallery.org.uk/whats-on/deutsche-borse-photography-foundation-prize-2027",
+   "source": "thephotographersgallery",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "德意志交易所摄影基金会奖2027年度评选，面向国际摄影师与艺术家开放，表彰过去一年在欧洲展出或出版的摄影作品。奖项含奖金与展览机会，具体截止日期与资助细节需查阅官网。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "publishing"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "b995e29748f4acc6",
+   "title": "Gigi Hadid Cut the Ribbon on Her Fourth Guest in Residence Store with Cashmere, Caviar, and Caricatures",
+   "organization": null,
+   "country": null,
+   "url": "https://www.vogue.com/slideshow/gigi-hadid-guest-in-residence-madison-store-party",
+   "source": "vogue",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息报道超模Gigi Hadid为其第四家Guest in Residence羊绒服饰门店剪彩，活动包含鱼子酱与漫画肖像等环节。这是商业零售开业新闻，与艺术驻留、基金、征集或出版等艺术机会无关。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-01",
    "ai_scored": true
   }
  ]
