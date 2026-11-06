@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-01T09:57:28+00:00",
+ "updated_at": "2026-11-06T10:13:32+00:00",
  "items": [
   {
    "id": "31f1d497e98a1cbe",
@@ -633,79 +633,6 @@
    "ai_scored": true
   },
   {
-   "id": "6209aa21d5f940ab",
-   "title": "[News] Delfina Foundation: Residency for Visual Artists from Portugal and Portuguese-speaking African Nations 2027 (UK)",
-   "organization": "Delfina Foundation",
-   "country": "UK",
-   "url": "https://on-the-move.org/news/delfina-foundation-residency-visual-artists-portugal-and-portuguese-speaking-african-nations",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-04",
-   "summary": "伦敦 Delfina 基金会与 Calouste Gulbenkian 基金会合作，面向葡萄牙及葡语非洲国家（安哥拉、莫桑比克、几内亚比绍、佛得角、圣多美和普林西比）的当代视觉艺术家征集驻留申请。驻留为期12周，2027年6月28日至9月17日，全额资助，含往返机票、每日40英镑生活津贴、1200英镑材料费、伦敦交通卡及单人卧室。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency"
-   ],
-   "relevance": 55,
-   "priority": "LOW",
-   "first_seen": "2026-09-16",
-   "ai_scored": true
-  },
-  {
-   "id": "0cc68f3d7b281de4",
-   "title": "[News] HBK Braunschweig: 2027–2028 Curatorial Fellowship (Germany)",
-   "organization": "HBK Braunschweig",
-   "country": "Germany",
-   "url": "https://on-the-move.org/news/hbk-braunschweig-2027-2028-curatorial-fellowship-germany",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-04",
-   "summary": "德国布伦瑞克造型艺术学院（HBK Braunschweig）面向策展人开放2027–2028策展奖学金申请，为期12个月。获奖者需为Braunschweig Projects 2027/2028项目策划并实现最终展览，并可与下萨克森州的博物馆、收藏或科研文化机构合作开展策展项目。要求至少3年策展经验，需在布伦瑞克驻留至少8个月并参加2027年4月19–30日的欢迎周。资助含每月1600欧元津贴、免",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "grant",
-    "research"
-   ],
-   "relevance": 55,
-   "priority": "LOW",
-   "first_seen": "2026-09-16",
-   "ai_scored": true
-  },
-  {
-   "id": "67617a7d3fc60bfb",
-   "title": "[News] HBK Braunschweig: Braunschweig Projects Residency Programme 2027–28 (Germany)",
-   "organization": "HBK Braunschweig",
-   "country": "Germany",
-   "url": "https://on-the-move.org/news/hbk-braunschweig-braunschweig-projects-residency-programme-2027-28-germany",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-04",
-   "summary": "德国布伦瑞克造型艺术学院（HBK Braunschweig）面向视觉艺术家与声音艺术家开放2027–28年度为期12个月的驻留奖学金，共设2个声音艺术和5个视觉艺术名额。获选者需在布伦瑞克驻留至少8个月并参加2027年4月19–30日的欢迎周，项目需与学院环境紧密相关，并配备导师。资助包括每月1600欧元津贴、免费单人工作室公寓、项目与差旅补贴，需自付每月250欧元杂费。申请者须完成艺术学位并有丰",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency"
-   ],
-   "relevance": 70,
-   "priority": "LOW",
-   "first_seen": "2026-09-16",
-   "ai_scored": true
-  },
-  {
    "id": "e748b7c4ef6091fc",
    "title": "[News] Africa-Europe Partnerships for Culture: Connect and Create Mentoring Scheme 2027",
    "organization": "Institut français (Africa–Europe Partnerships for Culture, EU-funded)",
@@ -1240,31 +1167,6 @@
    ],
    "relevance": 65,
    "priority": "LOW",
-   "first_seen": "2026-09-26",
-   "ai_scored": true
-  },
-  {
-   "id": "83554760e1868456",
-   "title": "[News] Gasworks: 2027 Residency for Artists Based in Central America (UK)",
-   "organization": "Gasworks",
-   "country": "英国",
-   "url": "https://on-the-move.org/news/gasworks-2027-residency-artists-based-central-america-uk",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-06",
-   "summary": "Gasworks 面向中美洲（伯利兹、哥斯达黎加、萨尔瓦多、危地马拉、洪都拉斯、尼加拉瓜、巴拿马）早期职业艺术家开放2027年驻留征集。为期11周，2027年4月7日至6月22日在伦敦举行，全额资助，提供工作室、住宿、往返经济舱机票、签证费用支持、每周175英镑津贴、最高800英镑材料预算及交通卡。驻留以艺术家自主研究创作为主，机构提供行政、关怀与策展支持，促进文化交流与专业发展。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
    "first_seen": "2026-09-26",
    "ai_scored": true
   },
@@ -5402,6 +5304,453 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-11-01",
+   "ai_scored": true
+  },
+  {
+   "id": "cb4294a05a7c0684",
+   "title": "[News] Frankfurt Moves! Residency 2027 for Emerging Performing Artists Trained in Africa, Asia, Latin America or the WANA Region (Germany)",
+   "organization": "KfW Stiftung and Frankfurt LAB",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/frankfurt-moves-residency-2027-emerging-performing-artists-trained-africa-asia-latin-america",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-07",
+   "summary": "Frankfurt Moves! 2027驻留项目由KfW Stiftung与Frankfurt LAB主办，面向在非洲、亚洲、拉丁美洲或WANA地区接受训练的新兴表演艺术家。项目分两阶段：先在法兰克福驻留四周，随后在居住国远程延续一个月研究。提供生活费津贴（每人2750欧元）、住宿、往返旅费、艺术创作费、排练空间及作品展示支持。2027年提供四个名额，接受个人或两人团队申请。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "83dd7a352108465a",
+   "title": "[News] Bernheim Arboretum and Research Forest: Artist in Residence Programme 2027 (USA)",
+   "organization": "Bernheim Arboretum and Research Forest",
+   "country": "USA",
+   "url": "https://on-the-move.org/news/bernheim-arboretum-and-research-forest-artist-residence-programme-2027-usa",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "Bernheim植物园与研究森林2027年艺术家驻留计划，面向视觉与混合媒介艺术家（含声音及含视觉元素的表演艺术）。建议驻留6-8周，可拆分为两段、每段至少三周。艺术家需创作场域特定作品或临时装置并捐赠给基金会，同时通过工作坊、讲座等参与公众互动。提供2500美元津贴、带厨房卫浴和Wi-Fi的单卧木屋、工作室及生态学家等专业支持。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "b37cfcec2224bcc5",
+   "title": "[News] Montpellier 2028: Residency in Visual Arts and Music 2027 (France)",
+   "organization": "Montpellier 2028 – Terres de culture and Communauté de communes Vallée de l’Hérault",
+   "country": "France",
+   "url": "https://on-the-move.org/news/montpellier-2028-residency-visual-arts-and-music-2027-france",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-16",
+   "summary": "法国蒙彼利埃2028文化项目与埃罗河谷社区联合发起‘活着的山谷’艺术研究与创作驻留，地点在阿尼亚讷前修道院及埃罗河谷，2027年1月至4月间进行为期八周（可不连续）。面向视觉艺术与音乐/声音创作双人组合或两个互补研究项目，通过居民访谈、故事与声音采集、工作坊等，创作关于山谷的敏感肖像，可涉及景观、村落、遗产与档案。无年龄和地域限制，每位艺术家获6000欧元资助（含报酬、日常补贴与往返差旅），提供住",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "54ac593acf7647e2",
+   "title": "[News] Leitrim Sculpture Centre: Exhibition Residencies for Visual Artists 2027 (Ireland)",
+   "organization": "Leitrim Sculpture Centre",
+   "country": "Ireland",
+   "url": "https://on-the-move.org/news/leitrim-sculpture-centre-exhibition-residencies-visual-artists-2027-ireland",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-09",
+   "summary": "爱尔兰Leitrim雕塑中心与Leitrim郡议会合作，为视觉艺术家提供最多4个2027年展览驻留名额，驻留最长8周，时间在2027年2月中至11月中。提供4000欧元艺术家费、私人工作室公寓住宿、宽带、中心设施使用权、每月最多20小时技术支持和策展支持，驻留结束时举办个展。面向国际艺术家开放。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": false
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "spatial"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "e2f7e731523f6266",
+   "title": "[News] Youth Policy Dialogue 2027 on ‘AI and Music’ (Netherlands)",
+   "organization": "European Union / ESNS",
+   "country": "Netherlands",
+   "url": "https://on-the-move.org/news/youth-policy-dialogue-2027-ai-and-music-netherlands",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-02",
+   "summary": "欧盟面向18-30岁居住在欧洲的年轻人招募30名参与者，参加在荷兰格罗宁根举办的2027青年政策对话，主题为“AI与音乐”，与欧盟委员Glenn Micallef共同探讨AI在音乐领域的机遇、公平使用及技能支持，为欧盟文化创意领域AI战略提供建议。提供差旅、住宿及餐饮。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": false,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "digital_media"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "704ac6ac2e86cfe3",
+   "title": "[News] European Hybrid Intelligence Network: Dirtly Lab Residencies 2027 (Belgium, Croatia, Germany, Serbia, Slovenia, Spain)",
+   "organization": "European Hybrid Intelligence Network (EHIN)",
+   "country": null,
+   "url": "https://on-the-move.org/news/european-hybrid-intelligence-network-dirtly-lab-residencies-2027-belgium-croatia-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-04",
+   "summary": "EHIN 面向艺术家开放六项 Dirtly Lab 跨机构驻留，2027年2月启动，为期约12个月。每位艺术家与科学家及田野实践者配对，探索混合智能、生物计算与跨物种共生，在斯洛文尼亚、塞尔维亚、比利时、西班牙、德国、克罗地亚六国合作机构开展两阶段创作，含公开活动与展览。每项提供最高2.5万欧元艺术家费与制作费，旅宿另行安排。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "digital_media",
+    "spatial"
+   ],
+   "relevance": 95,
+   "priority": "HIGH",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "a9c3bb4018de9a95",
+   "title": "[News] European Cultural Foundation: Creative Research Fellowship to Research ERASMUS and European Belonging (Italy)",
+   "organization": "European Cultural Foundation (ECF)",
+   "country": "Italy",
+   "url": "https://on-the-move.org/news/european-cultural-foundation-creative-research-fellowship-research-erasmus-and-european",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-01",
+   "summary": "欧洲文化基金会提供创意研究奖学金，资助1万欧元，邀请专业创意实践者赴佛罗伦萨欧盟历史档案馆研究ECF参与ERASMUS项目的历史档案，成果将于2027年9月在布鲁塞尔欧洲历史博物馆呈现。研究主导但不限媒介，需将档案研究转化为面向公众的文化成果。申请者须居住在欧洲委员会成员国，研究驻留预计2027年第一季度进行。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "grant",
+    "residency"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "c2b87d11480a5a2c",
+   "title": "International Curator Residency Award 2027",
+   "organization": "FSAS",
+   "country": "Ireland",
+   "url": "https://www.firestation.ie/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "FSAS 面向国际当代策展人开放2027年国际策展人驻留奖申请，提供都柏林3-4周住宿与津贴，用于生活、工作与建立人脉，旨在拓展国际网络并为爱尔兰艺术家创造合作机会，推动爱尔兰艺术界国际化。驻留于2027年1月底或2月初开始，艺术家Rouzbeh Shadpey参与评审。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "3ea3349c07244b8c",
+   "title": "Artist residency in Berlin ",
+   "organization": "Burnt Sienna",
+   "country": "Germany",
+   "url": "https://www.artconnect.com/opportunities/residencies",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "柏林Burnt Sienna由画家Louise Lenz于2016年创立，邀请画家和视觉艺术家在活跃的艺术家主导工作室社区中发展创作。驻留提供时间推进个人项目、与同行交流并形成持续作品体系。欢迎定期使用工作室、对绘画材料与图像创作有思考兴趣的艺术家。此为工作室型非住宿机会，艺术家需自行安排柏林住宿并自带材料。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": false,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "da8318827224ac38",
+   "title": "Simpoiesis / Open call 2027",
+   "organization": null,
+   "country": null,
+   "url": "https://rivet.es/calls/view/simpoiesis-open-call-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Simpoiesis 2027 开放征集，具体主办机构、国家、截止日期及资助细节未在信息中提供，无法确认其性质与条件。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "ad15a329abd77ecf",
+   "title": "Second Culture Helps Solidarity call for Collaboration Grants Read more",
+   "organization": "Second Culture",
+   "country": null,
+   "url": "https://culturalfoundation.eu/open-calls/culture-helps-solidarity-%d0%ba%d1%83%d0%bb%d1%8c%d1%82%d1%83%d1%80%d0%b0-%d0%b4%d0%be%d0%bf%d0%be%d0%bc%d0%b0%d0%b3%d0%b0%d1%94-open-call-for-collaboration-grants/second-culture-helps-solidarity-call-for-collaboration-grants/",
+   "source": "culturalfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Second Culture 发布 Solidarity 合作资助征集（Collaboration Grants），面向合作项目提供资助。信息仅含标题与链接，缺少截止日期、资助额度、资格与地域等细节，需查阅原文确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "ccaf6a765ddf39e0",
+   "title": "Open calls",
+   "organization": null,
+   "country": null,
+   "url": "https://futuresoflistening.nl/open-calls?nav=buttons",
+   "source": "futuresoflistening",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Open calls”字样，未提供主办机构、国家、截止日期或任何具体内容，无法判断资助情况与方向匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "28a95f272f08ecfc",
+   "title": "South Arts Southern Prize & State Fellowships Opening Reception",
+   "organization": "South Arts",
+   "country": "United States",
+   "url": "https://www.hambidge.org/events/south-arts-southern-prize-amp-state-fellowships-opening-reception",
+   "source": "hambidge",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "South Arts 南方奖及州奖学金开幕招待会，面向美国南部艺术家，表彰艺术成就并提供奖金与展览机会。信息为招待会活动，未提供申请截止日期或资助细节。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant",
+    "open_call"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "77da44e9680cf743",
+   "title": "Introduction to the Exhibition Zanele Muholi – Hasselblad Award 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.hasselbladfoundation.org/en/event/introduction-to-the-exhibition-zanele-muholi-hasselblad-award-2026-3/",
+   "source": "hasselbladfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为介绍2026年哈苏奖得主Zanele Muholi展览的预告，未包含任何申请、征集或资助细节，不属于可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "3c2a9f0cd7dd32ef",
+   "title": "Imperial Unsettling: Indigenous and Immigrant Activism Toward Collective Liberation",
+   "organization": null,
+   "country": null,
+   "url": "https://nationalhumanitiescenter.org/featured-research-colonialism-aftermaths/#escudero",
+   "source": "nationalhumanitiescenter",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息标题为“帝国的不安：原住民与移民行动主义走向集体解放”，看起来像学术文章、讲座或出版物的标题，而非驻留、基金或公开征集机会。未提供主办机构、国家、截止日期或资助信息，无法确认其为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "87890b1ff9098750",
+   "title": "Announcing Playwright And Poet Audley Puglisi As The 2026 Ryan Hudak Lgbtq Dramatic Writing Award Recipient",
+   "organization": null,
+   "country": null,
+   "url": "https://www.nyfa.org/news/announcing-playwright-and-poet-audley-puglisi-as-the-2026-ryan-hudak-lgbtq-dramatic-writing-award-recipient/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息宣布剧作家兼诗人Audley Puglisi获得2026年Ryan Hudak LGBTQ戏剧写作奖，属于获奖公告而非开放申请的艺术机会，未提供主办机构、国家、截止日期或资助细节。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "98c8b0b739589211",
+   "title": "Creative Futures Fellowship",
+   "organization": null,
+   "country": null,
+   "url": "https://rootdivision.org/classes-education/creative-futures-fellowship/",
+   "source": "rootdivision",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提供“Creative Futures Fellowship”名称，缺少主办机构、国家、截止日期、资助内容与申请要求等细节，无法确认其性质与适用性。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "f96ce135cafb93a2",
+   "title": "Sharjah Art Foundation Announces Open Call for Collection Research Fellowship",
+   "organization": "Sharjah Art Foundation",
+   "country": "United Arab Emirates",
+   "url": "https://sharjahart.org/en/open-calls/details/sharjah-art-foundation-announces-open-call-for-collection-research-fellowship",
+   "source": "sharjahart",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "沙迦艺术基金会宣布公开征集馆藏研究奖学金申请。该机会面向研究型从业者，聚焦基金会馆藏的研究与阐释，属于研究类机会。具体资助范围、截止日期及国际申请资格未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "research",
+    "open_call"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-06",
    "ai_scored": true
   }
  ]
