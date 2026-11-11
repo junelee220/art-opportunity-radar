@@ -323,5 +323,56 @@
   "priority": "MAYBE",
   "first_seen": "2026-09-26",
   "ai_scored": true
+ },
+ {
+  "id": "e748b7c4ef6091fc",
+  "title": "[News] Africa-Europe Partnerships for Culture: Connect and Create Mentoring Scheme 2027",
+  "organization": "Institut français (Africa–Europe Partnerships for Culture, EU-funded)",
+  "country": "France",
+  "url": "https://on-the-move.org/news/africa-europe-partnerships-culture-connect-and-create-mentoring-scheme-2027",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-09",
+  "summary": "欧盟资助的非洲-欧洲文化伙伴关系项目下的 Connect & Create 导师计划，面向撒哈拉以南非洲表演艺术与音乐行业的早期职业从业者（2-5年经验，从事管理、制作、发行、行政、传播等支持性工作）。2027年1月至12月支持15名参与者，配对非洲或欧洲导师，含季度工作坊和集体沉浸式参访。参与者所属机构可获7500欧元资助，用于运营、发展及技能提升，导师与学员的差旅住宿费用由项目承担。",
+  "funding": {
+   "fully_funded": false,
+   "stipend": false,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "grant",
+   "open_call"
+  ],
+  "relevance": 45,
+  "priority": "LOW",
+  "first_seen": "2026-09-16",
+  "ai_scored": true
+ },
+ {
+  "id": "c3ddee0fae81d990",
+  "title": "Apurahaenkeli -sivusto jakaa tietoa apurahoista, residensseistä ja open calleista tai­tei­li­joil­le! 6.10.2026 Apurahat Muut",
+  "organization": "Apurahaenkeli",
+  "country": "Finland",
+  "url": "https://www.artists.fi/index%2Ephp/fi/apurahaenkeli-sivusto-jakaa-tietoa-apurahoista-residensseista-ja-open-calleista-taiteilijoille",
+  "source": "artists",
+  "region": "overseas",
+  "deadline": "2026-10-06",
+  "summary": "Apurahaenkeli 是一个芬兰信息平台，汇总面向艺术家的资助、驻留和公开征集机会。本条信息指向 2026 年 10 月 6 日的资助类别，但未提供具体项目细节、资助方或申请条件。",
+  "funding": {
+   "fully_funded": null,
+   "stipend": null,
+   "accommodation": null,
+   "travel": null
+  },
+  "categories": [
+   "grant",
+   "residency",
+   "open_call"
+  ],
+  "relevance": 45,
+  "priority": "LOW",
+  "first_seen": "2026-11-11",
+  "ai_scored": true
  }
 ]

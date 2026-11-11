@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T10:13:32+00:00",
+ "updated_at": "2026-11-11T10:08:03+00:00",
  "items": [
   {
    "id": "31f1d497e98a1cbe",
@@ -630,31 +630,6 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-09-13",
-   "ai_scored": true
-  },
-  {
-   "id": "e748b7c4ef6091fc",
-   "title": "[News] Africa-Europe Partnerships for Culture: Connect and Create Mentoring Scheme 2027",
-   "organization": "Institut français (Africa–Europe Partnerships for Culture, EU-funded)",
-   "country": "France",
-   "url": "https://on-the-move.org/news/africa-europe-partnerships-culture-connect-and-create-mentoring-scheme-2027",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-09",
-   "summary": "欧盟资助的非洲-欧洲文化伙伴关系项目下的 Connect & Create 导师计划，面向撒哈拉以南非洲表演艺术与音乐行业的早期职业从业者（2-5年经验，从事管理、制作、发行、行政、传播等支持性工作）。2027年1月至12月支持15名参与者，配对非洲或欧洲导师，含季度工作坊和集体沉浸式参访。参与者所属机构可获7500欧元资助，用于运营、发展及技能提升，导师与学员的差旅住宿费用由项目承担。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": false,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "grant",
-    "open_call"
-   ],
-   "relevance": 45,
-   "priority": "LOW",
-   "first_seen": "2026-09-16",
    "ai_scored": true
   },
   {
@@ -5751,6 +5726,545 @@
    "relevance": 55,
    "priority": "LOW",
    "first_seen": "2026-11-06",
+   "ai_scored": true
+  },
+  {
+   "id": "b0db513e25aa588f",
+   "title": "[News] WONDER: Women in Resistance Movements Research Residencies and Exhibition 2027 (Austria, Germany, Italy, Netherlands, Poland)",
+   "organization": "ECCOM, Centro Europeo per l'Organizzazione e il Management Culturale (lead) 及 Frauenmuseum Hittisau、Frauen in der Einen Welt、IAWM、Stichting Herengracht 401、Fundacja Instytut Beatboxu",
+   "country": "奥地利、德国、意大利、荷兰、波兰",
+   "url": "https://on-the-move.org/news/wonder-women-resistance-movements-research-residencies-and-exhibition-2027-austria-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-06",
+   "summary": "WONDER项目聚焦二战欧洲女性在反法西斯抵抗运动及战后民主转型中的贡献，由五国六家文化机构联合开展，为期15个月。项目在奥地利、德国、意大利、荷兰、波兰各支持1名艺术家进行为期4周的社区档案研究与新作创作，成果将于2027年4月起在各场馆展出。面向参与式与社会介入视觉艺术（摄影、影像、数字、声音、小型装置等）。提供3000欧元艺术家费、最高1000欧元制作费，以及差旅、住宿和生活补贴，并配工作室",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "open_call",
+    "digital_media"
+   ],
+   "relevance": 95,
+   "priority": "HIGH",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "79d5e0069482fec2",
+   "title": "[News] ARCHAIVE: Residency on AI and Cultural Memory 2027 (Germany, Italy, Netherlands, Portugal, Spain, Remote)",
+   "organization": "ARCHAIVE",
+   "country": "Germany, Italy, Netherlands, Portugal, Spain",
+   "url": "https://on-the-move.org/news/archaive-residency-ai-and-cultural-memory-2027-germany-italy-netherlands-portugal-spain-remote",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-07",
+   "summary": "ARCHAIVE 面向新兴与中期艺术家征集驻留申请，围绕生成式AI与文化记忆展开批判性实践。五个欧洲合作机构开放1960年代至今的媒体艺术档案，艺术家可研究、实验并创作可公开展示的数字作品。提供策展支持、至少10小时技术指导及档案访问，驻留可线下或混合，无法旅行者可远程。每位入选艺术家获5000欧元创作费，差旅住宿安排待确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "research",
+    "digital_media"
+   ],
+   "relevance": 95,
+   "priority": "HIGH",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "7f9b1d2f39078c09",
+   "title": "[News] Emmanuel College: Artist Residencies in Ceramics, Photography, Printmaking and Social Practice 2027 (USA)",
+   "organization": "Emmanuel College",
+   "country": "USA",
+   "url": "https://on-the-move.org/news/emmanuel-college-artist-residencies-ceramics-photography-printmaking-and-social-practice-2027",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-18",
+   "summary": "Emmanuel College艺术系2027年驻留项目，招募陶瓷、摄影、版画、社会实践四个方向各一位艺术家，为期六周（2027年6月16日至7月28日）。提供1500美元津贴、校园宿舍住宿及共享工作室设施，国际艺术家可申请最高1000美元差旅签证报销，并举办结业展览。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "e0c18e2cfef909c5",
+   "title": "[News] DeVos Institute: Global Executive Arts Management Fellowship 2027–2029 (USA)",
+   "organization": "DeVos Institute",
+   "country": "USA",
+   "url": "https://on-the-move.org/news/devos-institute-global-executive-arts-management-fellowship-2027-2029-usa",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-03",
+   "summary": "DeVos研究所全球高管艺术管理奖学金面向全球艺术、文化、遗产及人文学科非营利机构的高管，提供战略规划、领导力、筹款、营销、董事会治理、人力资源与财务规划培训。项目为期三年，每年7月至8月初在华盛顿特区等地进行四周驻留，期间提供交通、住宿、每日津贴及签证赞助。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "852c9e281498715e",
+   "title": "[News] Sado Island Galaxy Art Festival 2027 (Japan)",
+   "organization": "Sado Island Galaxy Art Festival",
+   "country": "Japan",
+   "url": "https://on-the-move.org/news/sado-island-galaxy-art-festival-2027-japan",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-22",
+   "summary": "日本佐渡岛银河艺术节2027公开征集提案，将整座岛屿作为实验平台，聚焦岛屿多层历史、自然环境、地缘位置、现代转型记忆及气候变化与海洋保护等议题。征集场地特定艺术作品及活动/表演，欢迎驻留型提案。面向所有国籍18岁以上个人或团体，约选4-5个项目，提供最高约200万日元制作补助及住宿安排、本地调研与搭建协调支持。作品须于2027年7月10日前完成。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "residency",
+    "research",
+    "spatial"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "bf0d1b8939bcbbc2",
+   "title": "Recipients of CARA Fellowship 2027–2029",
+   "organization": "CARA",
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788547/recipients-of-cara-fellowship-2027-2029",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "CARA Fellowship 2027–2029 的获得者名单信息，未提供申请细节、资助内容或截止日期，无法确认是否为开放征集的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "87befd2bfc3ba5a9",
+   "title": "Residency open call for artists based in Argentina",
+   "organization": "Gasworks",
+   "country": "United Kingdom",
+   "url": "https://gasworks.org.uk/",
+   "source": "artconnect",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Gasworks驻留项目面向现居阿根廷的艺术家开放申请，提供为期十一周的全额资助驻留，于2027年4月7日至6月22日在伦敦举行。项目由ERA基金会支持、与URRA合作，注重专业发展、文化交流与艺术实验，驻留为自主、非规定性、过程导向，艺术家可开展研究、发展新作、接触城市并建立网络。主办方提供行政、关怀与策展支持。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "research"
+   ],
+   "relevance": 60,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "f6c6a672e57dec1a",
+   "title": "Art Residency – FEBRUARY 2026 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-art-residency-february-2026-colombia_14",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2026年2月艺术驻留机会，面向艺术家开放申请。信息未提供主办机构、资助详情及具体截止日期，需进一步查询确认申请条件与费用安排。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "2c21c1806f1d9e1c",
+   "title": "Art Residency – JANUARY 2027 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-art-residency-january-2027-colombia_1",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2027年1月艺术驻留机会，具体主办机构、资助条件与申请截止日期未在信息中说明，需进一步查阅详情确认是否接受国际艺术家及费用安排。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "543454a9d9d9b64d",
+   "title": "Art Residency – DECEMBER 2026 – Colombia",
+   "organization": null,
+   "country": "Colombia",
+   "url": "https://rivet.es/calls/view/copy-of-art-residency-december-2026-colombia_20",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "哥伦比亚2026年12月艺术驻留项目，面向艺术家开放。信息未提供主办机构、资助详情及申请截止日期，需进一步核实具体条件与申请要求。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "5b2679a5179731b2",
+   "title": "Cassis AIR Artist Residency: Last Shared Dorm Spot",
+   "organization": "Cassis AIR",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-cassis-artist-residency-last-minute-opportunity-2026-autumn-winter",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Cassis AIR 艺术家驻留项目发布最后一个共享宿舍名额的招募信息，面向艺术家开放申请。信息未提供主办国、截止日期及资助细节，需进一步核实项目官网以确认申请条件与费用安排。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "9cbb531ab607e807",
+   "title": "国际驻留项目申请常见问题",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residing/guojizhuliuxiangmushenqingchangjianwenti-2/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为国际驻留项目申请的常见问题说明，未提供具体主办机构、国家、截止日期或资助细节，属于一般性指导内容而非实际艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "d99a30bc8da21ea3",
+   "title": "Announcing The 2026 Boston Awardees",
+   "organization": null,
+   "country": "美国",
+   "url": "https://artadia.org/news/announcing-the-2026-boston-awardees/",
+   "source": "artadia",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅宣布2026年波士顿奖项获奖者名单，未提供申请机会、资格要求、资助内容或截止日期等细节，属于结果公布而非开放征集，无法作为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "32211ea223494a61",
+   "title": "Neljä Lab open call elo-joulukuu 2027 (DL 15.12.) 23.10.2026 Näyttelyhaut",
+   "organization": "Neljä Lab",
+   "country": "Finland",
+   "url": "https://www.artists.fi/index%2Ephp/fi/nelja-lab-open-call-elo-joulukuu-2027-dl-1512",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-12-15",
+   "summary": "Neljä Lab 开放征集 2027 年 8 月至 12 月的项目，申请截止日期为 2026 年 12 月 15 日。该机会面向艺术家与创作者，具体资助与驻留条件未在信息中明确说明，需进一步查阅官方公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call",
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "0dc9b42c59a39f74",
+   "title": "Open Call: Kansainvälinen näyttely Kiinan taidemuseossa 2026-2027 22.10.2026 Näyttelyhaut",
+   "organization": null,
+   "country": "China",
+   "url": "https://www.artists.fi/index%2Ephp/fi/open-call-kansainvalinen-nayttely-kiinan-taidemuseossa-2026-2027",
+   "source": "artists",
+   "region": "overseas",
+   "deadline": "2026-10-22",
+   "summary": "面向国际艺术家开放的中国美术馆展览征集，展期为2026-2027年，申请截止2026年10月22日。信息为芬兰语，未明确说明资助、驻留或费用安排，也未提供主办机构名称，需进一步核实具体条件与申请要求。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "be71e4dce778b3cb",
+   "title": "Fire Station: Artist in Residence",
+   "organization": "Fire Station: Artist in Residence",
+   "country": "卡塔尔",
+   "url": "https://firestation.org.qa/en/",
+   "source": "firestation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "卡塔尔多哈的消防站艺术家驻留项目，为国际艺术家提供工作室空间与创作支持，聚焦当代艺术实践与跨文化交流。具体申请截止日期与资助细节未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "8219894a8fa08ac5",
+   "title": "Introduction to the Exhibition Zanele Muholi – Hasselblad Award 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.hasselbladfoundation.org/en/event/introduction-to-the-exhibition-zanele-muholi-hasselblad-award-2026-4/",
+   "source": "hasselbladfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为展览介绍，介绍2026年哈苏奖得主Zanele Muholi的展览，并非驻留、基金或公开征集机会，无申请信息、截止日期或资助内容。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "de0057efb1fa2e24",
+   "title": "Jornada de Puertas Abiertas en el Centro de Residencias Artísticas Jornada de Puertas Abiertas en el Centro de Residencias Artísticas",
+   "organization": "Centro de Residencias Artísticas",
+   "country": null,
+   "url": "https://www.mataderomadrid.org/programacion/jornada-de-puertas-abiertas-en-el-centro-de-residencias-artisticas",
+   "source": "mataderomadrid",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息为西班牙语艺术驻留中心开放日活动的公告，仅提及活动名称，未提供主办机构详情、申请截止日期、资助条件或参与方式等实质内容，无法判断是否为可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "55cb77a9b012e895",
+   "title": "Artist-in-Residence Gwendolyn Walker",
+   "organization": null,
+   "country": null,
+   "url": "https://neslist.is/artist-in-residence-gwendolyn-walker/",
+   "source": "neslist",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提及“Artist-in-Residence Gwendolyn Walker”，未提供主办机构、国家、截止日期、资助内容或申请要求等任何细节，无法确认是否为真实的驻留机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "ff09b083a7b8ae7c",
+   "title": "Open Calls",
+   "organization": null,
+   "country": null,
+   "url": "https://www.spazioberlendis.it/open-calls/",
+   "source": "spazioberlendis",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Open Calls”字样，未提供主办机构、国家、截止日期或具体项目内容，无法判断资助情况与方向匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "6caaa853b3a2d434",
+   "title": "Berlendis Venice Art Prize 2026 | First Edition Call for artist",
+   "organization": "Berlendis Venice Art Prize",
+   "country": "Italy",
+   "url": "https://www.spazioberlendis.it/berlendis-venice-art-prize-2026-first-edition/",
+   "source": "spazioberlendis",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Berlendis Venice Art Prize 2026首届艺术家公开征集，面向国际艺术家开放，获奖作品将在威尼斯展出。具体资助内容、截止日期及申请细则尚未在信息中明确，需查阅官方公告获取完整要求。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "795278557ddd5d49",
+   "title": "Studio Visit: The Unassuming Chinatown Space Where Zane Li Has Built an Award-Winning Brand",
+   "organization": null,
+   "country": null,
+   "url": "https://www.vogue.com/article/lii-zane-li-studio-visit",
+   "source": "vogue",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息为一篇关于艺术家Zane Li在唐人街空间建立获奖品牌的工作室访问报道，属于媒体专题文章，并非驻留、基金、征集或出版机会，无申请信息、资助说明或截止日期。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-11",
    "ai_scored": true
   }
  ]
