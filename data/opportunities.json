@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T10:08:03+00:00",
+ "updated_at": "2026-11-16T10:27:32+00:00",
  "items": [
   {
    "id": "31f1d497e98a1cbe",
@@ -1671,31 +1671,6 @@
    "ai_scored": true
   },
   {
-   "id": "2ef6d0ba3855d7ae",
-   "title": "[News] Goyki 3 Art Inkubator: 2027 Residency in Visual Art and Literature (Poland)",
-   "organization": "Goyki 3 Art Inkubator",
-   "country": "Poland",
-   "url": "https://on-the-move.org/news/goyki-3-art-inkubator-2027-residency-visual-art-and-literature-poland",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-14",
-   "summary": "波兰索波特的 Goyki 3 艺术孵化器面向当代视觉艺术家与文学专业人士征集 2027 年为期两个月的驻留（春季 4 月 5 日至 6 月 5 日，或秋季 9 月 13 日至 11 月 13 日）。驻留不限定主题与最终成果，鼓励结合索波特城市与孵化器空间的调研型项目，接受艺术家双人组合申请。春季提供免费住宿及每人 2000 兹罗提项目预算；秋季提供最高 10000 兹罗提津贴加 2000 兹罗提项",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": false
-   },
-   "categories": [
-    "residency",
-    "research"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
-   "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
    "id": "3d76aa67314e8ebb",
    "title": "Call for applications: Talents Contemporains 16th edition",
    "organization": "Talents Contemporains",
@@ -2110,31 +2085,6 @@
    ],
    "relevance": 85,
    "priority": "HIGH",
-   "first_seen": "2026-10-06",
-   "ai_scored": true
-  },
-  {
-   "id": "af58b70bcfdaa3aa",
-   "title": "[News] Australian Tapestry Workshop: Hancock Fellowship International Artists Residency 2027 (Australia)",
-   "organization": "Australian Tapestry Workshop",
-   "country": "Australia",
-   "url": "https://on-the-move.org/news/australian-tapestry-workshop-hancock-fellowship-international-artists-residency-2027-australia",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-12",
-   "summary": "澳大利亚挂毯工作坊（墨尔本）面向居住和工作在澳大利亚境外的中期职业纺织艺术家与设计师，提供2027年8月16日至9月11日的Hancock Fellowship国际艺术家驻留。由Tapestry Foundation of Australia资助，含往返墨尔本机票、四周住宿、主画廊个展及1000澳元展览费、工作室空间、材料与技术支持，并有机会参与社区展览与公共项目。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "open_call"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
    "first_seen": "2026-10-06",
    "ai_scored": true
   },
@@ -2607,30 +2557,6 @@
    ],
    "relevance": 55,
    "priority": "LOW",
-   "first_seen": "2026-10-11",
-   "ai_scored": true
-  },
-  {
-   "id": "e1b30b5cb8b0fbcc",
-   "title": "[News] Bunnell Streets Arts Center: Alaska AIR 2027-2028 Artist in Residence (USA)",
-   "organization": "Bunnell Street Arts Center",
-   "country": "USA",
-   "url": "https://on-the-move.org/news/bunnell-streets-arts-center-alaska-air-2027-2028-artist-residence-usa",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-15",
-   "summary": "Bunnell Street Arts Center 的 Alaska AIR 驻留项目面向国际、美国及阿拉斯加艺术家，旨在通过艺术强化 Homer 社区的社会、物质与经济结构。驻留通常为期一个月，安排在2027至2028年的秋冬春季。项目提供2000美元、旅费、住宿及工作室/画廊空间，每年授予1至4个全额资助名额。申请费25美元，可申请减免。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
    "first_seen": "2026-10-11",
    "ai_scored": true
   },
@@ -6265,6 +6191,518 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-11-11",
+   "ai_scored": true
+  },
+  {
+   "id": "296a7820dc2429b7",
+   "title": "[News] Sharjah Art Foundation: Collection Research Fellowship 2027–2029 (UAE, Remote)",
+   "organization": "Sharjah Art Foundation",
+   "country": "UAE",
+   "url": "https://on-the-move.org/news/sharjah-art-foundation-collection-research-fellowship-2027-2029-uae-remote",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "沙迦艺术基金会2027-2029收藏研究奖学金，为期两年，首期聚焦Hassan Sharif工作室与档案。面向研究者、策展人、艺术家、作家、档案员等，需阿拉伯语阅读能力。需产出研究出版物或项目，提供2万迪拉姆津贴、差旅与住宿支持。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "publishing",
+    "residency"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "8c9942bea38a57c7",
+   "title": "[News] Theatertreffen: 2027 International Forum for Theatre Professionals (Germany)",
+   "organization": "Theatertreffen / Berliner Festspiele",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/theatertreffen-2027-international-forum-theatre-professionals-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-26",
+   "summary": "柏林戏剧节（Theatertreffen）2027国际论坛公开征集青年戏剧从业者，活动于2027年5月6日至23日举行。项目包括观摩戏剧节演出、参加工作坊、艺术家对谈、与艺术总监及评审交流、柏林外出观演等，主要在Uferstudios进行。面向约25至35岁、有约五年专业经验的表演艺术各领域从业者。奖学金涵盖演出票、国际旅费、柏林公共交通、住宿、餐饮/每日津贴、旅行与医疗保险及签证费。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "72fd30f363b4e6ec",
+   "title": "[News] Grafenegg Festival: Ink Still Wet Composer Conductor Workshops 2027 (USA, Austria)",
+   "organization": "Grafenegg Festival",
+   "country": "Austria",
+   "url": "https://on-the-move.org/news/grafenegg-festival-ink-still-wet-composer-conductor-workshops-2027-usa-austria",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-25",
+   "summary": "Grafenegg音乐节面向全球作曲家及作曲学生征集2027年Ink Still Wet作曲-指挥工作坊申请，由驻节作曲家Steve Reich指导，David Robertson任指挥教练，Tonkünstler乐团参与。入选者需提交5至7分钟未发表新作，分纽约（2027年4月）与奥地利Grafenegg（2027年8月）两阶段，最终亲自指挥作品世界首演。全额资助含住宿、国际旅费、当地交通与餐食",
+   "funding": {
+    "fully_funded": true,
+    "stipend": null,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "open_call",
+    "residency"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "81c17e8697758fa8",
+   "title": "[News] ARTEMIS: 2027 Academy for Choir Singers from Ukraine, Lithuania, Latvia, Estonia, Poland (Latvia, Lithuania)",
+   "organization": "ARTEMIS Project / On the Move",
+   "country": "Latvia, Lithuania",
+   "url": "https://on-the-move.org/news/artemis-2027-academy-choir-singers-ukraine-lithuania-latvia-estonia-poland-latvia-lithuania",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-04",
+   "summary": "ARTEMIS 2027合唱学院公开征集青年合唱歌手，面向乌克兰、立陶宛、拉脱维亚、爱沙尼亚和波兰35岁以下歌手，招募28人。活动分别在维尔纽斯（2027年2月24日至3月3日）和利耶帕亚（2027年3月28日至4月5日）举办，纪念贝多芬逝世200周年，聚焦凯鲁比尼《安魂曲》及乌克兰、拉脱维亚古典与当代作品，采用历史知情演奏理念。提供住宿及往返差旅费用。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": null,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "2d68bcb56a3d8f66",
+   "title": "[News] TURBA Festival: 2027 Call for South American Performing Artists (Argentina)",
+   "organization": "TURBA Festival (International Performing Arts Festival of Ushuaia)",
+   "country": "Argentina",
+   "url": "https://on-the-move.org/news/turba-festival-2027-call-south-american-performing-artists-argentina",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "阿根廷乌斯怀亚TURBA国际表演艺术节2027年第三届征集南美（除阿根廷外）动态艺术领域艺术家，包括舞蹈、表演及相关实践。将选出两部作品，每部最多两名巡演成员，面向成人观众，时长至少40分钟，可适配剧场及非传统空间。提供往返旅费、最多三晚住宿、餐费补贴及演出费，教学或社区活动另付报酬。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "2627cb49d640e75e",
+   "title": "[News] Royal Drawing School: Don Bachardy Fellowship 2027 (UK)",
+   "organization": "Royal Drawing School",
+   "country": "UK",
+   "url": "https://on-the-move.org/news/royal-drawing-school-don-bachardy-fellowship-2027-uk",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-19",
+   "summary": "皇家绘画学校设立 Don Bachardy 奖学金，面向英国以外、具硕士学历的艺术家，2027年4月26日至7月3日夏季学期驻留十周，每周三天与研究生项目学生共同写生。要求申请者作品体现观察性素描实践，旨在支持新兴艺术家以素描为根基。提供7500美元津贴用于旅费与住宿。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": false,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "grant"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "3339205f9b6d748b",
+   "title": "Exhibitions and commissions 2027–28",
+   "organization": null,
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788538/exhibitions-and-commissions-2027-28",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅提及2027–28年的展览与委任机会，未提供主办机构、国家、截止日期、资助详情或申请条件等具体内容，无法判断其是否为真实的驻留、基金或征集项目。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "d5fdd9246d47f026",
+   "title": "Mladen Miljanović awarded Balkan Contemporary Art Prize 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788620/mladen-miljanovi-awarded-balkan-contemporary-art-prize-2026",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息报道艺术家Mladen Miljanović获得2026年巴尔干当代艺术奖，属于获奖新闻而非开放申请的艺术机会，未提供主办机构、申请截止日期或资助细节。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "9d34076a91d7b48a",
+   "title": "15 commissions for Art Encounters Biennial 2027",
+   "organization": "Art Encounters Biennial",
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788556/15-commissions-for-art-encounters-biennial-2027",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Art Encounters Biennial 2027 公开征集15个委托创作项目，面向艺术家开放申请。具体资助细节、截止日期及举办国家未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "36ae34ed3e898530",
+   "title": "OPEN CALL EY!Studio A.i.R Madrid Spain",
+   "organization": "EY!Studio",
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/copy-of-open-call-ey-studio-a-i-r-madrid-spain",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "EY!Studio 在马德里开放艺术家驻留（A.i.R）征集，面向国际艺术家提供创作空间与交流机会。具体资助、住宿与截止日期未在信息中说明，需查阅官方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 50,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "dccac57ed41d867c",
+   "title": "2027 Bernheim Forest Artist in Residence Program",
+   "organization": "Bernheim Forest",
+   "country": "United States",
+   "url": "https://rivet.es/calls/view/2027-bernheim-forest-artist-in-residence-program",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Bernheim Forest 2027年艺术家驻留计划，面向艺术家提供在森林环境中创作的机会，鼓励与自然、生态和场地相关的创作实践。具体资助细节和截止日期未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "301168173216834d",
+   "title": "Kathmandu International Artist in Residency (KIAR 2027)",
+   "organization": "Kathmandu International Artist in Residency (KIAR)",
+   "country": "Nepal",
+   "url": "https://rivet.es/calls/view/copy-of-kathmandu-international-artist-in-residency-kiar-2027_1",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "KIAR 2027 是位于尼泊尔加德满都的国际艺术家驻留项目，面向全球艺术家开放，提供创作空间与在地交流机会。具体资助内容、申请截止日期及费用结构未在标题信息中说明，需查阅官方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 50,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "230ffaaa99a477df",
+   "title": "Open Call: ENERGY GHOSTS Mensch Maschine VISIT Residency Programme 2027",
+   "organization": "Mensch Maschine VISIT Residency Programme",
+   "country": null,
+   "url": "https://rivet.es/calls/view/open-call-energy-ghosts-mensch-maschine-visit-residency-programme-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Mensch Maschine VISIT 驻留计划 2027 年公开征集，主题为“ENERGY GHOSTS”。该机会面向艺术家征集与能源、技术幽灵性等议题相关的驻留项目提案，具体资助条件、截止日期与国家信息未在标题中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "02e1b48037813632",
+   "title": "International Residency Program — Frequently Asked Questions",
+   "organization": null,
+   "country": null,
+   "url": "https://www.a4artmuseum.com/en/a4-residencyartcenter/residing/qa/",
+   "source": "a4-museum",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息为国际驻留项目的常见问题解答页面，未提供具体主办机构、国家、截止日期或资助细节，无法确认是否为真实可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "39ae671fa2733abd",
+   "title": "A Look Inside the 2026 PhotoBook Awards Shortlist",
+   "organization": null,
+   "country": null,
+   "url": "https://aperture.org/editorial/a-look-inside-the-2026-photobook-awards-shortlist/",
+   "source": "aperture",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "介绍2026年PhotoBook Awards入围短名单的文章，展示摄影书作品，并非可申请的艺术机会，无申请信息、资助或截止日期。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "publishing"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "b01208ee587560ad",
+   "title": "Format27 Young Format Open Call",
+   "organization": "Format27",
+   "country": null,
+   "url": "https://formatfestival.com/news/2026/11/format27-young-format-open-call/",
+   "source": "formatfestival",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Format27 青年 Format 公开征集，面向年轻创作者征集作品，具体资助与截止信息未明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "5b01b53463319e75",
+   "title": "Introduction to the Exhibition Zanele Muholi – Hasselblad Award 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.hasselbladfoundation.org/en/event/introduction-to-the-exhibition-zanele-muholi-hasselblad-award-2026-5/",
+   "source": "hasselbladfoundation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为介绍 Zanele Muholi 荣获2026年哈苏奖的展览预告，未包含任何面向艺术家开放申请的驻留、基金或征集机会，也无申请条件、资助说明或截止日期，因此不构成可申请的艺术机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "33e4fba4ed47ba76",
+   "title": "Curator-in-Residence (2026)",
+   "organization": null,
+   "country": null,
+   "url": "https://nodisciplinelimited.hk/portfolio/curator-in-residence-2026/",
+   "source": "nodisciplinelimited",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提供“Curator-in-Residence (2026)”这一驻留项目名称，未包含主办机构、国家、截止日期、资助条件或申请要求等具体内容，无法确认其真实性与细节。建议获取完整项目说明后再评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "c1082a49266754c6",
+   "title": "LALH-SAH Research Grant Program",
+   "organization": "Library of American Landscape History (LALH) 与 Society of Architectural Historians (SAH)",
+   "country": "美国",
+   "url": "https://sah.org/jobs-opportunities/sah-fellowships-and-grants/lalh-research-grant-program/",
+   "source": "sah",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "LALH-SAH 研究基金项目由美国景观历史图书馆与建筑史学会联合设立，资助关于北美景观设计历史的研究，面向学者与独立研究者，支持档案研究、出版与学术写作。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant",
+    "research",
+    "publishing"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "c5e26c8f36fdf522",
+   "title": "Zendaya Revives a 2000s Golden Gown at the 2026 Governors Awards",
+   "organization": null,
+   "country": null,
+   "url": "https://www.vogue.com/article/zendaya-vintage-2000s-dress-2026-governors-awards",
+   "source": "vogue",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息报道Zendaya在2026年州长奖颁奖礼上重现2000年代金色礼服，属于时尚娱乐新闻，并非艺术驻留、基金、征集或出版机会，与独立出版、媒体考古、数字人文、开源硬件、空间实践或策展研究无关。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "93cb829ac618d270",
+   "title": "Governors Awards 2026: Fashion—All of the Best Looks From the Red Carpet",
+   "organization": null,
+   "country": null,
+   "url": "https://www.vogue.com/slideshow/2026-governors-awards-red-carpet-best-looks",
+   "source": "vogue",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息为2026年州长奖红毯时尚最佳造型的娱乐新闻报道，并非艺术驻留、基金、征集或出版机会，与独立出版、媒体考古、数字人文、开源硬件、空间实践或策展研究均无关联。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-16",
    "ai_scored": true
   }
  ]

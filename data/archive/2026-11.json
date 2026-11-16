@@ -374,5 +374,79 @@
   "priority": "LOW",
   "first_seen": "2026-11-11",
   "ai_scored": true
+ },
+ {
+  "id": "2ef6d0ba3855d7ae",
+  "title": "[News] Goyki 3 Art Inkubator: 2027 Residency in Visual Art and Literature (Poland)",
+  "organization": "Goyki 3 Art Inkubator",
+  "country": "Poland",
+  "url": "https://on-the-move.org/news/goyki-3-art-inkubator-2027-residency-visual-art-and-literature-poland",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-14",
+  "summary": "波兰索波特的 Goyki 3 艺术孵化器面向当代视觉艺术家与文学专业人士征集 2027 年为期两个月的驻留（春季 4 月 5 日至 6 月 5 日，或秋季 9 月 13 日至 11 月 13 日）。驻留不限定主题与最终成果，鼓励结合索波特城市与孵化器空间的调研型项目，接受艺术家双人组合申请。春季提供免费住宿及每人 2000 兹罗提项目预算；秋季提供最高 10000 兹罗提津贴加 2000 兹罗提项",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": false
+  },
+  "categories": [
+   "residency",
+   "research"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-10-01",
+  "ai_scored": true
+ },
+ {
+  "id": "af58b70bcfdaa3aa",
+  "title": "[News] Australian Tapestry Workshop: Hancock Fellowship International Artists Residency 2027 (Australia)",
+  "organization": "Australian Tapestry Workshop",
+  "country": "Australia",
+  "url": "https://on-the-move.org/news/australian-tapestry-workshop-hancock-fellowship-international-artists-residency-2027-australia",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-12",
+  "summary": "澳大利亚挂毯工作坊（墨尔本）面向居住和工作在澳大利亚境外的中期职业纺织艺术家与设计师，提供2027年8月16日至9月11日的Hancock Fellowship国际艺术家驻留。由Tapestry Foundation of Australia资助，含往返墨尔本机票、四周住宿、主画廊个展及1000澳元展览费、工作室空间、材料与技术支持，并有机会参与社区展览与公共项目。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "open_call"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-10-06",
+  "ai_scored": true
+ },
+ {
+  "id": "e1b30b5cb8b0fbcc",
+  "title": "[News] Bunnell Streets Arts Center: Alaska AIR 2027-2028 Artist in Residence (USA)",
+  "organization": "Bunnell Street Arts Center",
+  "country": "USA",
+  "url": "https://on-the-move.org/news/bunnell-streets-arts-center-alaska-air-2027-2028-artist-residence-usa",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-15",
+  "summary": "Bunnell Street Arts Center 的 Alaska AIR 驻留项目面向国际、美国及阿拉斯加艺术家，旨在通过艺术强化 Homer 社区的社会、物质与经济结构。驻留通常为期一个月，安排在2027至2028年的秋冬春季。项目提供2000美元、旅费、住宿及工作室/画廊空间，每年授予1至4个全额资助名额。申请费25美元，可申请减免。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-10-11",
+  "ai_scored": true
  }
 ]
