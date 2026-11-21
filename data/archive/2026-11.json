@@ -448,5 +448,159 @@
   "priority": "MAYBE",
   "first_seen": "2026-10-11",
   "ai_scored": true
+ },
+ {
+  "id": "23c5ce3cae2da435",
+  "title": "[News] Delfina Foundation: Brooks International Fellowship 2027 (UK)",
+  "organization": "Delfina Foundation",
+  "country": "UK",
+  "url": "https://on-the-move.org/news/delfina-foundation-brooks-international-fellowship-2027-uk",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-21",
+  "summary": "Delfina Foundation 与泰特美术馆合作推出 Brooks 国际研究员计划 2027，招募国际研究者于 2027 年 4 月至 9 月在泰特工作六个月。两个方向：墨西哥裔英国艺术家 Leonora Carrington 的戏剧与表演研究，以及支持残障与神经多样性艺术家的支持性工作室研究。提供每日 40 英镑生活津贴、往返经济舱机票、住宿单间、签证费报销及英国境内差旅。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "research"
+  ],
+  "relevance": 85,
+  "priority": "HIGH",
+  "first_seen": "2026-09-21",
+  "ai_scored": true
+ },
+ {
+  "id": "d14d31176704281b",
+  "title": "[News] La Biennale di Venezia: Biennale Danza 2027 Call for Choreographic Creations (Italy)",
+  "organization": "La Biennale di Venezia",
+  "country": "Italy",
+  "url": "https://on-the-move.org/news/la-biennale-di-venezia-biennale-danza-2027-call-choreographic-creations-italy",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-20",
+  "summary": "威尼斯双年展2027舞蹈双年展（由Wayne McGregor策划）面向意大利及国际编舞家和舞团征集两部原创编舞作品，须为未首演的新作。入选项目将获得最高3万欧元制作资助，双年展另承担威尼斯首演的艺术家酬金、编舞者或舞团的差旅住宿费用及技术需求相关开支。",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "open_call",
+   "grant"
+  ],
+  "relevance": 55,
+  "priority": "LOW",
+  "first_seen": "2026-10-01",
+  "ai_scored": true
+ },
+ {
+  "id": "77127392324f0d40",
+  "title": "[News] European Commission: Artist-in-Residence 2027 on ‘Decoding Depression’ (Italy)",
+  "organization": "European Commission (Joint Research Centre)",
+  "country": "Italy",
+  "url": "https://on-the-move.org/news/european-commission-artist-residence-2027-decoding-depression-italy",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-18",
+  "summary": "欧盟委员会联合研究中心（JRC）在意大利Ispra举办2027年艺术家驻留，主题为“解码抑郁”，邀请艺术家从环境视角探讨抑郁这一社会性现象。驻留者将与数字健康部门及欧盟政策实验室的研究者、政策制定者对话，可访问背景资料并参与讨论。创作形式不限，包括研究型、参与式、思辨、数字或物质实践。需在2027年1月至6月间累计驻留至少20天，可能访问布鲁塞尔。总预算15000欧元，涵盖费用、津贴、住宿与差旅。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "research",
+   "digital_media"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-10-01",
+  "ai_scored": true
+ },
+ {
+  "id": "a31e7d11cfb44440",
+  "title": "[News] OASis: KIBLA Residence on Artistic Intelligence Nature and Technology 2026 (Slovenia)",
+  "organization": "Association for Culture and Education KIBLA (ACE KIBLA)",
+  "country": "Slovenia",
+  "url": "https://on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-19",
+  "summary": "斯洛文尼亚 KIBLA 协会面向国际艺术家、研究者与跨学科实践者征集 OASis Maribor 驻留项目（2026年11月19-27日），探索自然、技术与艺术实践的交叉，涉及增强/虚拟/混合现实、人工智能及马里博尔地区自然与文化遗产。申请者须居住于欧盟成员国或 Creative Europe 计划合格国家。支持含1300欧元艺术家费、最高300欧元差旅、住宿、工作室、策展与制作支持。",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "research",
+   "digital_media",
+   "spatial"
+  ],
+  "relevance": 85,
+  "priority": "HIGH",
+  "first_seen": "2026-10-06",
+  "ai_scored": true
+ },
+ {
+  "id": "ff52e09524fe2780",
+  "title": "[News] Maison Ackerman/Abbaye Royale de Fontevraud: Artist Residency 2027 for Immersive Artistic Project (France)",
+  "organization": "Maison Ackerman / Abbaye Royale de Fontevraud",
+  "country": "France",
+  "url": "https://on-the-move.org/news/maison-ackermanabbaye-royale-de-fontevraud-artist-residency-2027-immersive-artistic-project",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-18",
+  "summary": "法国 Maison Ackerman 与 Fontevraud 皇家修道院联合征集2027年艺术家驻留，邀请艺术家在 Ackerman 酒窖（约500米地下石灰岩长廊）创作沉浸式艺术项目，重点支持影像、灯光与声音，探索运动与空间感知，并需创作一幅可用于酒标的插画。驻留自2027年1月中开始，5-6月开幕。提供住宿、创作空间、7000欧元酬金及18000欧元概念与制作费。",
+  "funding": {
+   "fully_funded": false,
+   "stipend": true,
+   "accommodation": true,
+   "travel": null
+  },
+  "categories": [
+   "residency",
+   "digital_media",
+   "spatial"
+  ],
+  "relevance": 75,
+  "priority": "MAYBE",
+  "first_seen": "2026-10-16",
+  "ai_scored": true
+ },
+ {
+  "id": "9dbbb47d47d2224a",
+  "title": "[News] Cité internationale des arts: Trame Residency for French-speaking Artists 2027 (France)",
+  "organization": "Cité internationale des arts",
+  "country": "France",
+  "url": "https://on-the-move.org/news/cite-internationale-des-arts-trame-residency-french-speaking-artists-2027-france",
+  "source": "on-the-move",
+  "region": "overseas",
+  "deadline": "2026-10-18",
+  "summary": "巴黎国际艺术城（Cité internationale des arts）的 Trame 驻留项目面向全球法语艺术家，涵盖策展、视觉艺术、表演、文学、电影、音乐、建筑与设计等学科。每年选出十位获选者，2027年3月3日至5月28日在巴黎进行为期三个月的创作研究。提供工作室公寓、每月1000欧元生活津贴、1000欧元研究制作补助，并承担签证费、旅行保险及往返巴黎交通。",
+  "funding": {
+   "fully_funded": true,
+   "stipend": true,
+   "accommodation": true,
+   "travel": true
+  },
+  "categories": [
+   "residency",
+   "research"
+  ],
+  "relevance": 85,
+  "priority": "HIGH",
+  "first_seen": "2026-10-16",
+  "ai_scored": true
  }
 ]

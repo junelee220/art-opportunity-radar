@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T10:27:32+00:00",
+ "updated_at": "2026-11-21T10:31:25+00:00",
  "items": [
   {
    "id": "31f1d497e98a1cbe",
@@ -827,31 +827,6 @@
    "ai_scored": true
   },
   {
-   "id": "23c5ce3cae2da435",
-   "title": "[News] Delfina Foundation: Brooks International Fellowship 2027 (UK)",
-   "organization": "Delfina Foundation",
-   "country": "UK",
-   "url": "https://on-the-move.org/news/delfina-foundation-brooks-international-fellowship-2027-uk",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-21",
-   "summary": "Delfina Foundation 与泰特美术馆合作推出 Brooks 国际研究员计划 2027，招募国际研究者于 2027 年 4 月至 9 月在泰特工作六个月。两个方向：墨西哥裔英国艺术家 Leonora Carrington 的戏剧与表演研究，以及支持残障与神经多样性艺术家的支持性工作室研究。提供每日 40 英镑生活津贴、往返经济舱机票、住宿单间、签证费报销及英国境内差旅。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research"
-   ],
-   "relevance": 85,
-   "priority": "HIGH",
-   "first_seen": "2026-09-21",
-   "ai_scored": true
-  },
-  {
    "id": "95775ddeb709cd0c",
    "title": "[News] European Media Art Platform Residency Programme 2027",
    "organization": "European Media Art Platform (EMAP)",
@@ -1569,31 +1544,6 @@
    "ai_scored": true
   },
   {
-   "id": "d14d31176704281b",
-   "title": "[News] La Biennale di Venezia: Biennale Danza 2027 Call for Choreographic Creations (Italy)",
-   "organization": "La Biennale di Venezia",
-   "country": "Italy",
-   "url": "https://on-the-move.org/news/la-biennale-di-venezia-biennale-danza-2027-call-choreographic-creations-italy",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-20",
-   "summary": "威尼斯双年展2027舞蹈双年展（由Wayne McGregor策划）面向意大利及国际编舞家和舞团征集两部原创编舞作品，须为未首演的新作。入选项目将获得最高3万欧元制作资助，双年展另承担威尼斯首演的艺术家酬金、编舞者或舞团的差旅住宿费用及技术需求相关开支。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "open_call",
-    "grant"
-   ],
-   "relevance": 55,
-   "priority": "LOW",
-   "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
    "id": "14c1e1409f782a1f",
    "title": "[News] Asymmetry: 2027 Assistant Curator Fellowship Nottingham Contemporary (UK)",
    "organization": "Asymmetry / Nottingham Contemporary",
@@ -1615,32 +1565,6 @@
    ],
    "relevance": 85,
    "priority": "HIGH",
-   "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
-   "id": "77127392324f0d40",
-   "title": "[News] European Commission: Artist-in-Residence 2027 on ‘Decoding Depression’ (Italy)",
-   "organization": "European Commission (Joint Research Centre)",
-   "country": "Italy",
-   "url": "https://on-the-move.org/news/european-commission-artist-residence-2027-decoding-depression-italy",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-18",
-   "summary": "欧盟委员会联合研究中心（JRC）在意大利Ispra举办2027年艺术家驻留，主题为“解码抑郁”，邀请艺术家从环境视角探讨抑郁这一社会性现象。驻留者将与数字健康部门及欧盟政策实验室的研究者、政策制定者对话，可访问背景资料并参与讨论。创作形式不限，包括研究型、参与式、思辨、数字或物质实践。需在2027年1月至6月间累计驻留至少20天，可能访问布鲁塞尔。总预算15000欧元，涵盖费用、津贴、住宿与差旅。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research",
-    "digital_media"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
    "first_seen": "2026-10-01",
    "ai_scored": true
   },
@@ -2033,33 +1957,6 @@
    "relevance": 55,
    "priority": "LOW",
    "first_seen": "2026-10-01",
-   "ai_scored": true
-  },
-  {
-   "id": "a31e7d11cfb44440",
-   "title": "[News] OASis: KIBLA Residence on Artistic Intelligence Nature and Technology 2026 (Slovenia)",
-   "organization": "Association for Culture and Education KIBLA (ACE KIBLA)",
-   "country": "Slovenia",
-   "url": "https://on-the-move.org/news/oasis-kibla-residence-artistic-intelligence-nature-and-technology-2026-slovenia",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-19",
-   "summary": "斯洛文尼亚 KIBLA 协会面向国际艺术家、研究者与跨学科实践者征集 OASis Maribor 驻留项目（2026年11月19-27日），探索自然、技术与艺术实践的交叉，涉及增强/虚拟/混合现实、人工智能及马里博尔地区自然与文化遗产。申请者须居住于欧盟成员国或 Creative Europe 计划合格国家。支持含1300欧元艺术家费、最高300欧元差旅、住宿、工作室、策展与制作支持。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research",
-    "digital_media",
-    "spatial"
-   ],
-   "relevance": 85,
-   "priority": "HIGH",
-   "first_seen": "2026-10-06",
    "ai_scored": true
   },
   {
@@ -3120,57 +3017,6 @@
    ],
    "relevance": 75,
    "priority": "MAYBE",
-   "first_seen": "2026-10-16",
-   "ai_scored": true
-  },
-  {
-   "id": "ff52e09524fe2780",
-   "title": "[News] Maison Ackerman/Abbaye Royale de Fontevraud: Artist Residency 2027 for Immersive Artistic Project (France)",
-   "organization": "Maison Ackerman / Abbaye Royale de Fontevraud",
-   "country": "France",
-   "url": "https://on-the-move.org/news/maison-ackermanabbaye-royale-de-fontevraud-artist-residency-2027-immersive-artistic-project",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-18",
-   "summary": "法国 Maison Ackerman 与 Fontevraud 皇家修道院联合征集2027年艺术家驻留，邀请艺术家在 Ackerman 酒窖（约500米地下石灰岩长廊）创作沉浸式艺术项目，重点支持影像、灯光与声音，探索运动与空间感知，并需创作一幅可用于酒标的插画。驻留自2027年1月中开始，5-6月开幕。提供住宿、创作空间、7000欧元酬金及18000欧元概念与制作费。",
-   "funding": {
-    "fully_funded": false,
-    "stipend": true,
-    "accommodation": true,
-    "travel": null
-   },
-   "categories": [
-    "residency",
-    "digital_media",
-    "spatial"
-   ],
-   "relevance": 75,
-   "priority": "MAYBE",
-   "first_seen": "2026-10-16",
-   "ai_scored": true
-  },
-  {
-   "id": "9dbbb47d47d2224a",
-   "title": "[News] Cité internationale des arts: Trame Residency for French-speaking Artists 2027 (France)",
-   "organization": "Cité internationale des arts",
-   "country": "France",
-   "url": "https://on-the-move.org/news/cite-internationale-des-arts-trame-residency-french-speaking-artists-2027-france",
-   "source": "on-the-move",
-   "region": "overseas",
-   "deadline": "2026-10-18",
-   "summary": "巴黎国际艺术城（Cité internationale des arts）的 Trame 驻留项目面向全球法语艺术家，涵盖策展、视觉艺术、表演、文学、电影、音乐、建筑与设计等学科。每年选出十位获选者，2027年3月3日至5月28日在巴黎进行为期三个月的创作研究。提供工作室公寓、每月1000欧元生活津贴、1000欧元研究制作补助，并承担签证费、旅行保险及往返巴黎交通。",
-   "funding": {
-    "fully_funded": true,
-    "stipend": true,
-    "accommodation": true,
-    "travel": true
-   },
-   "categories": [
-    "residency",
-    "research"
-   ],
-   "relevance": 85,
-   "priority": "HIGH",
    "first_seen": "2026-10-16",
    "ai_scored": true
   },
@@ -6703,6 +6549,670 @@
    "relevance": 0,
    "priority": "LOW",
    "first_seen": "2026-11-16",
+   "ai_scored": true
+  },
+  {
+   "id": "9e46d61d3ccead7d",
+   "title": "[News] E.ON Stiftung: Mensch Maschine VISIT Residency Programme 2027 (Germany, Poland)",
+   "organization": "E.ON Stiftung / JUNGE AKADEMIE (Akademie der Künste) / E-WERK Luckenwalde / Ujazdowski Castle Centre for Contemporary Art",
+   "country": "Germany, Poland",
+   "url": "https://on-the-move.org/news/eon-stiftung-mensch-maschine-visit-residency-programme-2027-germany-poland",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-01",
+   "summary": "2027年Mensch Maschine VISIT驻留计划由E.ON基金会、柏林艺术学院JUNGE AKADEMIE、E-WERK Luckenwalde与华沙Ujazdowski城堡当代艺术中心联合举办，提供4个全额资助名额，面向国内外艺术家。主题聚焦艺术、能源与生态的交汇，尤其关注“人类机器”与“能源幽灵”议题，涵盖视觉艺术、表演、电影、装置、声音、写作与新媒体。入选者获2万欧元资助用于艺术",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "digital_media",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "b67c34565b0855da",
+   "title": "[News] IDENSITAT/Centro Huarte: Transversal Aesthetics 2027 Research and Production Residencies (Spain)",
+   "organization": "Centro Huarte and Idensitat",
+   "country": "Spain",
+   "url": "https://on-the-move.org/news/idensitatcentro-huarte-transversal-aesthetics-2027-research-and-production-residencies-spain",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "Centro Huarte与Idensitat联合征集2027年艺术研究与制作驻留项目，分别在西班牙Huarte和巴塞罗那各选一个项目，围绕Arga河与Besòs河口的本地语境开展场域特定研究。驻留为期6周，可安排在2027年2月至6月间。面向艺术家及艺术团体，西班牙语、加泰罗尼亚语或巴斯克语能力者优先。每个项目获2500欧元费用及最高1500欧元制作费，主办方提供住宿及最高400欧元旅费。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "research",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "fd8d14e4e9f6199d",
+   "title": "[News] Saarland University: Post-Doctorate Fellowship on Reparation 2027/2028 (Germany)",
+   "organization": "Saarland University (Käte Hamburger Centre for Cultural Practices of Reparation, KHK CURE)",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/saarland-university-post-doctorate-fellowship-reparation-20272028-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "德国萨尔大学KHK CURE中心面向国际跨学科学者征集2027/2028年度博士后研究员，主题为“物”（things），关注修复、修补与再利用相关的物件、人工物与物质环境。提供6-12个月资助，含每月至少6100-7200欧元津贴、往返差旅报销及工作空间，住宿可协助安排。申请人须已获博士学位，艺术家研究者与独立学者亦可申请。",
+   "funding": {
+    "fully_funded": true,
+    "stipend": true,
+    "accommodation": false,
+    "travel": true
+   },
+   "categories": [
+    "research",
+    "residency"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "29f759c9b0e95819",
+   "title": "[News] AIR InSILo: 2027 Residency ‘When the Hourless Seeps’ (Austria)",
+   "organization": "AIR InSILo",
+   "country": "Austria",
+   "url": "https://on-the-move.org/news/air-insilo-2027-residency-when-hourless-seeps-austria",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-12-30",
+   "summary": "奥地利AIR InSILo驻留项目公开征集，2027年4月至7月间为期七周，与策展人Ahmad Darkhabani合作，主题为“当无时渗漏”，探讨现实与生命的脆弱性、死亡焦虑、时间剥削、生物政治、身体脆弱性及自我消逝等议题。不限媒介，重视媒介与概念的一致性。提供最高2450欧元酬金、400欧元材料费、400欧元差旅费、175欧元交通费及设施使用、导师辅导和杂志发表。优先考虑在职母亲、边缘化艺术家",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": true
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "research"
+   ],
+   "relevance": 75,
+   "priority": "MAYBE",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "a960d256710d58a7",
+   "title": "[News] Stockholm Fringe Festival 2027 Outdoor Performances (Sweden)",
+   "organization": "Stockholm Fringe Festival",
+   "country": "Sweden",
+   "url": "https://on-the-move.org/news/stockholm-fringe-festival-2027-outdoor-performances-sweden",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2026-11-30",
+   "summary": "斯德哥尔摩边缘艺术节2027年户外演出征集，面向艺术家、团体和集体，招募两个户外舞台的创新作品：2027年8月28-29日大型全年龄户外演出（500人以上，每场2000欧元）及8月30日至9月5日在Sergels torg公共广场的小型行为艺术（每场900欧元）。欢迎舞蹈、当代马戏、肢体剧场、行为艺术及跨学科作品，尤其青睐善用户外环境、远近观众皆可欣赏的作品。演出费可用于差旅。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "c381f27c0f445725",
+   "title": "[News] Ligeti Center: Artists and Scientists in Residence 2027 ‘Where Sound Shapes Space’ (Germany)",
+   "organization": "Ligeti Center",
+   "country": "Germany",
+   "url": "https://on-the-move.org/news/ligeti-center-artists-and-scientists-residence-2027-where-sound-shapes-space-germany",
+   "source": "on-the-move",
+   "region": "overseas",
+   "deadline": "2027-01-10",
+   "summary": "德国汉堡 Ligeti Center 招募 2027 年艺术家与科学家驻留，时间为 2027 年 4 月至 6 月底，围绕四个项目：医院环境疗愈声景、Snappi 无线多声道扬声器系统、声音雕塑、实时 3D 音频效果。提供每月 1200 欧元净额奖学金、住宿、工作空间、制作实验室及技术支持，面向跨学科艺术-科学项目。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": true,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "research",
+    "spatial"
+   ],
+   "relevance": 85,
+   "priority": "HIGH",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "54b6ac8134167d16",
+   "title": "Future Generation Art Prize 2027: shortlisted artists",
+   "organization": "PinchukArtCentre",
+   "country": "Ukraine",
+   "url": "https://www.e-flux.com/announcements/6788583/future-generation-art-prize-2027-shortlisted-artists",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Future Generation Art Prize 2027 公布入围艺术家名单，该奖面向全球35岁以下艺术家，由 PinchukArtCentre 主办，入围者将参与展览并角逐主奖及特别奖。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "7611798720ae28ad",
+   "title": "Grantees 2026",
+   "organization": null,
+   "country": null,
+   "url": "https://www.e-flux.com/announcements/6788490/grantees-2026",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅为“Grantees 2026”，缺乏主办机构、国家、截止日期及资助细节，无法确认是否为真实的驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "39c893a89e6abbed",
+   "title": "MAXXI BVLGARI PRIZE 2026",
+   "organization": "MAXXI",
+   "country": "Italy",
+   "url": "https://www.e-flux.com/announcements/6788537/maxxi-bvlgari-prize-2026",
+   "source": "e-flux",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "MAXXI BVLGARI PRIZE 2026 是意大利 MAXXI 国家当代艺术博物馆与宝格丽合作举办的当代艺术奖项，面向艺术家征集作品，旨在支持当代艺术创作与展览。具体截止日期、资助细节及申请资格未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "435fe0c522ec322b",
+   "title": "Art Print Residency / Winter & Spring- Barcelona 2027 / La Maldita Estampa.",
+   "organization": "La Maldita Estampa",
+   "country": "Spain",
+   "url": "https://rivet.es/calls/view/copy-of-art-print-residency-winter-spring-barcelona-2027-la-maldita-estampa",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "La Maldita Estampa 在巴塞罗那推出2027年冬季与春季版画驻留项目，面向艺术家开放，聚焦版画创作与印刷实践。具体资助、费用与截止日期未在信息中说明，需查阅主办方详情。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "publishing"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "38cbe6cfe94b8283",
+   "title": "Call for Applications 2028",
+   "organization": null,
+   "country": null,
+   "url": "https://rivet.es/calls/view/call-for-applications-2028",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“Call for Applications 2028”字样，缺少主办机构、国家、截止日期、资助条件及机会类型等具体内容，无法判断其是否为真实的驻留、基金或征集机会，也无法评估与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "4492fdd9ef85a0fb",
+   "title": "OPEN CALL - Interview with Al-Tiba9 Art Magazine",
+   "organization": "Al-Tiba9 Art Magazine",
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-open-call-interview-with-al-tiba9-art-magazine",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Al-Tiba9 Art Magazine 发布公开征集，邀请艺术家参与杂志访谈。该机会为媒体发表/访谈性质，面向国际艺术家开放，具体截止日期与资助信息未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "publishing",
+    "digital_media"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "64ef120c851eeaac",
+   "title": "Family Artists Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://rivet.es/calls/view/family-artists-residency",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅提供“Family Artists Residency”名称，未包含主办机构、国家、截止日期、资助内容或申请要求等细节，无法确认是否为真实驻留机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "b7be4eca0669bdc3",
+   "title": "Triangle 2027-2028 Open Call",
+   "organization": "Triangle",
+   "country": null,
+   "url": "https://rivet.es/calls/view/triangle-2027-2028-open-call",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Triangle 发布 2027-2028 年度公开征集，面向艺术家提供驻留或创作机会。具体资助范围、申请资格与截止日期未在标题中说明，需查阅官方公告确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "a4d36037009b46ed",
+   "title": "FALL * $1,800.00 Innovate Grants for Art + Photo",
+   "organization": "Innovate Grants",
+   "country": null,
+   "url": "https://rivet.es/calls/view/fall-1800-00-innovate-grants-for-art-photo_2",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Innovate Grants 提供 1,800 美元的艺术与摄影资助，面向艺术家和摄影师开放申请，属于无附加条件的现金资助机会。",
+   "funding": {
+    "fully_funded": false,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "53f30733b33039e7",
+   "title": "Indigenous Fashion Creation Residency: Embellishments and Accessories",
+   "organization": null,
+   "country": null,
+   "url": "https://rivet.es/calls/view/copy-of-choral-art-festival-2027",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "原住民时尚创作驻留项目，聚焦装饰与配饰设计，面向原住民时尚创作者提供创作与交流机会。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "49a9ccb9020330ff",
+   "title": "ZK/U Berlin Residency Open Call - Deadline: Dec 18, 2026",
+   "organization": "ZK/U Berlin",
+   "country": "Germany",
+   "url": "https://rivet.es/calls/view/zk-u-berlin-residency-open-call-deadline-dec-18-2026",
+   "source": "rivet",
+   "region": "overseas",
+   "deadline": "2026-12-18",
+   "summary": "ZK/U Berlin 发布驻留开放征集，截止日期为2026年12月18日。ZK/U 是位于柏林的艺术与城市研究机构，常关注空间实践、跨学科研究与公共议题。该机会面向艺术家与研究者，具体资助条件、名额与申请要求未在信息中说明，需查阅官方公告确认。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency",
+    "open_call",
+    "spatial",
+    "research"
+   ],
+   "relevance": 55,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "644fd8f4b108aa19",
+   "title": "OPEN CALL: Serve and Protect – Tender Riot Workshop",
+   "organization": null,
+   "country": null,
+   "url": "https://studioalta.cz/program/open-call-direct-action-theatre-workshop",
+   "source": "altart",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "公开征集：Serve and Protect – Tender Riot 工作坊。信息仅含标题，未提供主办机构、国家、截止日期、资助细节或具体内容说明，无法确认是否为真实驻留、基金或征集机会，也无法评估其与独立出版、媒体考古、数字人文等方向的匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "e34f1cc8a00ea163",
+   "title": "Open Call Udstil I Eks Rummet I 2027",
+   "organization": null,
+   "country": "Denmark",
+   "url": "https://bkf.dk/open-call-udstil-i-eks-rummet-i-2027/",
+   "source": "bkf",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "丹麦艺术空间公开征集2027年展览项目提案，面向艺术家征集展览计划，具体资助与截止日期未在标题中说明。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "69e0b4664bcff7c1",
+   "title": "Foreigners win 2026 Orchid Awards",
+   "organization": null,
+   "country": null,
+   "url": "https://www.chinadaily.com.cn/a/202611/21/WS6b0101a7e4b03ebf8519dd40.html",
+   "source": "chinadaily",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅为“Foreigners win 2026 Orchid Awards”的标题式表述，未提供主办机构、国家、截止日期、资助方式或申请条件等实质内容，无法判断其是否为面向艺术家的驻留、基金或征集机会，信息不足以评估。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "4b786404ecc341b0",
+   "title": "Open Call",
+   "organization": null,
+   "country": null,
+   "url": "https://firestation.org.qa/en/calendar/aisp/",
+   "source": "firestation",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "信息仅包含“Open Call”字样，缺少主办机构、国家、截止日期、资助情况与具体方向等细节，无法判断其性质与匹配度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "ee17fac54f0b3625",
+   "title": "El Centro De Residencias Artisticas De Matadero Celebra Una Jornada De Puertas Abiertas 0",
+   "organization": "El Centro De Residencias Artisticas De Matadero",
+   "country": "西班牙",
+   "url": "https://www.mataderomadrid.org/noticias/el-centro-de-residencias-artisticas-de-matadero-celebra-una-jornada-de-puertas-abiertas-0",
+   "source": "mataderomadrid",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "马德里 Matadero 艺术驻留中心举办开放日活动，向公众展示驻留项目与艺术家工作室。信息仅为开放日公告，未提供申请驻留的具体条件、资助内容或截止日期，因此难以评估实际申请价值。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "e72ee63362981b30",
+   "title": "Nysca Nyfa Artist Fellowship",
+   "organization": "New York State Council on the Arts (NYSCA) / New York Foundation for the Arts (NYFA)",
+   "country": "United States",
+   "url": "https://www.nyfa.org/awards-grants/nysca-nyfa-artist-fellowship/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "纽约州艺术委员会与纽约艺术基金会合作的艺术家奖学金项目，面向纽约州艺术家提供无限制资助以支持其创作发展。该项目通常涵盖多个学科类别，包括数字艺术、跨学科实践等，申请者需为纽约州居民。具体截止日期和资助金额需查阅官方最新公告。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": true,
+    "accommodation": false,
+    "travel": false
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 45,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "866b2beb60807170",
+   "title": "The Petrides Residency For A Greek Visual Artist",
+   "organization": "The Petrides Residency",
+   "country": "Greece",
+   "url": "https://www.nyfa.org/awards-grants/the-petrides-residency-for-a-greek-visual-artist/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "面向希腊视觉艺术家的驻留项目，具体资助细节、申请截止日期及国际参与资格未在信息中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "0ab283cdc72bda94",
+   "title": "Apply Now: Rauschenberg Dancer Emergency Grants Cycle 27",
+   "organization": "Rauschenberg Foundation",
+   "country": "United States",
+   "url": "https://www.nyfa.org/event/apply-now-rauschenberg-dancer-emergency-grants-cycle-27/",
+   "source": "nyfa",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "Rauschenberg Dancer Emergency Grants 第27轮申请开放，为职业舞者提供紧急经济援助，用于应对突发医疗、住房或其他紧急状况。该资助面向美国境内符合条件的舞者，申请滚动受理，具体截止日期未在标题中明确。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": true,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "grant"
+   ],
+   "relevance": 40,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "b96e4db87360d1ef",
+   "title": "Ellie Wyatt selected for 2027 Residency",
+   "organization": null,
+   "country": null,
+   "url": "https://thephotographersgallery.org.uk/ellie-wyatt-selected-2027-residency",
+   "source": "thephotographersgallery",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "该信息仅报道艺术家 Ellie Wyatt 入选 2027 年某驻留项目，未提供主办机构、国家、申请截止日期、资助条件或申请方式等细节，属于结果公告而非开放申请的艺术机会，无法据此判断资助与匹配程度。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "residency"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
+   "ai_scored": true
+  },
+  {
+   "id": "11ff5ae8d90def12",
+   "title": "Macy Grimshaw’s Custom Pieces Have Already Charmed Harry Styles and Emma Corrin, Now She’s Won H&M’s Design Award",
+   "organization": null,
+   "country": null,
+   "url": "https://www.vogue.com/article/macy-grimshaws-custom-pieces-have-already-charmed-harry-styles-and-emma-corrin-now-shes-won-handms-design-award",
+   "source": "vogue",
+   "region": "overseas",
+   "deadline": null,
+   "summary": "报道设计师Macy Grimshaw赢得H&M设计奖，其定制作品曾获Harry Styles和Emma Corrin青睐。内容为人物与获奖新闻，未提供驻留、基金、征集、出版或研究等可申请的艺术机会信息，也无截止日期或资助细节。",
+   "funding": {
+    "fully_funded": null,
+    "stipend": null,
+    "accommodation": null,
+    "travel": null
+   },
+   "categories": [
+    "open_call"
+   ],
+   "relevance": 0,
+   "priority": "LOW",
+   "first_seen": "2026-11-21",
    "ai_scored": true
   }
  ]
